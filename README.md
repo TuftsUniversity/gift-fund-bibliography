@@ -12,9 +12,12 @@
 
 **Method:**
 
-- input a table containing all titles in the set of funds needing bibliographies for gift fund letters to donors
-- parse these titles lists per fund to convert them to BibTex (LaTeX for bibliography)&quot;.bib&quot; format
-- use Pybtex and a local system installation of Texworks latex processor, and create a latex file and output to PDF
+- export a list of MMS IDs purchased on gift funds in the last year, and another table correlating the MMS IDs to the gift fund they were purchased with.
+- import this list into an itemized Alma managed set
+- export the set as MARC XML
+- use the included giftFunds.xsl to parse this into a tab-delimited .txt file
+- parseFunds.py takes this .txt file and a CSV exported from &quot;Titles Purchased with Gift Funds - MMS and Fund&quot; to parse out the gift funds
+- it uses Python LaTeX packages as well as a locally installed LaTeX processor which is calls from the command line to output .bib bibliographies as well as a PDF version that can be included in the donor letter.  These PDFs will be stored in the "Output/" directory under a folder for the fund code
 
 **Input:**
 
