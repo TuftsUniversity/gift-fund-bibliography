@@ -1,6 +1,6 @@
-**Author:**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Henry Steele, Library Technology Services, Tufts University
+**Author:**									Henry Steele, Library Technology Services, Tufts University
 
-**Name of Program:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parse Funds
+**Name of Program:**						Parse Funds
 
 **Files:**									parseFunds.py, functions.py
 
@@ -12,16 +12,16 @@
 
 **Method:**
 
-- input a table containing all titles in the set of funds needing letters
+- input a table containing all titles in the set of funds needing bibliographies for gift fund letters to donors
 - parse these titles lists per fund to convert them to BibTex (LaTeX for bibliography)&quot;.bib&quot; format
-- use Pybtex and a local system installation of Texworks latex processor, with ConTeXT, create a latex file and output to PDF
+- use Pybtex and a local system installation of Texworks latex processor, and create a latex file and output to PDF
 
 **Input:**
 
 - a tilde delimited text file containing a list of titles and funds with the following fields, from an exported MARC file from Alma.  This tabular file is created with the XSLT file in this directory &quot;giftFunds.xsl&quot; that takes a MARC XML export from Alma&#39;s Export Bibliographic Records job that was created from a managed set created by the &quot;Titles Purchased with Gift Funds - for Export&quot; at [https://analytics-na01.alma.exlibrisgroup.com/analytics/saw.dll?Answers&amp;path=%2Fshared%2FTufts%20University%2FReports%2FCollections%2FGift%20Funds%2FTitles%20Purchased%20with%20Gift%20Funds%20-%20for%20Export](https://analytics-na01.alma.exlibrisgroup.com/analytics/saw.dll?Answers&amp;path=%2Fshared%2FTufts%20University%2FReports%2FCollections%2FGift%20Funds%2FTitles%20Purchased%20with%20Gift%20Funds%20-%20for%20Export)
 
 - Since fund data isn&#39;t reliably in bib records, this script also takes a Analytics fund report directly, from &quot;Titles Purchased with Gift Funds - MMS and Fund&quot; at [https://analytics-na01.alma.exlibrisgroup.com/analytics/saw.dll?Answers&amp;path=%2Fshared%2FTufts%20University%2FReports%2FCollections%2FGift%20Funds%2FTitles%20Purchased%20with%20Gift%20Funds%20-%20MMS%20and%20Fund](https://analytics-na01.alma.exlibrisgroup.com/analytics/saw.dll?Answers&amp;path=%2Fshared%2FTufts%20University%2FReports%2FCollections%2FGift%20Funds%2FTitles%20Purchased%20with%20Gift%20Funds%20-%20MMS%20and%20Fund)
-- These are the fields needed for each
+- These are the fields needed for each Analytics report
   - &quot;Titles Purchased with Gift Funds - for Export&quot;:
   - MMS Id
   - Main entry Author (MARC 100|a)
@@ -65,7 +65,7 @@
 - Note that if you want Tex Live to take precedence, you have to list it first in the environment path variable.   You can see which program is used to process LaTeX by just typing &quot;latex -version&quot; in the command line You also need to add the &quot;biblatex&quot; and &quot;biblatex-biber&quot; packages through the MikTex admin console.
 
 - Biber allows you more flexibilty with citations such as having both an author and translator or editors in the reference.  These directions are for MikTex but you could also manage this process using Tex Live.  Tufts Libraries want their citations in Chicago style, so you will also need to enable the
-- &quot;biblatex-chicago&quot; pacakage.
+  - &quot;biblatex-chicago&quot; pacakage.
 
 - These directions are for Windows.
 
