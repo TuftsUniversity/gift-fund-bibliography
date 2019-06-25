@@ -1,0 +1,243 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{991017594661303851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=f6bd88c0ebbf549c5dc8aa1643dcb797}{%
+           family={Crosby},
+           familyi={C\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=74429f54aa68649288412c696b7bba21}{%
+           family={DiClemente},
+           familyi={D\bibinitperiod},
+           given={Ralph\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{11bddadaf1672df9900100d53b92a938}
+      \strng{fullhash}{11bddadaf1672df9900100d53b92a938}
+      \strng{bibnamehash}{11bddadaf1672df9900100d53b92a938}
+      \strng{editorbibnamehash}{11bddadaf1672df9900100d53b92a938}
+      \strng{editornamehash}{11bddadaf1672df9900100d53b92a938}
+      \strng{editorfullhash}{11bddadaf1672df9900100d53b92a938}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Structural interventions for HIV prevention :optimizing strategies for reducing new infections and improving care}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017626044403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f7bfa5fa8efffc457bea33aab77cb58e}{%
+           family={Diakov},
+           familyi={D\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f7bfa5fa8efffc457bea33aab77cb58e}
+      \strng{fullhash}{f7bfa5fa8efffc457bea33aab77cb58e}
+      \strng{bibnamehash}{f7bfa5fa8efffc457bea33aab77cb58e}
+      \strng{authorbibnamehash}{f7bfa5fa8efffc457bea33aab77cb58e}
+      \strng{authornamehash}{f7bfa5fa8efffc457bea33aab77cb58e}
+      \strng{authorfullhash}{f7bfa5fa8efffc457bea33aab77cb58e}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discovery of Oyu Tolgoi :a case study of mineral and geological exploration}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017641768203851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=c9a900e51b32ff7cae2951154d4dc224}{%
+           family={Emery},
+           familyi={E\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5cb69d686c763524bb8b84d261860e72}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={Kevin\bibnamedelimb Y.\bibnamedelimi F},
+           giveni={K\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=d19eedb19553ad391205a91dd05ba1de}{%
+           family={McElwee},
+           familyi={M\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{254da076b27e704f514794b01f48d054}
+      \strng{fullhash}{1218df1a37d1b8eb2778d5816b9d852d}
+      \strng{bibnamehash}{1218df1a37d1b8eb2778d5816b9d852d}
+      \strng{editorbibnamehash}{1218df1a37d1b8eb2778d5816b9d852d}
+      \strng{editornamehash}{254da076b27e704f514794b01f48d054}
+      \strng{editorfullhash}{1218df1a37d1b8eb2778d5816b9d852d}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Applying the socio-cognitive framework to the BioMedical Admissions Test (BMAT):insights from language assessment}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017594661703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1708cce393911dbe1311c146d33a3cdb}{%
+           family={Impey},
+           familyi={I\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {W.W. Norton \& Company, Inc.}%
+      }
+      \strng{namehash}{1708cce393911dbe1311c146d33a3cdb}
+      \strng{fullhash}{1708cce393911dbe1311c146d33a3cdb}
+      \strng{bibnamehash}{1708cce393911dbe1311c146d33a3cdb}
+      \strng{authorbibnamehash}{1708cce393911dbe1311c146d33a3cdb}
+      \strng{authornamehash}{1708cce393911dbe1311c146d33a3cdb}
+      \strng{authorfullhash}{1708cce393911dbe1311c146d33a3cdb}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Einstein's monsters :the life and times of black holes}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017594661403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1338fbef0f7f49fbce23a872d65d68bc}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Victor\bibnamedelima S.},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Baltimore, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{1338fbef0f7f49fbce23a872d65d68bc}
+      \strng{fullhash}{1338fbef0f7f49fbce23a872d65d68bc}
+      \strng{bibnamehash}{1338fbef0f7f49fbce23a872d65d68bc}
+      \strng{authorbibnamehash}{1338fbef0f7f49fbce23a872d65d68bc}
+      \strng{authornamehash}{1338fbef0f7f49fbce23a872d65d68bc}
+      \strng{authorfullhash}{1338fbef0f7f49fbce23a872d65d68bc}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Shifting baselines in the Chesapeake Bay :an environmental history}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017594661603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6f8a446b41a225346d80cc07b8f6f3d3}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={William\bibnamedelima R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton, New Jersey}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{6f8a446b41a225346d80cc07b8f6f3d3}
+      \strng{fullhash}{6f8a446b41a225346d80cc07b8f6f3d3}
+      \strng{bibnamehash}{6f8a446b41a225346d80cc07b8f6f3d3}
+      \strng{authorbibnamehash}{6f8a446b41a225346d80cc07b8f6f3d3}
+      \strng{authornamehash}{6f8a446b41a225346d80cc07b8f6f3d3}
+      \strng{authorfullhash}{6f8a446b41a225346d80cc07b8f6f3d3}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Newton the alchemist :science, enigma, and the quest for nature's "secret fire"}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017641766903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=43cab20c9f65583adc1dbf211622fb06}{%
+           family={Werrett},
+           familyi={W\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{43cab20c9f65583adc1dbf211622fb06}
+      \strng{fullhash}{43cab20c9f65583adc1dbf211622fb06}
+      \strng{bibnamehash}{43cab20c9f65583adc1dbf211622fb06}
+      \strng{authorbibnamehash}{43cab20c9f65583adc1dbf211622fb06}
+      \strng{authornamehash}{43cab20c9f65583adc1dbf211622fb06}
+      \strng{authorfullhash}{43cab20c9f65583adc1dbf211622fb06}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thrifty science :making the most of materials in the history of experiment}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

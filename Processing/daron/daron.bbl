@@ -1,0 +1,184 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{991017619442303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=27d7524e64bdac3679f8c21200b18b97}{%
+           family={Froeschlin},
+           familyi={F\bibinitperiod},
+           given={Eckhard},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Scheer}%
+      }
+      \list{publisher}{1}{%
+        {Edition Schwarze Seite}%
+      }
+      \strng{namehash}{27d7524e64bdac3679f8c21200b18b97}
+      \strng{fullhash}{27d7524e64bdac3679f8c21200b18b97}
+      \strng{bibnamehash}{27d7524e64bdac3679f8c21200b18b97}
+      \strng{authorbibnamehash}{27d7524e64bdac3679f8c21200b18b97}
+      \strng{authornamehash}{27d7524e64bdac3679f8c21200b18b97}
+      \strng{authorfullhash}{27d7524e64bdac3679f8c21200b18b97}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Home is where I am}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{991017619442203851}{book}{}
+      \list{location}{1}{%
+        {Matagalpa, Nicaragua}%
+      }
+      \list{publisher}{1}{%
+        {Danilo Rivera}%
+      }
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labeltitlesource}{title}
+      \field{title}{Leyendas nicaragüenses}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017619942503851}{book}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labeltitlesource}{title}
+      \field{title}{Mas poemas.}
+      \true{nocite}
+    \endentry
+    \entry{991017593249103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=38709fc8035cd38816f16e56ccec6dba}{%
+           family={Ngo},
+           familyi={N\bibinitperiod},
+           given={Huong},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{38709fc8035cd38816f16e56ccec6dba}
+      \strng{fullhash}{38709fc8035cd38816f16e56ccec6dba}
+      \strng{bibnamehash}{38709fc8035cd38816f16e56ccec6dba}
+      \strng{authorbibnamehash}{38709fc8035cd38816f16e56ccec6dba}
+      \strng{authornamehash}{38709fc8035cd38816f16e56ccec6dba}
+      \strng{authorfullhash}{38709fc8035cd38816f16e56ccec6dba}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reap the whirlwind}
+      \true{nocite}
+    \endentry
+    \entry{991017619542103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d4bafa52694c86529492a3f4d7756c30}{%
+           family={Poe},
+           familyi={P\bibinitperiod},
+           given={Edgar\bibnamedelima Allan},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Scheer}%
+      }
+      \list{publisher}{1}{%
+        {Edition Schwarze Seite}%
+      }
+      \strng{namehash}{d4bafa52694c86529492a3f4d7756c30}
+      \strng{fullhash}{d4bafa52694c86529492a3f4d7756c30}
+      \strng{bibnamehash}{d4bafa52694c86529492a3f4d7756c30}
+      \strng{authorbibnamehash}{d4bafa52694c86529492a3f4d7756c30}
+      \strng{authornamehash}{d4bafa52694c86529492a3f4d7756c30}
+      \strng{authorfullhash}{d4bafa52694c86529492a3f4d7756c30}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Raven/}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017619542503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5c5d14d02639ecb459048f34bf9ee1b9}{%
+           family={Pupiro},
+           familyi={P\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {[Matagalpa, Nicaragua]}%
+      }
+      \list{publisher}{1}{%
+        {[publisher not identified]}%
+      }
+      \strng{namehash}{5c5d14d02639ecb459048f34bf9ee1b9}
+      \strng{fullhash}{5c5d14d02639ecb459048f34bf9ee1b9}
+      \strng{bibnamehash}{5c5d14d02639ecb459048f34bf9ee1b9}
+      \strng{authorbibnamehash}{5c5d14d02639ecb459048f34bf9ee1b9}
+      \strng{authornamehash}{5c5d14d02639ecb459048f34bf9ee1b9}
+      \strng{authorfullhash}{5c5d14d02639ecb459048f34bf9ee1b9}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La carreta nagua.}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017619542303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a1c54e91ae34242c1e41283bf66a6438}{%
+           family={Twain},
+           familyi={T\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Scheer}%
+      }
+      \list{publisher}{1}{%
+        {Edition Schwarze Seite}%
+      }
+      \strng{namehash}{a1c54e91ae34242c1e41283bf66a6438}
+      \strng{fullhash}{a1c54e91ae34242c1e41283bf66a6438}
+      \strng{bibnamehash}{a1c54e91ae34242c1e41283bf66a6438}
+      \strng{authorbibnamehash}{a1c54e91ae34242c1e41283bf66a6438}
+      \strng{authornamehash}{a1c54e91ae34242c1e41283bf66a6438}
+      \strng{authorfullhash}{a1c54e91ae34242c1e41283bf66a6438}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The awful German language, in excerpts}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

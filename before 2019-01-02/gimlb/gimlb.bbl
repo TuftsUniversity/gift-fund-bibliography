@@ -1,0 +1,236 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{991017391848803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ca1903aa359e2011b06b44f15dfc99f9}{%
+           family={Fox-Godden},
+           familyi={F\bibinithyphendelim G\bibinitperiod},
+           given={Aimée},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{ca1903aa359e2011b06b44f15dfc99f9}
+      \strng{fullhash}{ca1903aa359e2011b06b44f15dfc99f9}
+      \strng{bibnamehash}{ca1903aa359e2011b06b44f15dfc99f9}
+      \strng{authorbibnamehash}{ca1903aa359e2011b06b44f15dfc99f9}
+      \strng{authornamehash}{ca1903aa359e2011b06b44f15dfc99f9}
+      \strng{authorfullhash}{ca1903aa359e2011b06b44f15dfc99f9}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Learning to fight :military innovation and change in the British Army, 1914-1918}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017319949603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=99d62295587ea87bcb2b7f8269cfcb1e}{%
+           family={Giustozzi},
+           familyi={G\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {C. Hurst \& Co. (Publishers) Ltd.}%
+      }
+      \strng{namehash}{99d62295587ea87bcb2b7f8269cfcb1e}
+      \strng{fullhash}{99d62295587ea87bcb2b7f8269cfcb1e}
+      \strng{bibnamehash}{99d62295587ea87bcb2b7f8269cfcb1e}
+      \strng{authorbibnamehash}{99d62295587ea87bcb2b7f8269cfcb1e}
+      \strng{authornamehash}{99d62295587ea87bcb2b7f8269cfcb1e}
+      \strng{authorfullhash}{99d62295587ea87bcb2b7f8269cfcb1e}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Missionaries of modernity :advisory missions and the struggle for hegemony in Afghanistan and beyond}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991017391848903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=972f8e8058d3817d62cc3cf50f5c209a}{%
+           family={Jeziorny},
+           familyi={J\bibinitperiod},
+           given={Dariusz},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=2fd17449b430971b2245b16d95d494f9}{%
+           family={Gucio},
+           familyi={G\bibinitperiod},
+           given={Katarzyna},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart, Germany}%
+      }
+      \list{publisher}{1}{%
+        {ibidem-Verlag/ibidem Press}%
+      }
+      \strng{namehash}{972f8e8058d3817d62cc3cf50f5c209a}
+      \strng{fullhash}{972f8e8058d3817d62cc3cf50f5c209a}
+      \strng{bibnamehash}{972f8e8058d3817d62cc3cf50f5c209a}
+      \strng{authorbibnamehash}{972f8e8058d3817d62cc3cf50f5c209a}
+      \strng{authornamehash}{972f8e8058d3817d62cc3cf50f5c209a}
+      \strng{authorfullhash}{972f8e8058d3817d62cc3cf50f5c209a}
+      \strng{translatorbibnamehash}{2fd17449b430971b2245b16d95d494f9}
+      \strng{translatornamehash}{2fd17449b430971b2245b16d95d494f9}
+      \strng{translatorfullhash}{2fd17449b430971b2245b16d95d494f9}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{British diplomacy and the concept of the Eastern Pact (1933-1935) :analyses, projects, activities}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017562448603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=90888d8bb0a507d2acbdfd44bea5598a}{%
+           family={KRASNYAK},
+           familyi={K\bibinitperiod},
+           given={OLGA},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{90888d8bb0a507d2acbdfd44bea5598a}
+      \strng{fullhash}{90888d8bb0a507d2acbdfd44bea5598a}
+      \strng{bibnamehash}{90888d8bb0a507d2acbdfd44bea5598a}
+      \strng{authorbibnamehash}{90888d8bb0a507d2acbdfd44bea5598a}
+      \strng{authornamehash}{90888d8bb0a507d2acbdfd44bea5598a}
+      \strng{authorfullhash}{90888d8bb0a507d2acbdfd44bea5598a}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NATIONAL STYLES IN SCIENCE, DIPLOMACY, AND SCIENCE DIPLOMACY: A CASE STUDY OF THE UNITED NATIONS...}
+      \true{nocite}
+    \endentry
+    \entry{991017310442503851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=88960036fd02252b443757c82a447c6d}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Iver\bibnamedelima B.},
+           giveni={I\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=48499364c3360e9a303f390b0f6a9ea0}{%
+           family={Leira},
+           familyi={L\bibinitperiod},
+           given={Halvard},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{0369b1c2a7bdb6a1e424db710f6dd22f}
+      \strng{fullhash}{0369b1c2a7bdb6a1e424db710f6dd22f}
+      \strng{bibnamehash}{0369b1c2a7bdb6a1e424db710f6dd22f}
+      \strng{editorbibnamehash}{0369b1c2a7bdb6a1e424db710f6dd22f}
+      \strng{editornamehash}{0369b1c2a7bdb6a1e424db710f6dd22f}
+      \strng{editorfullhash}{0369b1c2a7bdb6a1e424db710f6dd22f}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{International diplomacy}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{991004247309703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=85d240e4880362dfdb6f31eaf2d5dd2f}{%
+           family={Sinclair},
+           familyi={S\bibinitperiod},
+           given={Alison},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Woodbridge}%
+      }
+      \list{publisher}{1}{%
+        {Tamesis}%
+      }
+      \strng{namehash}{85d240e4880362dfdb6f31eaf2d5dd2f}
+      \strng{fullhash}{85d240e4880362dfdb6f31eaf2d5dd2f}
+      \strng{bibnamehash}{85d240e4880362dfdb6f31eaf2d5dd2f}
+      \strng{authorbibnamehash}{85d240e4880362dfdb6f31eaf2d5dd2f}
+      \strng{authornamehash}{85d240e4880362dfdb6f31eaf2d5dd2f}
+      \strng{authorfullhash}{85d240e4880362dfdb6f31eaf2d5dd2f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Trafficking knowledge in early twentieth-century Spain :centres of exchange and cultural imaginaries}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{991017555649803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6bf3c4e6174a59e4f4e2d34a702504cb}{%
+           family={Walsh},
+           familyi={W\bibinitperiod},
+           given={Sinead},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Zed Books}%
+      }
+      \strng{namehash}{6bf3c4e6174a59e4f4e2d34a702504cb}
+      \strng{fullhash}{6bf3c4e6174a59e4f4e2d34a702504cb}
+      \strng{bibnamehash}{6bf3c4e6174a59e4f4e2d34a702504cb}
+      \strng{authorbibnamehash}{6bf3c4e6174a59e4f4e2d34a702504cb}
+      \strng{authornamehash}{6bf3c4e6174a59e4f4e2d34a702504cb}
+      \strng{authorfullhash}{6bf3c4e6174a59e4f4e2d34a702504cb}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Getting to zero :a doctor and a diplomat on the Ebola frontline}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

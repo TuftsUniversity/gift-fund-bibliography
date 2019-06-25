@@ -1,0 +1,16 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'daron.blg'
+[61] biber-MSWIN64:315> INFO - === 
+[157] Biber.pm:371> INFO - Reading 'daron.bcf'
+[309] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[330] Biber.pm:4093> INFO - Processing section 0
+[399] Biber.pm:4254> INFO - Looking for bibtex format file 'daron.bib' for section 0
+[417] bibtex.pm:1523> INFO - LaTeX decoding ...
+[436] bibtex.pm:1340> INFO - Found BibTeX data source 'daron.bib'
+[502] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[503] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[505] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[507] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[508] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[515] bbl.pm:636> INFO - Writing 'daron.bbl' with encoding 'UTF-8'
+[518] bbl.pm:739> INFO - Output to daron.bbl

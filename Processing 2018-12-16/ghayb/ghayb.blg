@@ -1,0 +1,41 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[2] Config.pm:307> INFO - Logfile is 'ghayb.blg'
+[57] biber-MSWIN64:315> INFO - === 
+[119] Biber.pm:371> INFO - Reading 'ghayb.bcf'
+[293] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[313] Biber.pm:4093> INFO - Processing section 0
+[336] Biber.pm:4254> INFO - Looking for bibtex format file 'ghayb.bib' for section 0
+[354] bibtex.pm:1523> INFO - LaTeX decoding ...
+[444] bibtex.pm:1340> INFO - Found BibTeX data source 'ghayb.bib'
+[468] Utils.pm:193> WARN - year field '[2018]' in entry '991017434548703851' is not an integer - this will probably not sort properly.
+[480] Utils.pm:193> WARN - Name "Nishino, Rumiko and Kim, Pu-ja and Onozawa, Akane" has too many commas: skipping name
+[485] Utils.pm:193> WARN - Name "Overland, Gwynyth Jones and Andersen, Arnfinn J. and Førde, Kristin Engh and Grødum, Kjetil and Salomonsen, Joseph" has too many commas: skipping name
+[492] Utils.pm:193> WARN - year field '[2018]' in entry '991017434547803851' is not an integer - this will probably not sort properly.
+[498] Utils.pm:193> WARN - year field '[2016]' in entry '991017434547103851' is not an integer - this will probably not sort properly.
+[503] Utils.pm:193> WARN - year field '[2014]' in entry '991017261548203851' is not an integer - this will probably not sort properly.
+[508] Utils.pm:193> WARN - year field '[2018]' in entry '991017542347403851' is not an integer - this will probably not sort properly.
+[514] Utils.pm:193> WARN - year field '[2017]' in entry '991017542349703851' is not an integer - this will probably not sort properly.
+[527] Utils.pm:193> WARN - year field '[2016]' in entry '991017434548603851' is not an integer - this will probably not sort properly.
+[549] Utils.pm:193> WARN - year field '[2016]' in entry '991001260129703851' is not an integer - this will probably not sort properly.
+[576] Utils.pm:193> WARN - year field '[2018]' in entry '991017542348603851' is not an integer - this will probably not sort properly.
+[609] Utils.pm:193> WARN - year field '[2019]' in entry '991017542348303851' is not an integer - this will probably not sort properly.
+[617] Utils.pm:193> WARN - Name "Pillay, Kathryn and Farqaharson, Karen and Essed, Philomena and White, Elisa Joy" has too many commas: skipping name
+[619] Utils.pm:193> WARN - year field '[2019]' in entry '991017555642903851' is not an integer - this will probably not sort properly.
+[624] Utils.pm:193> WARN - year field '[2012]' in entry '991017560538603851' is not an integer - this will probably not sort properly.
+[635] Utils.pm:193> WARN - year field '[2016]' in entry '991017388548603851' is not an integer - this will probably not sort properly.
+[641] Utils.pm:193> WARN - year field '[2016]' in entry '991017434549503851' is not an integer - this will probably not sort properly.
+[659] Utils.pm:193> WARN - year field '[2018]' in entry '991017434549003851' is not an integer - this will probably not sort properly.
+[665] Utils.pm:193> WARN - year field '[2017]' in entry '991017434546003851' is not an integer - this will probably not sort properly.
+[673] Utils.pm:193> WARN - year field '[2018]' in entry '991017490149703851' is not an integer - this will probably not sort properly.
+[691] Utils.pm:193> WARN - year field '[2017]' in entry '991017434547703851' is not an integer - this will probably not sort properly.
+[704] Utils.pm:193> WARN - year field '[2018]' in entry '991017434549603851' is not an integer - this will probably not sort properly.
+[716] Utils.pm:193> WARN - year field '[2018]' in entry '991017434549403851' is not an integer - this will probably not sort properly.
+[722] Utils.pm:193> WARN - Name "Vanoverbeke, Dimitri and Suami, Takao and Ueta, Takako and Peeters, Nicholas and Ponjaert, Frederik" has too many commas: skipping name
+[813] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[814] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[815] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[816] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[818] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[879] bbl.pm:636> INFO - Writing 'ghayb.bbl' with encoding 'UTF-8'
+[903] bbl.pm:739> INFO - Output to ghayb.bbl
+[911] Biber.pm:110> INFO - WARNINGS: 24

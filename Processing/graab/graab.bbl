@@ -1,0 +1,645 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{991017327045503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=564d98cf3c04ccd243aad77ad9b55d5f}{%
+           family={Arakelyan},
+           familyi={A\bibinitperiod},
+           given={Lilia\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abingdon, Oxon}%
+      }
+      \list{publisher}{1}{%
+        {Routledge, an imprint of the Taylor \& Francis Group}%
+      }
+      \strng{namehash}{564d98cf3c04ccd243aad77ad9b55d5f}
+      \strng{fullhash}{564d98cf3c04ccd243aad77ad9b55d5f}
+      \strng{bibnamehash}{564d98cf3c04ccd243aad77ad9b55d5f}
+      \strng{authorbibnamehash}{564d98cf3c04ccd243aad77ad9b55d5f}
+      \strng{authornamehash}{564d98cf3c04ccd243aad77ad9b55d5f}
+      \strng{authorfullhash}{564d98cf3c04ccd243aad77ad9b55d5f}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Russian foreign policy in Eurasia :national interests and regional integration}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991005935999703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=eb963c1731cf870b94450df5798926ce}{%
+           family={Bank},
+           familyi={B\bibinitperiod},
+           given={World},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C.}%
+      }
+      \list{publisher}{1}{%
+        {World Bank}%
+      }
+      \strng{namehash}{eb963c1731cf870b94450df5798926ce}
+      \strng{fullhash}{eb963c1731cf870b94450df5798926ce}
+      \strng{bibnamehash}{eb963c1731cf870b94450df5798926ce}
+      \strng{authorbibnamehash}{eb963c1731cf870b94450df5798926ce}
+      \strng{authornamehash}{eb963c1731cf870b94450df5798926ce}
+      \strng{authorfullhash}{eb963c1731cf870b94450df5798926ce}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lights out? :the outlook for energy in Eastern Europe and the former Soviet Union.}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{991017326042503851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=da6cce605f3270aca12fe083ca22f2b4}{%
+           family={Bassin},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6cb3c1c1a59396d06f3b041365db466e}{%
+           family={Suslov},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lanham, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {Lexington Books}%
+      }
+      \strng{namehash}{d8bf00f0124e86bc0671204244af4e09}
+      \strng{fullhash}{d8bf00f0124e86bc0671204244af4e09}
+      \strng{bibnamehash}{d8bf00f0124e86bc0671204244af4e09}
+      \strng{editorbibnamehash}{d8bf00f0124e86bc0671204244af4e09}
+      \strng{editornamehash}{d8bf00f0124e86bc0671204244af4e09}
+      \strng{editorfullhash}{d8bf00f0124e86bc0671204244af4e09}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Eurasia 2.0 :Russian geopolitics in the age of new media}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991017326339403851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=4004a7ebdb896d17611e32ffd4427876}{%
+           family={Besier},
+           familyi={B\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+        {{hash=fe60790ec132ca9ddcdd8db3a789b29f}{%
+           family={Stokłosa},
+           familyi={S\bibinitperiod},
+           given={Katarzyna},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge/Taylor \& Francis Group}%
+      }
+      \strng{namehash}{3230b5ae959764536c16d572e518246e}
+      \strng{fullhash}{3230b5ae959764536c16d572e518246e}
+      \strng{bibnamehash}{3230b5ae959764536c16d572e518246e}
+      \strng{editorbibnamehash}{3230b5ae959764536c16d572e518246e}
+      \strng{editornamehash}{3230b5ae959764536c16d572e518246e}
+      \strng{editorfullhash}{3230b5ae959764536c16d572e518246e}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Neighbourhood perceptions of the Ukraine crisis :from the Soviet Union into Eurasia?}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017326042603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=49590e488c0d469dd9813a03dd666d40}{%
+           family={Carrier},
+           familyi={C\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lanham, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {Lexington Books}%
+      }
+      \strng{namehash}{49590e488c0d469dd9813a03dd666d40}
+      \strng{fullhash}{49590e488c0d469dd9813a03dd666d40}
+      \strng{bibnamehash}{49590e488c0d469dd9813a03dd666d40}
+      \strng{authorbibnamehash}{49590e488c0d469dd9813a03dd666d40}
+      \strng{authornamehash}{49590e488c0d469dd9813a03dd666d40}
+      \strng{authorfullhash}{49590e488c0d469dd9813a03dd666d40}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Executive politics in semi-presidential regimes :power distribution and conflicts between presidents and prime ministers}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991017326042403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4b4f28348518032787a4910cc5454d33}{%
+           family={Coene},
+           familyi={C\bibinitperiod},
+           given={Frederik},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abingdon, Oxon}%
+      }
+      \list{publisher}{1}{%
+        {Ashgate Publishing}%
+      }
+      \strng{namehash}{4b4f28348518032787a4910cc5454d33}
+      \strng{fullhash}{4b4f28348518032787a4910cc5454d33}
+      \strng{bibnamehash}{4b4f28348518032787a4910cc5454d33}
+      \strng{authorbibnamehash}{4b4f28348518032787a4910cc5454d33}
+      \strng{authornamehash}{4b4f28348518032787a4910cc5454d33}
+      \strng{authorfullhash}{4b4f28348518032787a4910cc5454d33}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Euro-Atlantic discourse in Georgia :the making of Georgian foreign and domestic policy after the Rose Revolution}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991005994319703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a3fcb1a83e78a2667a077dd2eb20cfc2}{%
+           family={Frye},
+           familyi={F\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a3fcb1a83e78a2667a077dd2eb20cfc2}
+      \strng{fullhash}{a3fcb1a83e78a2667a077dd2eb20cfc2}
+      \strng{bibnamehash}{a3fcb1a83e78a2667a077dd2eb20cfc2}
+      \strng{authorbibnamehash}{a3fcb1a83e78a2667a077dd2eb20cfc2}
+      \strng{authornamehash}{a3fcb1a83e78a2667a077dd2eb20cfc2}
+      \strng{authorfullhash}{a3fcb1a83e78a2667a077dd2eb20cfc2}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Building states and markets after communism :the perils of polarized democracy}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{991005995369703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8103a0d7d27124d8e3646cb545aa8f4c}{%
+           family={Gahrton},
+           familyi={G\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Pluto Press}%
+      }
+      \strng{namehash}{8103a0d7d27124d8e3646cb545aa8f4c}
+      \strng{fullhash}{8103a0d7d27124d8e3646cb545aa8f4c}
+      \strng{bibnamehash}{8103a0d7d27124d8e3646cb545aa8f4c}
+      \strng{authorbibnamehash}{8103a0d7d27124d8e3646cb545aa8f4c}
+      \strng{authornamehash}{8103a0d7d27124d8e3646cb545aa8f4c}
+      \strng{authorfullhash}{8103a0d7d27124d8e3646cb545aa8f4c}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Georgia :pawn in the new great game}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{991005994729703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f7f155414dc1c0523c7b99c43c4c179e}{%
+           family={Gdaniec},
+           familyi={G\bibinitperiod},
+           given={Cordula},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Berghahn Books}%
+      }
+      \strng{namehash}{f7f155414dc1c0523c7b99c43c4c179e}
+      \strng{fullhash}{f7f155414dc1c0523c7b99c43c4c179e}
+      \strng{bibnamehash}{f7f155414dc1c0523c7b99c43c4c179e}
+      \strng{authorbibnamehash}{f7f155414dc1c0523c7b99c43c4c179e}
+      \strng{authornamehash}{f7f155414dc1c0523c7b99c43c4c179e}
+      \strng{authorfullhash}{f7f155414dc1c0523c7b99c43c4c179e}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cultural diversity in Russian cities :the urban landscape in the post-Soviet era}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{991002374909703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5a20bd62cc5a8e2eb2de5f5d2548b193}{%
+           family={Honig},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Pegasus Books}%
+      }
+      \strng{namehash}{5a20bd62cc5a8e2eb2de5f5d2548b193}
+      \strng{fullhash}{5a20bd62cc5a8e2eb2de5f5d2548b193}
+      \strng{bibnamehash}{5a20bd62cc5a8e2eb2de5f5d2548b193}
+      \strng{authorbibnamehash}{5a20bd62cc5a8e2eb2de5f5d2548b193}
+      \strng{authornamehash}{5a20bd62cc5a8e2eb2de5f5d2548b193}
+      \strng{authorfullhash}{5a20bd62cc5a8e2eb2de5f5d2548b193}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The senility of Vladimir P.}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991017326043403851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=de88f9e2c24eb13cc492ad91dc2885d2}{%
+           family={Isaacs},
+           familyi={I\bibinitperiod},
+           given={Rico},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bc6531d9104771e384120a085aae3bc0}{%
+           family={Polese},
+           familyi={P\bibinitperiod},
+           given={Abel},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge/Taylor \& Francis Group}%
+      }
+      \strng{namehash}{fa0ea19f9b17c3497041e4eaa967360e}
+      \strng{fullhash}{fa0ea19f9b17c3497041e4eaa967360e}
+      \strng{bibnamehash}{fa0ea19f9b17c3497041e4eaa967360e}
+      \strng{editorbibnamehash}{fa0ea19f9b17c3497041e4eaa967360e}
+      \strng{editornamehash}{fa0ea19f9b17c3497041e4eaa967360e}
+      \strng{editorfullhash}{fa0ea19f9b17c3497041e4eaa967360e}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Nation building and identity in the post-Soviet space :new tools and approaches}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991017509047103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ab3929afd41272e9110f132309832365}{%
+           family={Jamieson},
+           familyi={J\bibinitperiod},
+           given={Kathleen\bibnamedelima Hall},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{ab3929afd41272e9110f132309832365}
+      \strng{fullhash}{ab3929afd41272e9110f132309832365}
+      \strng{bibnamehash}{ab3929afd41272e9110f132309832365}
+      \strng{authorbibnamehash}{ab3929afd41272e9110f132309832365}
+      \strng{authornamehash}{ab3929afd41272e9110f132309832365}
+      \strng{authorfullhash}{ab3929afd41272e9110f132309832365}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cyberwar :how Russian hackers and trolls helped elect a president : what we don't, can't, and do know}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017318549703851}{book}{}
+      \name{author}{2}{}{%
+        {{hash=e0aeab07858cad47729081953795bfb2}{%
+           family={Knudsen},
+           familyi={K\bibinitperiod},
+           given={Tonny\bibnamedelima Brems},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=6e241ce3d7378a427fa136e6a60d4114}{%
+           family={Laustsen},
+           familyi={L\bibinitperiod},
+           given={Carsten\bibnamedelima B},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{cec18b9864786418e9377c1f7beeb02d}
+      \strng{fullhash}{cec18b9864786418e9377c1f7beeb02d}
+      \strng{bibnamehash}{cec18b9864786418e9377c1f7beeb02d}
+      \strng{authorbibnamehash}{cec18b9864786418e9377c1f7beeb02d}
+      \strng{authornamehash}{cec18b9864786418e9377c1f7beeb02d}
+      \strng{authorfullhash}{cec18b9864786418e9377c1f7beeb02d}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kosovo between war and peace :nationalism, peacebuilding and international trusteeship}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{991017326042803851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=5da7a6eb52a7f16d9836b014e0bbfc70}{%
+           family={Makarychev},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=cf0c2b740f69b27d3496ed2c46761a24}{%
+           family={Yatsyk},
+           familyi={Y\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{0380d44ec1e4184ab28daaf9cde3743c}
+      \strng{fullhash}{0380d44ec1e4184ab28daaf9cde3743c}
+      \strng{bibnamehash}{0380d44ec1e4184ab28daaf9cde3743c}
+      \strng{editorbibnamehash}{0380d44ec1e4184ab28daaf9cde3743c}
+      \strng{editornamehash}{0380d44ec1e4184ab28daaf9cde3743c}
+      \strng{editorfullhash}{0380d44ec1e4184ab28daaf9cde3743c}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Vocabularies of international relations after the crisis in Ukraine}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017319841903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bcd28a5e66cafc393b3e949a40c4bf4c}{%
+           family={Shagina},
+           familyi={S\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart, Germany}%
+      }
+      \list{publisher}{1}{%
+        {Ibidem-Verlag}%
+      }
+      \strng{namehash}{bcd28a5e66cafc393b3e949a40c4bf4c}
+      \strng{fullhash}{bcd28a5e66cafc393b3e949a40c4bf4c}
+      \strng{bibnamehash}{bcd28a5e66cafc393b3e949a40c4bf4c}
+      \strng{authorbibnamehash}{bcd28a5e66cafc393b3e949a40c4bf4c}
+      \strng{authornamehash}{bcd28a5e66cafc393b3e949a40c4bf4c}
+      \strng{authorfullhash}{bcd28a5e66cafc393b3e949a40c4bf4c}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Joining a prestigious club :cooperation with Europarties and its impact on party development in Georgia, Moldova, and Ukraine 2004-2015}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017326241003851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=92f8d2b387d69aab64a32a1876d0b581}{%
+           family={Simons},
+           familyi={S\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5c75a3d892bd42da20185026e5cb35c9}{%
+           family={Westerlund},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{4cdab8578ea4d4b7587cadfcd6bb968d}
+      \strng{fullhash}{4cdab8578ea4d4b7587cadfcd6bb968d}
+      \strng{bibnamehash}{4cdab8578ea4d4b7587cadfcd6bb968d}
+      \strng{editorbibnamehash}{4cdab8578ea4d4b7587cadfcd6bb968d}
+      \strng{editornamehash}{4cdab8578ea4d4b7587cadfcd6bb968d}
+      \strng{editorfullhash}{4cdab8578ea4d4b7587cadfcd6bb968d}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Religion, politics and nation-building in post-communist countries}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991017326339503851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=dfe368ada99839a09caa25ad431a671b}{%
+           family={Simons},
+           familyi={S\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=60417d115b4619d3d1eedf3014557195}{%
+           family={Kapitonenko},
+           familyi={K\bibinitperiod},
+           given={Mykola},
+           giveni={M\bibinitperiod}}}%
+        {{hash=44b1ff5a99086f79eb6343139c54b8fc}{%
+           family={Lavrenyuk},
+           familyi={L\bibinitperiod},
+           given={Viktor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{f50341ed9b7278008084d8b8894ad013}
+      \strng{fullhash}{a77b310a4e2a3dd4633ea98495b03346}
+      \strng{bibnamehash}{a77b310a4e2a3dd4633ea98495b03346}
+      \strng{editorbibnamehash}{a77b310a4e2a3dd4633ea98495b03346}
+      \strng{editornamehash}{f50341ed9b7278008084d8b8894ad013}
+      \strng{editorfullhash}{a77b310a4e2a3dd4633ea98495b03346}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The politics and complexities of crisis management in Ukraine :a historical perspective}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017326043003851}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=e4ffb9a239756ab08fcbf93f95cd6f9b}{%
+           family={T︠S︡vetkova},
+           familyi={T︠\bibinitperiod},
+           given={N.\bibnamedelimi A},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lanham, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {Lexington Books}%
+      }
+      \strng{namehash}{e4ffb9a239756ab08fcbf93f95cd6f9b}
+      \strng{fullhash}{e4ffb9a239756ab08fcbf93f95cd6f9b}
+      \strng{bibnamehash}{e4ffb9a239756ab08fcbf93f95cd6f9b}
+      \strng{editorbibnamehash}{e4ffb9a239756ab08fcbf93f95cd6f9b}
+      \strng{editornamehash}{e4ffb9a239756ab08fcbf93f95cd6f9b}
+      \strng{editorfullhash}{e4ffb9a239756ab08fcbf93f95cd6f9b}
+      \field{sortinit}{T︠}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Russia and the world :understanding international relations}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017326042303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2c6911d73fccb79ea599fb1fe459f1d6}{%
+           family={Vasilyeva},
+           familyi={V\bibinitperiod},
+           given={Nataliya\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lanham}%
+      }
+      \list{publisher}{1}{%
+        {Lexington Books}%
+      }
+      \strng{namehash}{2c6911d73fccb79ea599fb1fe459f1d6}
+      \strng{fullhash}{2c6911d73fccb79ea599fb1fe459f1d6}
+      \strng{bibnamehash}{2c6911d73fccb79ea599fb1fe459f1d6}
+      \strng{authorbibnamehash}{2c6911d73fccb79ea599fb1fe459f1d6}
+      \strng{authornamehash}{2c6911d73fccb79ea599fb1fe459f1d6}
+      \strng{authorfullhash}{2c6911d73fccb79ea599fb1fe459f1d6}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Russian project of Eurasian integration :geopolitical prospects}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991017391848203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=52d9b6e1632880842c7a9ef50cbfa261}{%
+           family={Yurchenko},
+           familyi={Y\bibinitperiod},
+           given={Yuliya},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {[London]}%
+      }
+      \list{publisher}{1}{%
+        {Pluto Press}%
+      }
+      \strng{namehash}{52d9b6e1632880842c7a9ef50cbfa261}
+      \strng{fullhash}{52d9b6e1632880842c7a9ef50cbfa261}
+      \strng{bibnamehash}{52d9b6e1632880842c7a9ef50cbfa261}
+      \strng{authorbibnamehash}{52d9b6e1632880842c7a9ef50cbfa261}
+      \strng{authornamehash}{52d9b6e1632880842c7a9ef50cbfa261}
+      \strng{authorfullhash}{52d9b6e1632880842c7a9ef50cbfa261}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ukraine and the empire of capital :from marketisation to armed conflict}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

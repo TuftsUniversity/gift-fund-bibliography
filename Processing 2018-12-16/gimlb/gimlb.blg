@@ -1,0 +1,18 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[1] Config.pm:307> INFO - Logfile is 'gimlb.blg'
+[44] biber-MSWIN64:315> INFO - === 
+[98] Biber.pm:371> INFO - Reading 'gimlb.bcf'
+[278] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[303] Biber.pm:4093> INFO - Processing section 0
+[329] Biber.pm:4254> INFO - Looking for bibtex format file 'gimlb.bib' for section 0
+[348] bibtex.pm:1523> INFO - LaTeX decoding ...
+[371] bibtex.pm:1340> INFO - Found BibTeX data source 'gimlb.bib'
+[417] Utils.pm:193> WARN - year field '[2017]' in entry '991017391848903851' is not an integer - this will probably not sort properly.
+[460] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[461] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[462] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[464] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[465] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[479] bbl.pm:636> INFO - Writing 'gimlb.bbl' with encoding 'UTF-8'
+[484] bbl.pm:739> INFO - Output to gimlb.bbl
+[489] Biber.pm:110> INFO - WARNINGS: 1

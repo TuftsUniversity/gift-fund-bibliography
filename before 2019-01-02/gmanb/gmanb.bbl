@@ -1,0 +1,1500 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{991017234741003851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ef4d27506e477b3133005f05ec135520}{%
+           family={Alfadhel},
+           familyi={A\bibinitperiod},
+           given={Khalifa\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routlege}%
+      }
+      \strng{namehash}{ef4d27506e477b3133005f05ec135520}
+      \strng{fullhash}{ef4d27506e477b3133005f05ec135520}
+      \strng{bibnamehash}{ef4d27506e477b3133005f05ec135520}
+      \strng{authorbibnamehash}{ef4d27506e477b3133005f05ec135520}
+      \strng{authornamehash}{ef4d27506e477b3133005f05ec135520}
+      \strng{authorfullhash}{ef4d27506e477b3133005f05ec135520}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The right to democracy in international law :between procedure, substance and the philosophy of John Rawls}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017434549703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b8c0b1d59035fc06479dd39141b41b43}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge/Taylor \& Francis Group}%
+      }
+      \strng{namehash}{b8c0b1d59035fc06479dd39141b41b43}
+      \strng{fullhash}{b8c0b1d59035fc06479dd39141b41b43}
+      \strng{bibnamehash}{b8c0b1d59035fc06479dd39141b41b43}
+      \strng{authorbibnamehash}{b8c0b1d59035fc06479dd39141b41b43}
+      \strng{authornamehash}{b8c0b1d59035fc06479dd39141b41b43}
+      \strng{authorfullhash}{b8c0b1d59035fc06479dd39141b41b43}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Children's rights and refugee law :conceptualising children within the Refugee Convention}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017542349003851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=321671ef74f4a97de351bdd3caf11a0c}{%
+           family={Attard},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima Joseph},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fe25354eed79f267c48d23ba901b4f29}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5f419b7efefd39a6631cab043528babc}{%
+           family={Kritsiotis},
+           familyi={K\bibinitperiod},
+           given={Dino},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{dfb28846469adda6ffe055b09e4feb61}
+      \strng{fullhash}{9e5283a97860f80f680082da7886783d}
+      \strng{bibnamehash}{9e5283a97860f80f680082da7886783d}
+      \strng{editorbibnamehash}{9e5283a97860f80f680082da7886783d}
+      \strng{editornamehash}{dfb28846469adda6ffe055b09e4feb61}
+      \strng{editorfullhash}{9e5283a97860f80f680082da7886783d}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The IMLI Treatise on Global Ocean Goverce}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017284963803851}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=141ea2a4fc4bac4ac3c5b28bf5933d8c}{%
+           family={Başoğlu},
+           familyi={B\bibinitperiod},
+           given={Metin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{141ea2a4fc4bac4ac3c5b28bf5933d8c}
+      \strng{fullhash}{141ea2a4fc4bac4ac3c5b28bf5933d8c}
+      \strng{bibnamehash}{141ea2a4fc4bac4ac3c5b28bf5933d8c}
+      \strng{editorbibnamehash}{141ea2a4fc4bac4ac3c5b28bf5933d8c}
+      \strng{editornamehash}{141ea2a4fc4bac4ac3c5b28bf5933d8c}
+      \strng{editorfullhash}{141ea2a4fc4bac4ac3c5b28bf5933d8c}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Torture and its definition in international law :an interdisciplinary approach}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017391835403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=03c98485b09ff234722f8cf181dd167a}{%
+           family={Borch},
+           familyi={B\bibinitperiod},
+           given={Frederic\bibnamedelima L.},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{03c98485b09ff234722f8cf181dd167a}
+      \strng{fullhash}{03c98485b09ff234722f8cf181dd167a}
+      \strng{bibnamehash}{03c98485b09ff234722f8cf181dd167a}
+      \strng{authorbibnamehash}{03c98485b09ff234722f8cf181dd167a}
+      \strng{authornamehash}{03c98485b09ff234722f8cf181dd167a}
+      \strng{authorfullhash}{03c98485b09ff234722f8cf181dd167a}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Military trials of war criminals in the Netherlands East Indies 1946-1949}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017326243403851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=7e4092745a602299103e50b09b19a192}{%
+           family={Caron},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=b599c64aea1658981cff35c8c27b6816}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=60dde307d9340c13411716c1a3cdb565}{%
+           family={Telesetsky},
+           familyi={T\bibinitperiod},
+           given={Anastasia},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{97c395ed99968d2f3a9c0fef224efa04}
+      \strng{fullhash}{0ceda864429505f3669b4534a67884b0}
+      \strng{bibnamehash}{0ceda864429505f3669b4534a67884b0}
+      \strng{editorbibnamehash}{0ceda864429505f3669b4534a67884b0}
+      \strng{editornamehash}{97c395ed99968d2f3a9c0fef224efa04}
+      \strng{editorfullhash}{0ceda864429505f3669b4534a67884b0}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The international law of disaster relief}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{991017349445803851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=2e1d0036e65ec57a35ff5a267e710fe3}{%
+           family={Couzens},
+           familyi={C\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b7cfc41337e123ce933207ceeb419d8e}{%
+           family={Paterson},
+           familyi={P\bibinitperiod},
+           given={Alexander\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=64522688249ee933d3ab9c744ea85199}{%
+           family={Riley},
+           familyi={R\bibinitperiod},
+           given={Sophie},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cheltenham, UK}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{e0e6a5f0a51113906f1fc30f35596221}
+      \strng{fullhash}{9c3b1abf31a80bec0d940a93828eb7c9}
+      \strng{bibnamehash}{9c3b1abf31a80bec0d940a93828eb7c9}
+      \strng{editorbibnamehash}{9c3b1abf31a80bec0d940a93828eb7c9}
+      \strng{editornamehash}{e0e6a5f0a51113906f1fc30f35596221}
+      \strng{editorfullhash}{9c3b1abf31a80bec0d940a93828eb7c9}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Protecting forest and marine biodiversity :the role of law}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017323544003851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d30f63537579ff6f114a7f068e393838}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={P.\bibnamedelimi P},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d30f63537579ff6f114a7f068e393838}
+      \strng{fullhash}{d30f63537579ff6f114a7f068e393838}
+      \strng{bibnamehash}{d30f63537579ff6f114a7f068e393838}
+      \strng{authorbibnamehash}{d30f63537579ff6f114a7f068e393838}
+      \strng{authornamehash}{d30f63537579ff6f114a7f068e393838}
+      \strng{authorfullhash}{d30f63537579ff6f114a7f068e393838}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EU law :text, cases, and materials}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{991017284891203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0439ea4c7c75c06dd98de80677bee12d}{%
+           family={Crock},
+           familyi={C\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cheltenham, UK}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{0439ea4c7c75c06dd98de80677bee12d}
+      \strng{fullhash}{0439ea4c7c75c06dd98de80677bee12d}
+      \strng{bibnamehash}{0439ea4c7c75c06dd98de80677bee12d}
+      \strng{authorbibnamehash}{0439ea4c7c75c06dd98de80677bee12d}
+      \strng{authornamehash}{0439ea4c7c75c06dd98de80677bee12d}
+      \strng{authorfullhash}{0439ea4c7c75c06dd98de80677bee12d}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The legal protection of refugees with disabilities :forgotten and invisible?}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017499432103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8eeb8548a16a3956995171b457f1b30e}{%
+           family={Dupuy},
+           familyi={D\bibinitperiod},
+           given={Pierre-Marie},
+           giveni={P\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{8eeb8548a16a3956995171b457f1b30e}
+      \strng{fullhash}{8eeb8548a16a3956995171b457f1b30e}
+      \strng{bibnamehash}{8eeb8548a16a3956995171b457f1b30e}
+      \strng{authorbibnamehash}{8eeb8548a16a3956995171b457f1b30e}
+      \strng{authornamehash}{8eeb8548a16a3956995171b457f1b30e}
+      \strng{authorfullhash}{8eeb8548a16a3956995171b457f1b30e}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{International environmental law}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{991017497743103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8eeb8548a16a3956995171b457f1b30e}{%
+           family={Dupuy},
+           familyi={D\bibinitperiod},
+           given={Pierre-Marie},
+           giveni={P\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{8eeb8548a16a3956995171b457f1b30e}
+      \strng{fullhash}{8eeb8548a16a3956995171b457f1b30e}
+      \strng{bibnamehash}{8eeb8548a16a3956995171b457f1b30e}
+      \strng{authorbibnamehash}{8eeb8548a16a3956995171b457f1b30e}
+      \strng{authornamehash}{8eeb8548a16a3956995171b457f1b30e}
+      \strng{authorfullhash}{8eeb8548a16a3956995171b457f1b30e}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{International environmental law}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017435449103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=87e5875e4980b86836b579ac43f958f0}{%
+           family={Epstein},
+           familyi={E\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {Sage}%
+      }
+      \strng{namehash}{87e5875e4980b86836b579ac43f958f0}
+      \strng{fullhash}{87e5875e4980b86836b579ac43f958f0}
+      \strng{bibnamehash}{87e5875e4980b86836b579ac43f958f0}
+      \strng{authorbibnamehash}{87e5875e4980b86836b579ac43f958f0}
+      \strng{authornamehash}{87e5875e4980b86836b579ac43f958f0}
+      \strng{authorfullhash}{87e5875e4980b86836b579ac43f958f0}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Constitutional law for a changing America.}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017284892803851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=849efd4263553de0fe0bdae455b0e7f4}{%
+           family={Evangelista},
+           familyi={E\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f00d430b0b22411e038da3928dd48f14}{%
+           family={Tannenwald},
+           familyi={T\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{ceeac4dbe408bfd5dcc2ac308d779c7d}
+      \strng{fullhash}{ceeac4dbe408bfd5dcc2ac308d779c7d}
+      \strng{bibnamehash}{ceeac4dbe408bfd5dcc2ac308d779c7d}
+      \strng{editorbibnamehash}{ceeac4dbe408bfd5dcc2ac308d779c7d}
+      \strng{editornamehash}{ceeac4dbe408bfd5dcc2ac308d779c7d}
+      \strng{editorfullhash}{ceeac4dbe408bfd5dcc2ac308d779c7d}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Do the Geneva Conventions matter?}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017249947903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ff0fb93083262977b50f3c680bdb4f2a}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lawrence, Kansas}%
+      }
+      \list{publisher}{1}{%
+        {University Press of Kansas}%
+      }
+      \strng{namehash}{ff0fb93083262977b50f3c680bdb4f2a}
+      \strng{fullhash}{ff0fb93083262977b50f3c680bdb4f2a}
+      \strng{bibnamehash}{ff0fb93083262977b50f3c680bdb4f2a}
+      \strng{authorbibnamehash}{ff0fb93083262977b50f3c680bdb4f2a}
+      \strng{authornamehash}{ff0fb93083262977b50f3c680bdb4f2a}
+      \strng{authorfullhash}{ff0fb93083262977b50f3c680bdb4f2a}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Supreme Court expansion of presidential power :unconstitutional leanings}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017391938103851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=f36788265a21ac7746ef0aa30e50b708}{%
+           family={Fröhlich},
+           familyi={F\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a3384ebc9928da7b76b8b139c0983d92}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Abiodun},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5bc3ad703f627c635335d0b1d1da0bd2}
+      \strng{fullhash}{5bc3ad703f627c635335d0b1d1da0bd2}
+      \strng{bibnamehash}{5bc3ad703f627c635335d0b1d1da0bd2}
+      \strng{editorbibnamehash}{5bc3ad703f627c635335d0b1d1da0bd2}
+      \strng{editornamehash}{5bc3ad703f627c635335d0b1d1da0bd2}
+      \strng{editorfullhash}{5bc3ad703f627c635335d0b1d1da0bd2}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The UN Secretary-General and the Security Council :a dynamic relationship}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017284963503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0ed7b7822beddf579d5c488c013e79f2}{%
+           family={Gent},
+           familyi={G\bibinitperiod},
+           given={Rijksuniversiteit},
+           giveni={R\bibinitperiod},
+           prefix={te},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ce6e14e9bfa08874146727092fc0d7d1}{%
+           family={Smet},
+           familyi={S\bibinitperiod},
+           given={Stijn},
+           giveni={S\bibinitperiod}}}%
+        {{hash=553f22e24fbd6ef2f095ee0a61f02e93}{%
+           family={Brems},
+           familyi={B\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{0ed7b7822beddf579d5c488c013e79f2}
+      \strng{fullhash}{0ed7b7822beddf579d5c488c013e79f2}
+      \strng{bibnamehash}{0ed7b7822beddf579d5c488c013e79f2}
+      \strng{authorbibnamehash}{0ed7b7822beddf579d5c488c013e79f2}
+      \strng{authornamehash}{0ed7b7822beddf579d5c488c013e79f2}
+      \strng{authorfullhash}{0ed7b7822beddf579d5c488c013e79f2}
+      \strng{editorbibnamehash}{4f2f2784bca1f012f49ad5aa65fe995b}
+      \strng{editornamehash}{4f2f2784bca1f012f49ad5aa65fe995b}
+      \strng{editorfullhash}{4f2f2784bca1f012f49ad5aa65fe995b}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{When human rights clash at the European Court of Human Rights :conflict or harmony?}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017327049103851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=17c01efad74e20abc152adb2986e7f00}{%
+           family={Ginsburg},
+           familyi={G\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d9a260f8bfb53d0c29aa6c5440a1c7dd}{%
+           family={Huq},
+           familyi={H\bibinitperiod},
+           given={Aziz\bibnamedelima Z.},
+           giveni={A\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{89cec1febe49ecf498b5e119453fa4ff}
+      \strng{fullhash}{89cec1febe49ecf498b5e119453fa4ff}
+      \strng{bibnamehash}{89cec1febe49ecf498b5e119453fa4ff}
+      \strng{editorbibnamehash}{89cec1febe49ecf498b5e119453fa4ff}
+      \strng{editornamehash}{89cec1febe49ecf498b5e119453fa4ff}
+      \strng{editorfullhash}{89cec1febe49ecf498b5e119453fa4ff}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Assessing constitutional performance}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991017249947703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=31010d83d045ab3e1ef61a793ef5c2c3}{%
+           family={Girelli},
+           familyi={G\bibinitperiod},
+           given={Giada},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{31010d83d045ab3e1ef61a793ef5c2c3}
+      \strng{fullhash}{31010d83d045ab3e1ef61a793ef5c2c3}
+      \strng{bibnamehash}{31010d83d045ab3e1ef61a793ef5c2c3}
+      \strng{authorbibnamehash}{31010d83d045ab3e1ef61a793ef5c2c3}
+      \strng{authornamehash}{31010d83d045ab3e1ef61a793ef5c2c3}
+      \strng{authorfullhash}{31010d83d045ab3e1ef61a793ef5c2c3}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding transitional justice :a struggle for peace, reconciliation, and rebuilding}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017542348903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=76312e0ed12ae29b6ea5976d8c58fa21}{%
+           family={Huikuri},
+           familyi={H\bibinitperiod},
+           given={Salla},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{76312e0ed12ae29b6ea5976d8c58fa21}
+      \strng{fullhash}{76312e0ed12ae29b6ea5976d8c58fa21}
+      \strng{bibnamehash}{76312e0ed12ae29b6ea5976d8c58fa21}
+      \strng{authorbibnamehash}{76312e0ed12ae29b6ea5976d8c58fa21}
+      \strng{authornamehash}{76312e0ed12ae29b6ea5976d8c58fa21}
+      \strng{authorfullhash}{76312e0ed12ae29b6ea5976d8c58fa21}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Institutionalization of the International Criminal Court}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017388644803851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=a37e8be86bd235dcb9141f9791131c0f}{%
+           family={Kristensen},
+           familyi={K\bibinitperiod},
+           given={Kristian\bibnamedelima Søby},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d1c4357c46331fc5cb60535e5c0b66ee}{%
+           family={Rahbek-Clemmensen},
+           familyi={R\bibinithyphendelim C\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abingdon, Oxon}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d3dcb0e75d4ef917353ec7d4625b1f73}
+      \strng{fullhash}{d3dcb0e75d4ef917353ec7d4625b1f73}
+      \strng{bibnamehash}{d3dcb0e75d4ef917353ec7d4625b1f73}
+      \strng{editorbibnamehash}{d3dcb0e75d4ef917353ec7d4625b1f73}
+      \strng{editornamehash}{d3dcb0e75d4ef917353ec7d4625b1f73}
+      \strng{editorfullhash}{d3dcb0e75d4ef917353ec7d4625b1f73}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Greenland and the international politics of a changing Arctic :postcolonial paradiplomacy between high and low politics}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017349445703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e53ee6e4e4bfe72971c7a9e15311f4f8}{%
+           family={Krivenko},
+           familyi={K\bibinitperiod},
+           given={Ekaterina\bibnamedelima Yahyaoui},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e53ee6e4e4bfe72971c7a9e15311f4f8}
+      \strng{fullhash}{e53ee6e4e4bfe72971c7a9e15311f4f8}
+      \strng{bibnamehash}{e53ee6e4e4bfe72971c7a9e15311f4f8}
+      \strng{authorbibnamehash}{e53ee6e4e4bfe72971c7a9e15311f4f8}
+      \strng{authornamehash}{e53ee6e4e4bfe72971c7a9e15311f4f8}
+      \strng{authorfullhash}{e53ee6e4e4bfe72971c7a9e15311f4f8}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rethinking human rights and global constitutionalism :from inclusion to belonging}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017319848803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=81f9c10d3a1039c4ce5b1bb3139fd61e}{%
+           family={Kroncke},
+           familyi={K\bibinitperiod},
+           given={Jedidiah\bibnamedelima Joseph},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{81f9c10d3a1039c4ce5b1bb3139fd61e}
+      \strng{fullhash}{81f9c10d3a1039c4ce5b1bb3139fd61e}
+      \strng{bibnamehash}{81f9c10d3a1039c4ce5b1bb3139fd61e}
+      \strng{authorbibnamehash}{81f9c10d3a1039c4ce5b1bb3139fd61e}
+      \strng{authornamehash}{81f9c10d3a1039c4ce5b1bb3139fd61e}
+      \strng{authorfullhash}{81f9c10d3a1039c4ce5b1bb3139fd61e}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The futility of law and development :China and the dangers of exporting American law}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991017250047603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9fee1626883ad55175b048e296764f97}{%
+           family={Laitos},
+           familyi={L\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{9fee1626883ad55175b048e296764f97}
+      \strng{fullhash}{9fee1626883ad55175b048e296764f97}
+      \strng{bibnamehash}{9fee1626883ad55175b048e296764f97}
+      \strng{authorbibnamehash}{9fee1626883ad55175b048e296764f97}
+      \strng{authornamehash}{9fee1626883ad55175b048e296764f97}
+      \strng{authorfullhash}{9fee1626883ad55175b048e296764f97}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why environmental policies fail}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017250047803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=24a94d36e992591d1f5307604339a41f}{%
+           family={Lindkvist},
+           familyi={L\bibinitperiod},
+           given={Linde},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{24a94d36e992591d1f5307604339a41f}
+      \strng{fullhash}{24a94d36e992591d1f5307604339a41f}
+      \strng{bibnamehash}{24a94d36e992591d1f5307604339a41f}
+      \strng{authorbibnamehash}{24a94d36e992591d1f5307604339a41f}
+      \strng{authornamehash}{24a94d36e992591d1f5307604339a41f}
+      \strng{authorfullhash}{24a94d36e992591d1f5307604339a41f}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Religious freedom and the Universal Declaration of Human Rights}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991005934939703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=48302640e00a86253ebb63313803f461}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin}%
+      }
+      \list{publisher}{1}{%
+        {Wolters Kluwer Law \& Business}%
+      }
+      \strng{namehash}{48302640e00a86253ebb63313803f461}
+      \strng{fullhash}{48302640e00a86253ebb63313803f461}
+      \strng{bibnamehash}{48302640e00a86253ebb63313803f461}
+      \strng{authorbibnamehash}{48302640e00a86253ebb63313803f461}
+      \strng{authornamehash}{48302640e00a86253ebb63313803f461}
+      \strng{authorfullhash}{48302640e00a86253ebb63313803f461}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Anti-dumping in the WTO, the EU, and China :the rise of legalization in the trade regime and its consequences}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{991017542347003851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=333d0e2d47e33f2f4c644d151a0985b8}{%
+           family={Mačák},
+           familyi={M\bibinitperiod},
+           given={Kubo},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{333d0e2d47e33f2f4c644d151a0985b8}
+      \strng{fullhash}{333d0e2d47e33f2f4c644d151a0985b8}
+      \strng{bibnamehash}{333d0e2d47e33f2f4c644d151a0985b8}
+      \strng{authorbibnamehash}{333d0e2d47e33f2f4c644d151a0985b8}
+      \strng{authornamehash}{333d0e2d47e33f2f4c644d151a0985b8}
+      \strng{authorfullhash}{333d0e2d47e33f2f4c644d151a0985b8}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Internationalized armed conflicts in international law}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017434545003851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6c6270547d6f92c8a0703d48e4de336e}{%
+           family={Marlowe},
+           familyi={M\bibinitperiod},
+           given={Jay\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abingdon, Oxon}%
+      }
+      \list{publisher}{1}{%
+        {Routledge, an imprint of the Taylor \& Francis Group}%
+      }
+      \strng{namehash}{6c6270547d6f92c8a0703d48e4de336e}
+      \strng{fullhash}{6c6270547d6f92c8a0703d48e4de336e}
+      \strng{bibnamehash}{6c6270547d6f92c8a0703d48e4de336e}
+      \strng{authorbibnamehash}{6c6270547d6f92c8a0703d48e4de336e}
+      \strng{authornamehash}{6c6270547d6f92c8a0703d48e4de336e}
+      \strng{authorfullhash}{6c6270547d6f92c8a0703d48e4de336e}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Belonging and transnational refugee settlement :unsettling the everyday and the extraordinary}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017388544903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=baf09949c71fb5aa00ceb65db9805fce}{%
+           family={Mazza},
+           familyi={M\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oisterwijk, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {Wolf Legal Publishers (WLP)}%
+      }
+      \strng{namehash}{baf09949c71fb5aa00ceb65db9805fce}
+      \strng{fullhash}{baf09949c71fb5aa00ceb65db9805fce}
+      \strng{bibnamehash}{baf09949c71fb5aa00ceb65db9805fce}
+      \strng{authorbibnamehash}{baf09949c71fb5aa00ceb65db9805fce}
+      \strng{authornamehash}{baf09949c71fb5aa00ceb65db9805fce}
+      \strng{authorfullhash}{baf09949c71fb5aa00ceb65db9805fce}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aurora Borealis :studies on polar law and legal comparison}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017434544903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=102460c4fc9051830ebf7ed6dc5dbf93}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Sarah\bibnamedelima Deardorff},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abingdon, Oxon}%
+      }
+      \list{publisher}{1}{%
+        {Routledge, an imprint of the Taylor \& Francis Group}%
+      }
+      \strng{namehash}{102460c4fc9051830ebf7ed6dc5dbf93}
+      \strng{fullhash}{102460c4fc9051830ebf7ed6dc5dbf93}
+      \strng{bibnamehash}{102460c4fc9051830ebf7ed6dc5dbf93}
+      \strng{authorbibnamehash}{102460c4fc9051830ebf7ed6dc5dbf93}
+      \strng{authornamehash}{102460c4fc9051830ebf7ed6dc5dbf93}
+      \strng{authorfullhash}{102460c4fc9051830ebf7ed6dc5dbf93}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{UNHCR as a surrogate state :protracted refugee situations}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017319849103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=38c65a07053379772ca575af93686760}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima Allphin},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{38c65a07053379772ca575af93686760}
+      \strng{fullhash}{38c65a07053379772ca575af93686760}
+      \strng{bibnamehash}{38c65a07053379772ca575af93686760}
+      \strng{authorbibnamehash}{38c65a07053379772ca575af93686760}
+      \strng{authornamehash}{38c65a07053379772ca575af93686760}
+      \strng{authorfullhash}{38c65a07053379772ca575af93686760}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The new United Nations :international organization in the twenty-first century}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017496648003851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=5ae8e60c8f2d50f380778501bae8acb2}{%
+           family={Nollkaemper},
+           familyi={N\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fb67e3c1692dc4194f9215ae0d75ba39}{%
+           family={Jacobs},
+           familyi={J\bibinitperiod},
+           given={Dov},
+           giveni={D\bibinitperiod}}}%
+        {{hash=63133d8eff5f0447ea9db3e08885e2c4}{%
+           family={Schechinger},
+           familyi={S\bibinitperiod},
+           given={Jessica\bibnamedelimb N.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{3be4747f9168dd6ec5c6467d0cf977ec}
+      \strng{fullhash}{5a8502142840b17aed8f4d554ead4ac5}
+      \strng{bibnamehash}{5a8502142840b17aed8f4d554ead4ac5}
+      \strng{editorbibnamehash}{5a8502142840b17aed8f4d554ead4ac5}
+      \strng{editornamehash}{3be4747f9168dd6ec5c6467d0cf977ec}
+      \strng{editorfullhash}{5a8502142840b17aed8f4d554ead4ac5}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Distribution of responsibilities in international law}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{991017542347103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1dbf584ea4e259f4918a74716eefd96a}{%
+           family={Olásolo},
+           familyi={O\bibinitperiod},
+           given={Héctor},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill Nijhoff}%
+      }
+      \strng{namehash}{1dbf584ea4e259f4918a74716eefd96a}
+      \strng{fullhash}{1dbf584ea4e259f4918a74716eefd96a}
+      \strng{bibnamehash}{1dbf584ea4e259f4918a74716eefd96a}
+      \strng{authorbibnamehash}{1dbf584ea4e259f4918a74716eefd96a}
+      \strng{authornamehash}{1dbf584ea4e259f4918a74716eefd96a}
+      \strng{authorfullhash}{1dbf584ea4e259f4918a74716eefd96a}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{International criminal law, transnational criminal organizations and transitional justice}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017499414603851}{book}{}
+      \name{author}{3}{}{%
+        {{hash=605aa15719100e64bd085c52afb8635b}{%
+           family={Opeskin},
+           familyi={O\bibinitperiod},
+           given={Brian\bibnamedelima R},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=113b135e3c5dedc34dfab9d522ffe44e}{%
+           family={Perruchoud},
+           familyi={P\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4a8be925dac6d93a04ff9ecd07866eef}{%
+           family={Redpath-Cross},
+           familyi={R\bibinithyphendelim C\bibinitperiod},
+           given={Jillyanne},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, UK}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{cefb7793dbb9e1e33752639f7fd8f678}
+      \strng{fullhash}{ea50d0db262ff729f2a9c5bae5fa3cdb}
+      \strng{bibnamehash}{ea50d0db262ff729f2a9c5bae5fa3cdb}
+      \strng{authorbibnamehash}{ea50d0db262ff729f2a9c5bae5fa3cdb}
+      \strng{authornamehash}{cefb7793dbb9e1e33752639f7fd8f678}
+      \strng{authorfullhash}{ea50d0db262ff729f2a9c5bae5fa3cdb}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Foundations of international migration law}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{991017319848603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6e7e18cf223fb6032e3a53c60ffb3c10}{%
+           family={Parra},
+           familyi={P\bibinitperiod},
+           given={Antonio\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{6e7e18cf223fb6032e3a53c60ffb3c10}
+      \strng{fullhash}{6e7e18cf223fb6032e3a53c60ffb3c10}
+      \strng{bibnamehash}{6e7e18cf223fb6032e3a53c60ffb3c10}
+      \strng{authorbibnamehash}{6e7e18cf223fb6032e3a53c60ffb3c10}
+      \strng{authornamehash}{6e7e18cf223fb6032e3a53c60ffb3c10}
+      \strng{authorfullhash}{6e7e18cf223fb6032e3a53c60ffb3c10}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The history of ICSID}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017388547203851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=e1bb527d0c591450e9a9cfe9f07f3383}{%
+           family={Pelaudeix},
+           familyi={P\bibinitperiod},
+           given={Cécile},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5ab252aacf0189ca821ca10fb68845ff}{%
+           family={Basse},
+           familyi={B\bibinitperiod},
+           given={Ellen\bibnamedelima Margrethe},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge, Taylor \& Francis Group}%
+      }
+      \strng{namehash}{f9100ae3d9b8d9cba4f09e4ba01cde63}
+      \strng{fullhash}{f9100ae3d9b8d9cba4f09e4ba01cde63}
+      \strng{bibnamehash}{f9100ae3d9b8d9cba4f09e4ba01cde63}
+      \strng{editorbibnamehash}{f9100ae3d9b8d9cba4f09e4ba01cde63}
+      \strng{editornamehash}{f9100ae3d9b8d9cba4f09e4ba01cde63}
+      \strng{editorfullhash}{f9100ae3d9b8d9cba4f09e4ba01cde63}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Goverce of Arctic offshore oil and gas}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017371248703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a70d7c8bad75f2784560725b35a5b059}{%
+           family={Richemond-Barak},
+           familyi={R\bibinithyphendelim B\bibinitperiod},
+           given={Daphné},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a70d7c8bad75f2784560725b35a5b059}
+      \strng{fullhash}{a70d7c8bad75f2784560725b35a5b059}
+      \strng{bibnamehash}{a70d7c8bad75f2784560725b35a5b059}
+      \strng{authorbibnamehash}{a70d7c8bad75f2784560725b35a5b059}
+      \strng{authornamehash}{a70d7c8bad75f2784560725b35a5b059}
+      \strng{authorfullhash}{a70d7c8bad75f2784560725b35a5b059}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Underground warfare}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017388642003851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=4963f16146505657f93fb3ef909ab1ac}{%
+           family={Rottem},
+           familyi={R\bibinitperiod},
+           given={Svein\bibnamedelima Vigeland},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=e1acb3f0af5f3439ffd650810165c7cd}{%
+           family={Soltvedt},
+           familyi={S\bibinitperiod},
+           given={Ida\bibnamedelima Folkestad},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=09c4abdcc03e24c7a3df0dbb34710b2f}{%
+           family={Hønneland},
+           familyi={H\bibinitperiod},
+           given={Geir},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {I.B. Tauris}%
+      }
+      \strng{namehash}{664e3505c04a05b5f4906f5932a0a519}
+      \strng{fullhash}{5930eefc2a862dc67be75258005a502e}
+      \strng{bibnamehash}{5930eefc2a862dc67be75258005a502e}
+      \strng{editorbibnamehash}{5930eefc2a862dc67be75258005a502e}
+      \strng{editornamehash}{664e3505c04a05b5f4906f5932a0a519}
+      \strng{editorfullhash}{5930eefc2a862dc67be75258005a502e}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Arctic goverce}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017250048203851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=9f22776b78eb70d514e86d82a19fabb2}{%
+           family={Sargent},
+           familyi={S\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2ac9cd9455f1ccbd9f266b93562b55b2}{%
+           family={Samanta},
+           familyi={S\bibinitperiod},
+           given={Jo},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Buckingham}%
+      }
+      \list{publisher}{1}{%
+        {The University of Buckingham Press}%
+      }
+      \strng{namehash}{c39d3a72da2b534d208ad61f8a9db2b3}
+      \strng{fullhash}{c39d3a72da2b534d208ad61f8a9db2b3}
+      \strng{bibnamehash}{c39d3a72da2b534d208ad61f8a9db2b3}
+      \strng{editorbibnamehash}{c39d3a72da2b534d208ad61f8a9db2b3}
+      \strng{editornamehash}{c39d3a72da2b534d208ad61f8a9db2b3}
+      \strng{editorfullhash}{c39d3a72da2b534d208ad61f8a9db2b3}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Indigenous rights :changes and challenges for the 21st century}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{991017388449403851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=7ad52ec59509834bdf1dae46dba452b9}{%
+           family={Saul},
+           familyi={S\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9ad79de3faae2659698c9c94b2eef2ce}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford [United Kingdom]}%
+      }
+      \list{publisher}{1}{%
+        {Hart Publishing}%
+      }
+      \strng{namehash}{1b815d01adac715400eb2e42759d5e0f}
+      \strng{fullhash}{1b815d01adac715400eb2e42759d5e0f}
+      \strng{bibnamehash}{1b815d01adac715400eb2e42759d5e0f}
+      \strng{editorbibnamehash}{1b815d01adac715400eb2e42759d5e0f}
+      \strng{editornamehash}{1b815d01adac715400eb2e42759d5e0f}
+      \strng{editorfullhash}{1b815d01adac715400eb2e42759d5e0f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Antarctica in international law}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{991017398934103851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=c82d8822080d2ce30dfe209beae3f689}{%
+           family={Schill},
+           familyi={S\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5aaa33a6e967d478516c23144793da1e}{%
+           family={Tams},
+           familyi={T\bibinitperiod},
+           given={Christian\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=3db4285fb7ad668a6ef23d16f75971a4}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cheltenham, UK}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{9f636dd18cad62912f770895a62bf80b}
+      \strng{fullhash}{a427459c349422b379ff90e6b71e739a}
+      \strng{bibnamehash}{a427459c349422b379ff90e6b71e739a}
+      \strng{editorbibnamehash}{a427459c349422b379ff90e6b71e739a}
+      \strng{editornamehash}{9f636dd18cad62912f770895a62bf80b}
+      \strng{editorfullhash}{a427459c349422b379ff90e6b71e739a}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{International investment law and history}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017388649703851}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=8b735e545ec017c6775e716a7b6e4ac6}{%
+           family={Schönfeldt},
+           familyi={S\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Hart Publishing, an imprint of Bloomsbury Publishing Plc}%
+      }
+      \strng{namehash}{8b735e545ec017c6775e716a7b6e4ac6}
+      \strng{fullhash}{8b735e545ec017c6775e716a7b6e4ac6}
+      \strng{bibnamehash}{8b735e545ec017c6775e716a7b6e4ac6}
+      \strng{editorbibnamehash}{8b735e545ec017c6775e716a7b6e4ac6}
+      \strng{editornamehash}{8b735e545ec017c6775e716a7b6e4ac6}
+      \strng{editorfullhash}{8b735e545ec017c6775e716a7b6e4ac6}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The Arctic in international law and policy}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017249948303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b11c386ad2c9617f5a59749b4be78e34}{%
+           family={Setty},
+           familyi={S\bibinitperiod},
+           given={Sudha\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b11c386ad2c9617f5a59749b4be78e34}
+      \strng{fullhash}{b11c386ad2c9617f5a59749b4be78e34}
+      \strng{bibnamehash}{b11c386ad2c9617f5a59749b4be78e34}
+      \strng{authorbibnamehash}{b11c386ad2c9617f5a59749b4be78e34}
+      \strng{authornamehash}{b11c386ad2c9617f5a59749b4be78e34}
+      \strng{authorfullhash}{b11c386ad2c9617f5a59749b4be78e34}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{National security secrecy :comparative effects on democracy and the rule of law}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017349445903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b161e90b33889d492a0ef90ad6207bb5}{%
+           family={Tehan},
+           familyi={T\bibinitperiod},
+           given={Maureen},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b161e90b33889d492a0ef90ad6207bb5}
+      \strng{fullhash}{b161e90b33889d492a0ef90ad6207bb5}
+      \strng{bibnamehash}{b161e90b33889d492a0ef90ad6207bb5}
+      \strng{authorbibnamehash}{b161e90b33889d492a0ef90ad6207bb5}
+      \strng{authornamehash}{b161e90b33889d492a0ef90ad6207bb5}
+      \strng{authorfullhash}{b161e90b33889d492a0ef90ad6207bb5}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The impact of climate change mitigation on indigenous and forest communities :international, national and local law perspectives on REDD+}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017433749703851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=4bdc9300aaaad5bf8e9a5e872f1e0fa7}{%
+           family={Türk},
+           familyi={T\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod}}}%
+        {{hash=fa89d71b6daa01e5cdf8fb5bd9e50751}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod}}}%
+        {{hash=adc804ff54cec1cebfa5b07113aca914}{%
+           family={Wouters},
+           familyi={W\bibinitperiod},
+           given={C.\bibnamedelimi W},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{54c65a1ddfc50b5d1a3fa185dcb4ba24}
+      \strng{fullhash}{489f05ef4310970a2ce4b9419d7c99e6}
+      \strng{bibnamehash}{489f05ef4310970a2ce4b9419d7c99e6}
+      \strng{editorbibnamehash}{489f05ef4310970a2ce4b9419d7c99e6}
+      \strng{editornamehash}{54c65a1ddfc50b5d1a3fa185dcb4ba24}
+      \strng{editorfullhash}{489f05ef4310970a2ce4b9419d7c99e6}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{In flight from conflict and violence :UNHCR's consultations on refugee status and other forms of international protection}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991005936569703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=88f428128122950d60e81624af796159}{%
+           family={Vossestein},
+           familyi={V\bibinitperiod},
+           given={G.\bibnamedelimi J},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin}%
+      }
+      \list{publisher}{1}{%
+        {Wolters Kluwer Law \& Business}%
+      }
+      \strng{namehash}{88f428128122950d60e81624af796159}
+      \strng{fullhash}{88f428128122950d60e81624af796159}
+      \strng{bibnamehash}{88f428128122950d60e81624af796159}
+      \strng{authorbibnamehash}{88f428128122950d60e81624af796159}
+      \strng{authornamehash}{88f428128122950d60e81624af796159}
+      \strng{authorfullhash}{88f428128122950d60e81624af796159}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modernization of European company law and corporate goverce :some considerations on its legal limits}
+      \true{nocite}
+    \endentry
+    \entry{991017250048903851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=18002f34a3de82785a59f369152999de}{%
+           family={Weaver},
+           familyi={W\bibinitperiod},
+           given={Russell\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=441f0fd1a27e1df436a51237a0b4841e}{%
+           family={Friedland},
+           familyi={F\bibinitperiod},
+           given={Steven\bibnamedelima I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=ecc745f589f739ffb5b625627bd7ab0b}{%
+           family={Raynouard},
+           familyi={R\bibinitperiod},
+           given={Arnaud},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Durham, North Carolina}%
+      }
+      \list{publisher}{1}{%
+        {Carolina Academic Press}%
+      }
+      \strng{namehash}{9d7db3c391ad80d08a331d01312887a4}
+      \strng{fullhash}{4c6f1fc4383ce5ab75f822342b49f96f}
+      \strng{bibnamehash}{4c6f1fc4383ce5ab75f822342b49f96f}
+      \strng{editorbibnamehash}{4c6f1fc4383ce5ab75f822342b49f96f}
+      \strng{editornamehash}{9d7db3c391ad80d08a331d01312887a4}
+      \strng{editorfullhash}{4c6f1fc4383ce5ab75f822342b49f96f}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Cybersurveillance in a post-Snowden world :balancing the fight against terrorism against fundamental rights}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,19 @@
+[1] Config.pm:304> INFO - This is Biber 2.12
+[1] Config.pm:307> INFO - Logfile is 'dgiff.blg'
+[54] biber-MSWIN64:315> INFO - === 
+[120] Biber.pm:371> INFO - Reading 'dgiff.bcf'
+[301] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[327] Biber.pm:4093> INFO - Processing section 0
+[351] Biber.pm:4254> INFO - Looking for bibtex format file 'dgiff.bib' for section 0
+[375] bibtex.pm:1523> INFO - LaTeX decoding ...
+[496] bibtex.pm:1340> INFO - Found BibTeX data source 'dgiff.bib'
+[620] Utils.pm:193> WARN - year field 'MMXVIII.' in entry '991017720748403851' is not an integer - this will probably not sort properly.
+[687] Utils.pm:193> WARN - year field 'MMXVIII.' in entry '991017644445903851' is not an integer - this will probably not sort properly.
+[1214] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[1215] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1217] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1217] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[1218] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1316] bbl.pm:636> INFO - Writing 'dgiff.bbl' with encoding 'UTF-8'
+[1360] bbl.pm:739> INFO - Output to dgiff.bbl
+[1369] Biber.pm:110> INFO - WARNINGS: 2

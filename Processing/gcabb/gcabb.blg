@@ -1,0 +1,16 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'gcabb.blg'
+[54] biber-MSWIN64:315> INFO - === 
+[133] Biber.pm:371> INFO - Reading 'gcabb.bcf'
+[324] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[350] Biber.pm:4093> INFO - Processing section 0
+[376] Biber.pm:4254> INFO - Looking for bibtex format file 'gcabb.bib' for section 0
+[408] bibtex.pm:1523> INFO - LaTeX decoding ...
+[656] bibtex.pm:1340> INFO - Found BibTeX data source 'gcabb.bib'
+[1938] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[1938] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1940] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1940] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[1941] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[2190] bbl.pm:636> INFO - Writing 'gcabb.bbl' with encoding 'UTF-8'
+[2267] bbl.pm:739> INFO - Output to gcabb.bbl

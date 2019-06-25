@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'dfox.blg'
+[54] biber-MSWIN64:315> INFO - === 
+[118] Biber.pm:371> INFO - Reading 'dfox.bcf'
+[268] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[287] Biber.pm:4093> INFO - Processing section 0
+[319] Biber.pm:4254> INFO - Looking for bibtex format file 'dfox.bib' for section 0
+[345] bibtex.pm:1523> INFO - LaTeX decoding ...
+[398] bibtex.pm:1340> INFO - Found BibTeX data source 'dfox.bib'
+[558] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[558] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[624] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[626] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[628] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[628] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[629] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[662] bbl.pm:636> INFO - Writing 'dfox.bbl' with encoding 'UTF-8'
+[678] bbl.pm:739> INFO - Output to dfox.bbl
+[685] Biber.pm:110> INFO - WARNINGS: 2

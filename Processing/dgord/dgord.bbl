@@ -1,0 +1,957 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{991017696449303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=38e1530d0d694e5e7d321c8c6f9e7ad0}{%
+           family={Apostol},
+           familyi={A\bibinitperiod},
+           given={Gina},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Soho Press, Inc.}%
+      }
+      \strng{namehash}{38e1530d0d694e5e7d321c8c6f9e7ad0}
+      \strng{fullhash}{38e1530d0d694e5e7d321c8c6f9e7ad0}
+      \strng{bibnamehash}{38e1530d0d694e5e7d321c8c6f9e7ad0}
+      \strng{authorbibnamehash}{38e1530d0d694e5e7d321c8c6f9e7ad0}
+      \strng{authornamehash}{38e1530d0d694e5e7d321c8c6f9e7ad0}
+      \strng{authorfullhash}{38e1530d0d694e5e7d321c8c6f9e7ad0}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Insurrecto :a novel}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017378949703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8582e1e343cbeb99d39c27f7b95fbf9f}{%
+           family={Brand},
+           familyi={B\bibinitperiod},
+           given={Dionne},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Durham}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{8582e1e343cbeb99d39c27f7b95fbf9f}
+      \strng{fullhash}{8582e1e343cbeb99d39c27f7b95fbf9f}
+      \strng{bibnamehash}{8582e1e343cbeb99d39c27f7b95fbf9f}
+      \strng{authorbibnamehash}{8582e1e343cbeb99d39c27f7b95fbf9f}
+      \strng{authornamehash}{8582e1e343cbeb99d39c27f7b95fbf9f}
+      \strng{authorfullhash}{8582e1e343cbeb99d39c27f7b95fbf9f}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The blue clerk :ars poetica in 59 versos}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017436039603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4bd2873eccb33771921af9efa913d44f}{%
+           family={Brunton},
+           familyi={B\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=b7f58cda4a65ec26fb35bc008b65b020}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Olivia},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge, Taylor \& Francis Group}%
+      }
+      \strng{namehash}{4bd2873eccb33771921af9efa913d44f}
+      \strng{fullhash}{4bd2873eccb33771921af9efa913d44f}
+      \strng{bibnamehash}{4bd2873eccb33771921af9efa913d44f}
+      \strng{authorbibnamehash}{4bd2873eccb33771921af9efa913d44f}
+      \strng{authornamehash}{4bd2873eccb33771921af9efa913d44f}
+      \strng{authorfullhash}{4bd2873eccb33771921af9efa913d44f}
+      \strng{editorbibnamehash}{b7f58cda4a65ec26fb35bc008b65b020}
+      \strng{editornamehash}{b7f58cda4a65ec26fb35bc008b65b020}
+      \strng{editorfullhash}{b7f58cda4a65ec26fb35bc008b65b020}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discipline}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017671749403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=87df54429a1ec6407fca2e5037dfe29b}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, Minnesota}%
+      }
+      \list{publisher}{1}{%
+        {Graywolf Press}%
+      }
+      \strng{namehash}{87df54429a1ec6407fca2e5037dfe29b}
+      \strng{fullhash}{87df54429a1ec6407fca2e5037dfe29b}
+      \strng{bibnamehash}{87df54429a1ec6407fca2e5037dfe29b}
+      \strng{authorbibnamehash}{87df54429a1ec6407fca2e5037dfe29b}
+      \strng{authornamehash}{87df54429a1ec6407fca2e5037dfe29b}
+      \strng{authorfullhash}{87df54429a1ec6407fca2e5037dfe29b}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Milkman :a novel}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696549403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a4c3d73e362bf08f6ff180e4bbf6f28f}{%
+           family={Chamoiseau},
+           familyi={C\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=6d281411d3b0e2ecac7505b9d4f90a3a}{%
+           family={Coverdale},
+           familyi={C\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {The New Press}%
+      }
+      \strng{namehash}{a4c3d73e362bf08f6ff180e4bbf6f28f}
+      \strng{fullhash}{a4c3d73e362bf08f6ff180e4bbf6f28f}
+      \strng{bibnamehash}{a4c3d73e362bf08f6ff180e4bbf6f28f}
+      \strng{authorbibnamehash}{a4c3d73e362bf08f6ff180e4bbf6f28f}
+      \strng{authornamehash}{a4c3d73e362bf08f6ff180e4bbf6f28f}
+      \strng{authorfullhash}{a4c3d73e362bf08f6ff180e4bbf6f28f}
+      \strng{translatorbibnamehash}{6d281411d3b0e2ecac7505b9d4f90a3a}
+      \strng{translatornamehash}{6d281411d3b0e2ecac7505b9d4f90a3a}
+      \strng{translatorfullhash}{6d281411d3b0e2ecac7505b9d4f90a3a}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Slave old man}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017491647403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6053b8e5fb2befa7f36c8ae0088683d3}{%
+           family={Chipchase},
+           familyi={C\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco}%
+      }
+      \list{publisher}{1}{%
+        {Field Institute}%
+      }
+      \strng{namehash}{6053b8e5fb2befa7f36c8ae0088683d3}
+      \strng{fullhash}{6053b8e5fb2befa7f36c8ae0088683d3}
+      \strng{bibnamehash}{6053b8e5fb2befa7f36c8ae0088683d3}
+      \strng{authorbibnamehash}{6053b8e5fb2befa7f36c8ae0088683d3}
+      \strng{authornamehash}{6053b8e5fb2befa7f36c8ae0088683d3}
+      \strng{authorfullhash}{6053b8e5fb2befa7f36c8ae0088683d3}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Field study handbook}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017696449503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=69d0d762134ea8c0f5025d9e07d3e37e}{%
+           family={Emezi},
+           familyi={E\bibinitperiod},
+           given={Akwaeke},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Grove Press}%
+      }
+      \strng{namehash}{69d0d762134ea8c0f5025d9e07d3e37e}
+      \strng{fullhash}{69d0d762134ea8c0f5025d9e07d3e37e}
+      \strng{bibnamehash}{69d0d762134ea8c0f5025d9e07d3e37e}
+      \strng{authorbibnamehash}{69d0d762134ea8c0f5025d9e07d3e37e}
+      \strng{authornamehash}{69d0d762134ea8c0f5025d9e07d3e37e}
+      \strng{authorfullhash}{69d0d762134ea8c0f5025d9e07d3e37e}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Freshwater}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696449703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d8a7e15cd0772ff056a5f95fd076249c}{%
+           family={Groff},
+           familyi={G\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, New York}%
+      }
+      \list{publisher}{1}{%
+        {Riverhead Books, an imprint of Penguin Random House LLC}%
+      }
+      \strng{namehash}{d8a7e15cd0772ff056a5f95fd076249c}
+      \strng{fullhash}{d8a7e15cd0772ff056a5f95fd076249c}
+      \strng{bibnamehash}{d8a7e15cd0772ff056a5f95fd076249c}
+      \strng{authorbibnamehash}{d8a7e15cd0772ff056a5f95fd076249c}
+      \strng{authornamehash}{d8a7e15cd0772ff056a5f95fd076249c}
+      \strng{authorfullhash}{d8a7e15cd0772ff056a5f95fd076249c}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Florida}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696448703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=090a183dffa4efaa3e61517b92f3357b}{%
+           family={Halliday},
+           familyi={H\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Simon \& Schuster}%
+      }
+      \strng{namehash}{090a183dffa4efaa3e61517b92f3357b}
+      \strng{fullhash}{090a183dffa4efaa3e61517b92f3357b}
+      \strng{bibnamehash}{090a183dffa4efaa3e61517b92f3357b}
+      \strng{authorbibnamehash}{090a183dffa4efaa3e61517b92f3357b}
+      \strng{authornamehash}{090a183dffa4efaa3e61517b92f3357b}
+      \strng{authorfullhash}{090a183dffa4efaa3e61517b92f3357b}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Asymmetry}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696447203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e8298eac6d96bc095c1885e4b9043764}{%
+           family={Hempel},
+           familyi={H\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Scribner, an imprint of Simon \& Schuster, Inc.}%
+      }
+      \strng{namehash}{e8298eac6d96bc095c1885e4b9043764}
+      \strng{fullhash}{e8298eac6d96bc095c1885e4b9043764}
+      \strng{bibnamehash}{e8298eac6d96bc095c1885e4b9043764}
+      \strng{authorbibnamehash}{e8298eac6d96bc095c1885e4b9043764}
+      \strng{authornamehash}{e8298eac6d96bc095c1885e4b9043764}
+      \strng{authorfullhash}{e8298eac6d96bc095c1885e4b9043764}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sing to it :new stories}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696549303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=928511314655ae7b537780ec3ad244b2}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Mitchell\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Scribner, an imprint of Simon \& Shuster, Inc.}%
+      }
+      \strng{namehash}{928511314655ae7b537780ec3ad244b2}
+      \strng{fullhash}{928511314655ae7b537780ec3ad244b2}
+      \strng{bibnamehash}{928511314655ae7b537780ec3ad244b2}
+      \strng{authorbibnamehash}{928511314655ae7b537780ec3ad244b2}
+      \strng{authornamehash}{928511314655ae7b537780ec3ad244b2}
+      \strng{authorfullhash}{928511314655ae7b537780ec3ad244b2}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Survival math :notes on an all-American family}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017436039803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6b505efcddfeafdfccca00b8be33d7a7}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Scribner, an imprint of Simon \& Schuster, Inc.}%
+      }
+      \strng{namehash}{6b505efcddfeafdfccca00b8be33d7a7}
+      \strng{fullhash}{6b505efcddfeafdfccca00b8be33d7a7}
+      \strng{bibnamehash}{6b505efcddfeafdfccca00b8be33d7a7}
+      \strng{authorbibnamehash}{6b505efcddfeafdfccca00b8be33d7a7}
+      \strng{authornamehash}{6b505efcddfeafdfccca00b8be33d7a7}
+      \strng{authorfullhash}{6b505efcddfeafdfccca00b8be33d7a7}
+      \field{extraname}{1}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Night hawks :stories}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696449203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=eda963af0531ba664f2dd7b7a3715db6}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Random House}%
+      }
+      \strng{namehash}{eda963af0531ba664f2dd7b7a3715db6}
+      \strng{fullhash}{eda963af0531ba664f2dd7b7a3715db6}
+      \strng{bibnamehash}{eda963af0531ba664f2dd7b7a3715db6}
+      \strng{authorbibnamehash}{eda963af0531ba664f2dd7b7a3715db6}
+      \strng{authornamehash}{eda963af0531ba664f2dd7b7a3715db6}
+      \strng{authorfullhash}{eda963af0531ba664f2dd7b7a3715db6}
+      \field{extraname}{2}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The largesse of the sea maiden}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696449003851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2879d30321d93a310ee859fe296a28a1}{%
+           family={Kilalea},
+           familyi={K\bibinitperiod},
+           given={Katharine},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Tim Duggan Books}%
+      }
+      \strng{namehash}{2879d30321d93a310ee859fe296a28a1}
+      \strng{fullhash}{2879d30321d93a310ee859fe296a28a1}
+      \strng{bibnamehash}{2879d30321d93a310ee859fe296a28a1}
+      \strng{authorbibnamehash}{2879d30321d93a310ee859fe296a28a1}
+      \strng{authornamehash}{2879d30321d93a310ee859fe296a28a1}
+      \strng{authorfullhash}{2879d30321d93a310ee859fe296a28a1}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ok, Mr. Field :a novel}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696448803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=62b50d9bbadbe937be10f21276397e67}{%
+           family={Koethe},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{2}{%
+        {Farrar, Straus}%
+        {Giroux}%
+      }
+      \strng{namehash}{62b50d9bbadbe937be10f21276397e67}
+      \strng{fullhash}{62b50d9bbadbe937be10f21276397e67}
+      \strng{bibnamehash}{62b50d9bbadbe937be10f21276397e67}
+      \strng{authorbibnamehash}{62b50d9bbadbe937be10f21276397e67}
+      \strng{authornamehash}{62b50d9bbadbe937be10f21276397e67}
+      \strng{authorfullhash}{62b50d9bbadbe937be10f21276397e67}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Walking backwards :poems, 1966-2016}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696449803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=309aabf6ce27738d081cfee21e0256c9}{%
+           family={Larraquy},
+           familyi={L\bibinitperiod},
+           given={Roque},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=35e8d9b77bcbba786c1334a4e1faa022}{%
+           family={Cleary},
+           familyi={C\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis}%
+      }
+      \list{publisher}{1}{%
+        {Coffee House Press}%
+      }
+      \strng{namehash}{309aabf6ce27738d081cfee21e0256c9}
+      \strng{fullhash}{309aabf6ce27738d081cfee21e0256c9}
+      \strng{bibnamehash}{309aabf6ce27738d081cfee21e0256c9}
+      \strng{authorbibnamehash}{309aabf6ce27738d081cfee21e0256c9}
+      \strng{authornamehash}{309aabf6ce27738d081cfee21e0256c9}
+      \strng{authorfullhash}{309aabf6ce27738d081cfee21e0256c9}
+      \strng{translatorbibnamehash}{35e8d9b77bcbba786c1334a4e1faa022}
+      \strng{translatornamehash}{35e8d9b77bcbba786c1334a4e1faa022}
+      \strng{translatorfullhash}{35e8d9b77bcbba786c1334a4e1faa022}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Comemadre}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017351242103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=816f5f68fafe0df37bacaa30752decae}{%
+           family={Mansfield},
+           familyi={M\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh}%
+      }
+      \list{publisher}{1}{%
+        {Edinburgh University Press}%
+      }
+      \strng{namehash}{816f5f68fafe0df37bacaa30752decae}
+      \strng{fullhash}{816f5f68fafe0df37bacaa30752decae}
+      \strng{bibnamehash}{816f5f68fafe0df37bacaa30752decae}
+      \strng{authorbibnamehash}{816f5f68fafe0df37bacaa30752decae}
+      \strng{authornamehash}{816f5f68fafe0df37bacaa30752decae}
+      \strng{authorfullhash}{816f5f68fafe0df37bacaa30752decae}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The collected fiction of Katherine Mansfield}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{991017696449103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e2be3412ac93d06f6a16a4c3892c2d95}{%
+           family={McEwan},
+           familyi={M\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Nan A. Talese/Doubleday}%
+      }
+      \strng{namehash}{e2be3412ac93d06f6a16a4c3892c2d95}
+      \strng{fullhash}{e2be3412ac93d06f6a16a4c3892c2d95}
+      \strng{bibnamehash}{e2be3412ac93d06f6a16a4c3892c2d95}
+      \strng{authorbibnamehash}{e2be3412ac93d06f6a16a4c3892c2d95}
+      \strng{authornamehash}{e2be3412ac93d06f6a16a4c3892c2d95}
+      \strng{authorfullhash}{e2be3412ac93d06f6a16a4c3892c2d95}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Machines like me :and people like you}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696448903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=134e8950494d36b3b9d5c7efc6acba9b}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Wayétu},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, Minnesota}%
+      }
+      \list{publisher}{1}{%
+        {Graywolf Press}%
+      }
+      \strng{namehash}{134e8950494d36b3b9d5c7efc6acba9b}
+      \strng{fullhash}{134e8950494d36b3b9d5c7efc6acba9b}
+      \strng{bibnamehash}{134e8950494d36b3b9d5c7efc6acba9b}
+      \strng{authorbibnamehash}{134e8950494d36b3b9d5c7efc6acba9b}
+      \strng{authornamehash}{134e8950494d36b3b9d5c7efc6acba9b}
+      \strng{authorfullhash}{134e8950494d36b3b9d5c7efc6acba9b}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{She would be king :a novel}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017695346203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=770d2e6bba9d6baf358a8a696c17aa36}{%
+           family={Oyeyemi},
+           familyi={O\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Riverhead Books, a member of Penguin Group (USA)}%
+      }
+      \strng{namehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{fullhash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{bibnamehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{authorbibnamehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{authornamehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{authorfullhash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Boy, snow, bird :a novel}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{991017696449403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=770d2e6bba9d6baf358a8a696c17aa36}{%
+           family={Oyeyemi},
+           familyi={O\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Riverhead Books, an imprint of Penguin Random House LLC}%
+      }
+      \strng{namehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{fullhash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{bibnamehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{authorbibnamehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{authornamehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{authorfullhash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gingerbread}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696549203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=770d2e6bba9d6baf358a8a696c17aa36}{%
+           family={Oyeyemi},
+           familyi={O\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, New York}%
+      }
+      \list{publisher}{1}{%
+        {Riverhead Books}%
+      }
+      \strng{namehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{fullhash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{bibnamehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{authorbibnamehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{authornamehash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \strng{authorfullhash}{770d2e6bba9d6baf358a8a696c17aa36}
+      \field{extraname}{3}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is not yours is not yours :stories}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{991017499537403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4a4de733727554134de7e597c6755cc8}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Neel},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Flatiron Books}%
+      }
+      \strng{namehash}{4a4de733727554134de7e597c6755cc8}
+      \strng{fullhash}{4a4de733727554134de7e597c6755cc8}
+      \strng{bibnamehash}{4a4de733727554134de7e597c6755cc8}
+      \strng{authorbibnamehash}{4a4de733727554134de7e597c6755cc8}
+      \strng{authornamehash}{4a4de733727554134de7e597c6755cc8}
+      \strng{authorfullhash}{4a4de733727554134de7e597c6755cc8}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{If you see me, don't say hi}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017436039403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=91907c7b37c54b06d36a895987869ae8}{%
+           family={Powers},
+           familyi={P\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{2}{%
+        {Little, Brown}%
+        {Company}%
+      }
+      \strng{namehash}{91907c7b37c54b06d36a895987869ae8}
+      \strng{fullhash}{91907c7b37c54b06d36a895987869ae8}
+      \strng{bibnamehash}{91907c7b37c54b06d36a895987869ae8}
+      \strng{authorbibnamehash}{91907c7b37c54b06d36a895987869ae8}
+      \strng{authornamehash}{91907c7b37c54b06d36a895987869ae8}
+      \strng{authorfullhash}{91907c7b37c54b06d36a895987869ae8}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A shout in the ruins}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017555749603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=93efaf3b35a9998e0814e0c99bf3d569}{%
+           family={Rodriguez},
+           familyi={R\bibinitperiod},
+           given={Ivelisse},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York City}%
+      }
+      \list{publisher}{1}{%
+        {Feminist Press at the City University of New York}%
+      }
+      \strng{namehash}{93efaf3b35a9998e0814e0c99bf3d569}
+      \strng{fullhash}{93efaf3b35a9998e0814e0c99bf3d569}
+      \strng{bibnamehash}{93efaf3b35a9998e0814e0c99bf3d569}
+      \strng{authorbibnamehash}{93efaf3b35a9998e0814e0c99bf3d569}
+      \strng{authornamehash}{93efaf3b35a9998e0814e0c99bf3d569}
+      \strng{authorfullhash}{93efaf3b35a9998e0814e0c99bf3d569}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Love war stories}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017436040803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c47873b9ea58103e7b08afb644d863b7}{%
+           family={Tamirat},
+           familyi={T\bibinitperiod},
+           given={Nafkote},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Henry Holt \& Company}%
+      }
+      \strng{namehash}{c47873b9ea58103e7b08afb644d863b7}
+      \strng{fullhash}{c47873b9ea58103e7b08afb644d863b7}
+      \strng{bibnamehash}{c47873b9ea58103e7b08afb644d863b7}
+      \strng{authorbibnamehash}{c47873b9ea58103e7b08afb644d863b7}
+      \strng{authornamehash}{c47873b9ea58103e7b08afb644d863b7}
+      \strng{authorfullhash}{c47873b9ea58103e7b08afb644d863b7}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The parking lot attendant :a novel}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017436040503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=42032f770337d8a68fe26319c953d7c1}{%
+           family={Thompson-Spires},
+           familyi={T\bibinithyphendelim S\bibinitperiod},
+           given={Nafissa},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {37INK/Atria, an imprint of Simon \& Schuster, Inc.}%
+      }
+      \strng{namehash}{42032f770337d8a68fe26319c953d7c1}
+      \strng{fullhash}{42032f770337d8a68fe26319c953d7c1}
+      \strng{bibnamehash}{42032f770337d8a68fe26319c953d7c1}
+      \strng{authorbibnamehash}{42032f770337d8a68fe26319c953d7c1}
+      \strng{authornamehash}{42032f770337d8a68fe26319c953d7c1}
+      \strng{authorfullhash}{42032f770337d8a68fe26319c953d7c1}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heads of the colored people :stories}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696449603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=035f64dafdaf054e0f2b8143085d0319}{%
+           family={Ugrešić},
+           familyi={U\bibinitperiod},
+           given={Dubravka},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=8da4bb83d85eb9e065e9620e26a1e24a}{%
+           family={Elias-Bursać},
+           familyi={E\bibinithyphendelim B\bibinitperiod},
+           given={Ellen},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d1e72ac43350dd0d17b7cb6776696ca6}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rochester, NY}%
+      }
+      \list{publisher}{1}{%
+        {Open Letter}%
+      }
+      \strng{namehash}{035f64dafdaf054e0f2b8143085d0319}
+      \strng{fullhash}{035f64dafdaf054e0f2b8143085d0319}
+      \strng{bibnamehash}{035f64dafdaf054e0f2b8143085d0319}
+      \strng{authorbibnamehash}{035f64dafdaf054e0f2b8143085d0319}
+      \strng{authornamehash}{035f64dafdaf054e0f2b8143085d0319}
+      \strng{authorfullhash}{035f64dafdaf054e0f2b8143085d0319}
+      \strng{translatorbibnamehash}{b19ecc62b91f563e20eecb4acce80abd}
+      \strng{translatornamehash}{b19ecc62b91f563e20eecb4acce80abd}
+      \strng{translatorfullhash}{b19ecc62b91f563e20eecb4acce80abd}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fox}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017436041203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=86c65fb9e36e53dd7ffc436750b8fc25}{%
+           family={Wideman},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima Edgar},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Scribner}%
+      }
+      \strng{namehash}{86c65fb9e36e53dd7ffc436750b8fc25}
+      \strng{fullhash}{86c65fb9e36e53dd7ffc436750b8fc25}
+      \strng{bibnamehash}{86c65fb9e36e53dd7ffc436750b8fc25}
+      \strng{authorbibnamehash}{86c65fb9e36e53dd7ffc436750b8fc25}
+      \strng{authornamehash}{86c65fb9e36e53dd7ffc436750b8fc25}
+      \strng{authorfullhash}{86c65fb9e36e53dd7ffc436750b8fc25}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{American histories :stories}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696549803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=46ed4705eb7818d4f8b01006a4d2ee2b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Lianke},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=68794337f5b59784a48879f9fbdce9b1}{%
+           family={Rojas},
+           familyi={R\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Grove Press}%
+      }
+      \strng{namehash}{46ed4705eb7818d4f8b01006a4d2ee2b}
+      \strng{fullhash}{46ed4705eb7818d4f8b01006a4d2ee2b}
+      \strng{bibnamehash}{46ed4705eb7818d4f8b01006a4d2ee2b}
+      \strng{authorbibnamehash}{46ed4705eb7818d4f8b01006a4d2ee2b}
+      \strng{authornamehash}{46ed4705eb7818d4f8b01006a4d2ee2b}
+      \strng{authorfullhash}{46ed4705eb7818d4f8b01006a4d2ee2b}
+      \strng{translatorbibnamehash}{68794337f5b59784a48879f9fbdce9b1}
+      \strng{translatornamehash}{68794337f5b59784a48879f9fbdce9b1}
+      \strng{translatorfullhash}{68794337f5b59784a48879f9fbdce9b1}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The day the sun died :a novel}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

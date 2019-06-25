@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'dduke.blg'
+[66] biber-MSWIN64:315> INFO - === 
+[131] Biber.pm:371> INFO - Reading 'dduke.bcf'
+[282] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[303] Biber.pm:4093> INFO - Processing section 0
+[328] Biber.pm:4254> INFO - Looking for bibtex format file 'dduke.bib' for section 0
+[354] bibtex.pm:1523> INFO - LaTeX decoding ...
+[520] bibtex.pm:1340> INFO - Found BibTeX data source 'dduke.bib'
+[1021] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1022] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1203] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[1204] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1206] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1207] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[1207] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1327] bbl.pm:636> INFO - Writing 'dduke.bbl' with encoding 'UTF-8'
+[1372] bbl.pm:739> INFO - Output to dduke.bbl
+[1383] Biber.pm:110> INFO - WARNINGS: 2

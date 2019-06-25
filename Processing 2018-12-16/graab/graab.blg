@@ -1,0 +1,24 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[2] Config.pm:307> INFO - Logfile is 'graab.blg'
+[62] biber-MSWIN64:315> INFO - === 
+[128] Biber.pm:371> INFO - Reading 'graab.bcf'
+[316] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[338] Biber.pm:4093> INFO - Processing section 0
+[363] Biber.pm:4254> INFO - Looking for bibtex format file 'graab.bib' for section 0
+[380] bibtex.pm:1523> INFO - LaTeX decoding ...
+[417] bibtex.pm:1340> INFO - Found BibTeX data source 'graab.bib'
+[427] Utils.pm:193> WARN - year field '[2017]' in entry '991017319841903851' is not an integer - this will probably not sort properly.
+[489] Utils.pm:193> WARN - year field '[2017]' in entry '991017326043003851' is not an integer - this will probably not sort properly.
+[497] Utils.pm:193> WARN - year field '[2016]' in entry '991017326042303851' is not an integer - this will probably not sort properly.
+[521] Utils.pm:193> WARN - year field '[2016]' in entry '991017326042503851' is not an integer - this will probably not sort properly.
+[528] Utils.pm:193> WARN - year field '[2018]' in entry '991017391848203851' is not an integer - this will probably not sort properly.
+[535] Utils.pm:193> WARN - year field '[2018]' in entry '991017509047103851' is not an integer - this will probably not sort properly.
+[546] Utils.pm:193> WARN - Name "Simons, Gregory and Kapitonenko, Mykola and Lavrenyuk, Viktor and Vlaeminck, Erik" has too many commas: skipping name
+[614] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[615] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[616] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[616] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[617] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[641] bbl.pm:636> INFO - Writing 'graab.bbl' with encoding 'UTF-8'
+[654] bbl.pm:739> INFO - Output to graab.bbl
+[662] Biber.pm:110> INFO - WARNINGS: 7

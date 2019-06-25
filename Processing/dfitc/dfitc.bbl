@@ -1,0 +1,938 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{991017473202103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4da8ca25f6e291f7c11de825cd42c208}{%
+           family={Arlott},
+           familyi={A\bibinitperiod},
+           given={Norman},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton, New Jersey}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{4da8ca25f6e291f7c11de825cd42c208}
+      \strng{fullhash}{4da8ca25f6e291f7c11de825cd42c208}
+      \strng{bibnamehash}{4da8ca25f6e291f7c11de825cd42c208}
+      \strng{authorbibnamehash}{4da8ca25f6e291f7c11de825cd42c208}
+      \strng{authornamehash}{4da8ca25f6e291f7c11de825cd42c208}
+      \strng{authorfullhash}{4da8ca25f6e291f7c11de825cd42c208}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Birds of the Greater Sundas, the Phillipines, and Wallacea}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017611761803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=60d79bd83de815dde4b2bfb98d8669a9}{%
+           family={Baggott},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{60d79bd83de815dde4b2bfb98d8669a9}
+      \strng{fullhash}{60d79bd83de815dde4b2bfb98d8669a9}
+      \strng{bibnamehash}{60d79bd83de815dde4b2bfb98d8669a9}
+      \strng{authorbibnamehash}{60d79bd83de815dde4b2bfb98d8669a9}
+      \strng{authornamehash}{60d79bd83de815dde4b2bfb98d8669a9}
+      \strng{authorfullhash}{60d79bd83de815dde4b2bfb98d8669a9}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quantum space :loop quantum gravity and the search for the structure of space, time, and the universe}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017521729503851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=2f2ea5f5388f6610589d9749a9c7ac04}{%
+           family={Banks},
+           familyi={B\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=440fb50d2ee84b1db011d190eecf7994}{%
+           family={Brydon-Miller},
+           familyi={B\bibinithyphendelim M\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abingdon, Oxon}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{26556729091093eb6a7e56ad0ef0d5f4}
+      \strng{fullhash}{26556729091093eb6a7e56ad0ef0d5f4}
+      \strng{bibnamehash}{26556729091093eb6a7e56ad0ef0d5f4}
+      \strng{editorbibnamehash}{26556729091093eb6a7e56ad0ef0d5f4}
+      \strng{editornamehash}{26556729091093eb6a7e56ad0ef0d5f4}
+      \strng{editorfullhash}{26556729091093eb6a7e56ad0ef0d5f4}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Ethics in participatory research for health and social well-being :cases and commentaries}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017492389403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=46eca37cadb34b3e9118d9f3989f8ca0}{%
+           family={Bessesen},
+           familyi={B\bibinitperiod},
+           given={Brooke},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C.}%
+      }
+      \list{publisher}{1}{%
+        {Island Press}%
+      }
+      \strng{namehash}{46eca37cadb34b3e9118d9f3989f8ca0}
+      \strng{fullhash}{46eca37cadb34b3e9118d9f3989f8ca0}
+      \strng{bibnamehash}{46eca37cadb34b3e9118d9f3989f8ca0}
+      \strng{authorbibnamehash}{46eca37cadb34b3e9118d9f3989f8ca0}
+      \strng{authornamehash}{46eca37cadb34b3e9118d9f3989f8ca0}
+      \strng{authorfullhash}{46eca37cadb34b3e9118d9f3989f8ca0}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vaquita :science, politics, and crime in the Sea of Cortez}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017492389803851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=48cb72d1b9fe6f3eed76fcd417f77757}{%
+           family={Copsey},
+           familyi={C\bibinitperiod},
+           given={Jamieson\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=eb0c520eb7c7f04432fadd0352c29577}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Simon\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1444fa2293a7cb3489be6a42fabb338f}{%
+           family={Groombridge},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{8feda967c0c06a62b40d677ba6bb3862}
+      \strng{fullhash}{defa99c4f9c07863d884cf592739a0a9}
+      \strng{bibnamehash}{defa99c4f9c07863d884cf592739a0a9}
+      \strng{editorbibnamehash}{defa99c4f9c07863d884cf592739a0a9}
+      \strng{editornamehash}{8feda967c0c06a62b40d677ba6bb3862}
+      \strng{editorfullhash}{defa99c4f9c07863d884cf592739a0a9}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Species conservation :lessons from islands}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017473201003851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=6ae2c962db4efd70def4bedbd1fbf5f5}{%
+           family={Cuffaro},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=fa123f8720bda216016368d644855fc9}{%
+           family={Fletcher},
+           familyi={F\bibinitperiod},
+           given={Samuel\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{0ff1faacd68e4c9a58792c3f6cb4dabc}
+      \strng{fullhash}{0ff1faacd68e4c9a58792c3f6cb4dabc}
+      \strng{bibnamehash}{0ff1faacd68e4c9a58792c3f6cb4dabc}
+      \strng{editorbibnamehash}{0ff1faacd68e4c9a58792c3f6cb4dabc}
+      \strng{editornamehash}{0ff1faacd68e4c9a58792c3f6cb4dabc}
+      \strng{editorfullhash}{0ff1faacd68e4c9a58792c3f6cb4dabc}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Physical perspectives on computation, computational perspectives on physics}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017492390203851}{book}{}
+      \name{author}{6}{}{%
+        {{hash=ab0268fb8036a892dc341945cb7ae3be}{%
+           family={Engineering},
+           familyi={E\bibinitperiod}}}%
+        {{hash=611dac77c7462749755ef835b81c8960}{%
+           family={Sciences},
+           familyi={S\bibinitperiod},
+           given={Medicine\bibnamedelimb (U.S.)\bibnamedelimb National\bibnamedelima Academies},
+           giveni={M\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+        {{hash=ab0268fb8036a892dc341945cb7ae3be}{%
+           family={Engineering},
+           familyi={E\bibinitperiod}}}%
+        {{hash=611dac77c7462749755ef835b81c8960}{%
+           family={Sciences},
+           familyi={S\bibinitperiod},
+           given={Medicine\bibnamedelimb (U.S.)\bibnamedelimb National\bibnamedelima Academies},
+           giveni={M\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+        {{hash=ab0268fb8036a892dc341945cb7ae3be}{%
+           family={Engineering},
+           familyi={E\bibinitperiod}}}%
+        {{hash=611dac77c7462749755ef835b81c8960}{%
+           family={Sciences},
+           familyi={S\bibinitperiod},
+           given={Medicine\bibnamedelimb (U.S.)\bibnamedelimb National\bibnamedelima Academies},
+           giveni={M\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{1390c12ee14586d5ae395bd7219c0d19}
+      \strng{fullhash}{73e9208789f1ec0a8453f10f60de0a32}
+      \strng{bibnamehash}{73e9208789f1ec0a8453f10f60de0a32}
+      \strng{authorbibnamehash}{73e9208789f1ec0a8453f10f60de0a32}
+      \strng{authornamehash}{1390c12ee14586d5ae395bd7219c0d19}
+      \strng{authorfullhash}{73e9208789f1ec0a8453f10f60de0a32}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Improving health research on small populations :proceedings of a workshop}
+      \true{nocite}
+    \endentry
+    \entry{991017473200903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=59d14d937b31c6e04558b676ed22b1c0}{%
+           family={Figdor},
+           familyi={F\bibinitperiod},
+           given={Carrie},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{59d14d937b31c6e04558b676ed22b1c0}
+      \strng{fullhash}{59d14d937b31c6e04558b676ed22b1c0}
+      \strng{bibnamehash}{59d14d937b31c6e04558b676ed22b1c0}
+      \strng{authorbibnamehash}{59d14d937b31c6e04558b676ed22b1c0}
+      \strng{authornamehash}{59d14d937b31c6e04558b676ed22b1c0}
+      \strng{authorfullhash}{59d14d937b31c6e04558b676ed22b1c0}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pieces of mind :the proper domain of psychological predicates}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017473202203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4246098c598e2da3ec2280fde4dbef2a}{%
+           family={Gee},
+           familyi={G\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{4246098c598e2da3ec2280fde4dbef2a}
+      \strng{fullhash}{4246098c598e2da3ec2280fde4dbef2a}
+      \strng{bibnamehash}{4246098c598e2da3ec2280fde4dbef2a}
+      \strng{authorbibnamehash}{4246098c598e2da3ec2280fde4dbef2a}
+      \strng{authornamehash}{4246098c598e2da3ec2280fde4dbef2a}
+      \strng{authorfullhash}{4246098c598e2da3ec2280fde4dbef2a}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Across the bridge :understanding the origin of the vertebrates}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017492393503851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=5949839a7f184b061a9b773cb2a5c8e1}{%
+           family={Gershel},
+           familyi={G\bibinitperiod},
+           given={Jeffrey\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1ddc338e8aa89ee9b57122c4afd9a943}{%
+           family={Crain},
+           familyi={C\bibinitperiod},
+           given={Ellen\bibnamedelima F.},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=3290dc07a4746aab8a642e004dde6076}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={Sandra\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{ac1c113246508b2e1d2b39479fe31696}
+      \strng{fullhash}{7f167ae57486cf08bf8e48f5132db94c}
+      \strng{bibnamehash}{7f167ae57486cf08bf8e48f5132db94c}
+      \strng{editorbibnamehash}{7f167ae57486cf08bf8e48f5132db94c}
+      \strng{editornamehash}{ac1c113246508b2e1d2b39479fe31696}
+      \strng{editorfullhash}{7f167ae57486cf08bf8e48f5132db94c}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Clinical manual of emergency pediatrics}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017492391103851}{book}{}
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {the National Academies Press}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labeltitlesource}{title}
+      \field{title}{Global harmonization of methodological approaches to nutrient intake recommendations :proceedings of a workshop}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017473201303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0c9815e5c87dbb02e49288448167c096}{%
+           family={Halvorson},
+           familyi={H\bibinitperiod},
+           given={Britt},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{0c9815e5c87dbb02e49288448167c096}
+      \strng{fullhash}{0c9815e5c87dbb02e49288448167c096}
+      \strng{bibnamehash}{0c9815e5c87dbb02e49288448167c096}
+      \strng{authorbibnamehash}{0c9815e5c87dbb02e49288448167c096}
+      \strng{authornamehash}{0c9815e5c87dbb02e49288448167c096}
+      \strng{authorfullhash}{0c9815e5c87dbb02e49288448167c096}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Conversionary sites :transforming medical aid and global Christianity from Madagascar to Minnesota}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017473201603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5b065b47b125600a0c32294f9b658357}{%
+           family={Hanson},
+           familyi={H\bibinitperiod},
+           given={Thor},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books, Hachette Book Group}%
+      }
+      \strng{namehash}{5b065b47b125600a0c32294f9b658357}
+      \strng{fullhash}{5b065b47b125600a0c32294f9b658357}
+      \strng{bibnamehash}{5b065b47b125600a0c32294f9b658357}
+      \strng{authorbibnamehash}{5b065b47b125600a0c32294f9b658357}
+      \strng{authornamehash}{5b065b47b125600a0c32294f9b658357}
+      \strng{authorfullhash}{5b065b47b125600a0c32294f9b658357}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Buzz :the nature and necessity of bees}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017473201903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1e06285684e6dd8a46f25598f86523af}{%
+           family={Henaut},
+           familyi={H\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {The New Press}%
+      }
+      \strng{namehash}{1e06285684e6dd8a46f25598f86523af}
+      \strng{fullhash}{1e06285684e6dd8a46f25598f86523af}
+      \strng{bibnamehash}{1e06285684e6dd8a46f25598f86523af}
+      \strng{authorbibnamehash}{1e06285684e6dd8a46f25598f86523af}
+      \strng{authornamehash}{1e06285684e6dd8a46f25598f86523af}
+      \strng{authorfullhash}{1e06285684e6dd8a46f25598f86523af}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A bite-sized history of France :gastronomic tales of revolution, war, and enlightenment}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017521729303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=aac2b7457de5d0de64b8172a5bcbf3d7}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Lynette\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{aac2b7457de5d0de64b8172a5bcbf3d7}
+      \strng{fullhash}{aac2b7457de5d0de64b8172a5bcbf3d7}
+      \strng{bibnamehash}{aac2b7457de5d0de64b8172a5bcbf3d7}
+      \strng{authorbibnamehash}{aac2b7457de5d0de64b8172a5bcbf3d7}
+      \strng{authornamehash}{aac2b7457de5d0de64b8172a5bcbf3d7}
+      \strng{authorfullhash}{aac2b7457de5d0de64b8172a5bcbf3d7}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Haptics}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017474787603851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=8310bf3eacf67f01b11c312b1a772572}{%
+           family={Keyser},
+           familyi={K\bibinitperiod},
+           given={Paul\bibnamedelima T},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=598bc8f260a8f7608603cfac826246cd}{%
+           family={Scarborough},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a13031b0622ce15f7be91a32fe28fc8c}
+      \strng{fullhash}{a13031b0622ce15f7be91a32fe28fc8c}
+      \strng{bibnamehash}{a13031b0622ce15f7be91a32fe28fc8c}
+      \strng{editorbibnamehash}{a13031b0622ce15f7be91a32fe28fc8c}
+      \strng{editornamehash}{a13031b0622ce15f7be91a32fe28fc8c}
+      \strng{editorfullhash}{a13031b0622ce15f7be91a32fe28fc8c}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The Oxford handbook of science and medicine in the classical world}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017474787503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cbdf39bde6d51a85fc9a5245e3df4a1a}{%
+           family={Khain},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi P},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{cbdf39bde6d51a85fc9a5245e3df4a1a}
+      \strng{fullhash}{cbdf39bde6d51a85fc9a5245e3df4a1a}
+      \strng{bibnamehash}{cbdf39bde6d51a85fc9a5245e3df4a1a}
+      \strng{authorbibnamehash}{cbdf39bde6d51a85fc9a5245e3df4a1a}
+      \strng{authornamehash}{cbdf39bde6d51a85fc9a5245e3df4a1a}
+      \strng{authorfullhash}{cbdf39bde6d51a85fc9a5245e3df4a1a}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physical processes in clouds and cloud modeling}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017492390803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4a1908ec40743765d9a0d84b04ece1b6}{%
+           family={Leng},
+           familyi={L\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{4a1908ec40743765d9a0d84b04ece1b6}
+      \strng{fullhash}{4a1908ec40743765d9a0d84b04ece1b6}
+      \strng{bibnamehash}{4a1908ec40743765d9a0d84b04ece1b6}
+      \strng{authorbibnamehash}{4a1908ec40743765d9a0d84b04ece1b6}
+      \strng{authornamehash}{4a1908ec40743765d9a0d84b04ece1b6}
+      \strng{authorfullhash}{4a1908ec40743765d9a0d84b04ece1b6}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The heart of the brain :the hypothalamus and its hormones}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017492394503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=72b5f54e45af4e2a72c02665c7e66d4d}{%
+           family={Marshall},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima Weston},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {The Countryman Press, a division of W.W Norton \& Company}%
+      }
+      \strng{namehash}{72b5f54e45af4e2a72c02665c7e66d4d}
+      \strng{fullhash}{72b5f54e45af4e2a72c02665c7e66d4d}
+      \strng{bibnamehash}{72b5f54e45af4e2a72c02665c7e66d4d}
+      \strng{authorbibnamehash}{72b5f54e45af4e2a72c02665c7e66d4d}
+      \strng{authornamehash}{72b5f54e45af4e2a72c02665c7e66d4d}
+      \strng{authorfullhash}{72b5f54e45af4e2a72c02665c7e66d4d}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ancient skies :constellation mythology of the Greeks}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017492394203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=60dfb277c858e22d75d54ed297754f1a}{%
+           family={McCormack},
+           familyi={M\bibinitperiod},
+           given={Derek\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Durham}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{60dfb277c858e22d75d54ed297754f1a}
+      \strng{fullhash}{60dfb277c858e22d75d54ed297754f1a}
+      \strng{bibnamehash}{60dfb277c858e22d75d54ed297754f1a}
+      \strng{authorbibnamehash}{60dfb277c858e22d75d54ed297754f1a}
+      \strng{authornamehash}{60dfb277c858e22d75d54ed297754f1a}
+      \strng{authorfullhash}{60dfb277c858e22d75d54ed297754f1a}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Atmospheric things :on the allure of elemental envelopment}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017474788103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=07b5204cac4d07a406a57145e9b603f0}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Gordon\bibnamedelima T.},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{07b5204cac4d07a406a57145e9b603f0}
+      \strng{fullhash}{07b5204cac4d07a406a57145e9b603f0}
+      \strng{bibnamehash}{07b5204cac4d07a406a57145e9b603f0}
+      \strng{authorbibnamehash}{07b5204cac4d07a406a57145e9b603f0}
+      \strng{authornamehash}{07b5204cac4d07a406a57145e9b603f0}
+      \strng{authorfullhash}{07b5204cac4d07a406a57145e9b603f0}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Choice matters :how healthcare consumers make decisions (and why clinicians and managers should care)}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017611762703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cb4cd4c45d8ed58e8c38cde6046bb575}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Guardian Faber}%
+      }
+      \strng{namehash}{cb4cd4c45d8ed58e8c38cde6046bb575}
+      \strng{fullhash}{cb4cd4c45d8ed58e8c38cde6046bb575}
+      \strng{bibnamehash}{cb4cd4c45d8ed58e8c38cde6046bb575}
+      \strng{authorbibnamehash}{cb4cd4c45d8ed58e8c38cde6046bb575}
+      \strng{authornamehash}{cb4cd4c45d8ed58e8c38cde6046bb575}
+      \strng{authorfullhash}{cb4cd4c45d8ed58e8c38cde6046bb575}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mrs Moreau's Warbler :how birds got their names}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017492392903851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=e295f5c94285a68ac48b7802f96c5ab6}{%
+           family={Nicholson},
+           familyi={N\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=dd421ff06c7138566adee975697b5c90}{%
+           family={Dupré},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{650e122c13752bf1b185a234d421e643}
+      \strng{fullhash}{650e122c13752bf1b185a234d421e643}
+      \strng{bibnamehash}{650e122c13752bf1b185a234d421e643}
+      \strng{editorbibnamehash}{650e122c13752bf1b185a234d421e643}
+      \strng{editornamehash}{650e122c13752bf1b185a234d421e643}
+      \strng{editorfullhash}{650e122c13752bf1b185a234d421e643}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Everything flows :towards a processual philosophy of biology}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017474788203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=32ce5093dc9a427e3da23a623b1a7c40}{%
+           family={Offit},
+           familyi={O\bibinitperiod},
+           given={Paul\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Columbia University Press}%
+      }
+      \strng{namehash}{32ce5093dc9a427e3da23a623b1a7c40}
+      \strng{fullhash}{32ce5093dc9a427e3da23a623b1a7c40}
+      \strng{bibnamehash}{32ce5093dc9a427e3da23a623b1a7c40}
+      \strng{authorbibnamehash}{32ce5093dc9a427e3da23a623b1a7c40}
+      \strng{authornamehash}{32ce5093dc9a427e3da23a623b1a7c40}
+      \strng{authorfullhash}{32ce5093dc9a427e3da23a623b1a7c40}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bad advice :or why celebrities, politicians, and activists aren't your best source of health information}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017473200703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dac55d1b344b0b4aee21f18ef6bf8176}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={Andrew\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{dac55d1b344b0b4aee21f18ef6bf8176}
+      \strng{fullhash}{dac55d1b344b0b4aee21f18ef6bf8176}
+      \strng{bibnamehash}{dac55d1b344b0b4aee21f18ef6bf8176}
+      \strng{authorbibnamehash}{dac55d1b344b0b4aee21f18ef6bf8176}
+      \strng{authornamehash}{dac55d1b344b0b4aee21f18ef6bf8176}
+      \strng{authorfullhash}{dac55d1b344b0b4aee21f18ef6bf8176}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The third lens :metaphor and the creation of modern cell biology}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017521729703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=36bbea30d65be6826d5656f06edf523e}{%
+           family={Rújula},
+           familyi={R\bibinitperiod},
+           given={A\bibnamedelima De},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{36bbea30d65be6826d5656f06edf523e}
+      \strng{fullhash}{36bbea30d65be6826d5656f06edf523e}
+      \strng{bibnamehash}{36bbea30d65be6826d5656f06edf523e}
+      \strng{authorbibnamehash}{36bbea30d65be6826d5656f06edf523e}
+      \strng{authornamehash}{36bbea30d65be6826d5656f06edf523e}
+      \strng{authorfullhash}{36bbea30d65be6826d5656f06edf523e}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Enjoy our universe :you have no other choice}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017473200803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=26f81153375978ec182e67e0e76763db}{%
+           family={Schindler},
+           familyi={S\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{26f81153375978ec182e67e0e76763db}
+      \strng{fullhash}{26f81153375978ec182e67e0e76763db}
+      \strng{bibnamehash}{26f81153375978ec182e67e0e76763db}
+      \strng{authorbibnamehash}{26f81153375978ec182e67e0e76763db}
+      \strng{authornamehash}{26f81153375978ec182e67e0e76763db}
+      \strng{authorfullhash}{26f81153375978ec182e67e0e76763db}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theoretical virtues in science :uncovering reality through theory}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017473201103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c6720b34ebee666af43425347bdf7485}{%
+           family={Songster},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi Elena},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, United States of America}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c6720b34ebee666af43425347bdf7485}
+      \strng{fullhash}{c6720b34ebee666af43425347bdf7485}
+      \strng{bibnamehash}{c6720b34ebee666af43425347bdf7485}
+      \strng{authorbibnamehash}{c6720b34ebee666af43425347bdf7485}
+      \strng{authornamehash}{c6720b34ebee666af43425347bdf7485}
+      \strng{authorfullhash}{c6720b34ebee666af43425347bdf7485}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Panda nation :the construction and conservation of China's modern icon}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017492392603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8c1f4d2aa3fb21940ee42b099a4d0fda}{%
+           family={Varner},
+           familyi={V\bibinitperiod},
+           given={Collin},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle}%
+      }
+      \list{publisher}{1}{%
+        {University of Washington Press}%
+      }
+      \strng{namehash}{8c1f4d2aa3fb21940ee42b099a4d0fda}
+      \strng{fullhash}{8c1f4d2aa3fb21940ee42b099a4d0fda}
+      \strng{bibnamehash}{8c1f4d2aa3fb21940ee42b099a4d0fda}
+      \strng{authorbibnamehash}{8c1f4d2aa3fb21940ee42b099a4d0fda}
+      \strng{authornamehash}{8c1f4d2aa3fb21940ee42b099a4d0fda}
+      \strng{authorfullhash}{8c1f4d2aa3fb21940ee42b099a4d0fda}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The flora and fauna of the Pacific Northwest coast}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017521730503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=efdfbb868a8ffba15a624925201117be}{%
+           family={Wilsey},
+           familyi={W\bibinitperiod},
+           given={Brian\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, United States of America}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{efdfbb868a8ffba15a624925201117be}
+      \strng{fullhash}{efdfbb868a8ffba15a624925201117be}
+      \strng{bibnamehash}{efdfbb868a8ffba15a624925201117be}
+      \strng{authorbibnamehash}{efdfbb868a8ffba15a624925201117be}
+      \strng{authornamehash}{efdfbb868a8ffba15a624925201117be}
+      \strng{authorfullhash}{efdfbb868a8ffba15a624925201117be}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The biology of grasslands}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

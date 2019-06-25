@@ -1,0 +1,23 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'dfitc.blg'
+[49] biber-MSWIN64:315> INFO - === 
+[112] Biber.pm:371> INFO - Reading 'dfitc.bcf'
+[286] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[316] Biber.pm:4093> INFO - Processing section 0
+[341] Biber.pm:4254> INFO - Looking for bibtex format file 'dfitc.bib' for section 0
+[362] bibtex.pm:1523> INFO - LaTeX decoding ...
+[410] bibtex.pm:1340> INFO - Found BibTeX data source 'dfitc.bib'
+[580] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[580] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[582] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[583] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[584] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[585] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[662] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[662] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[664] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[665] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[665] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[706] bbl.pm:636> INFO - Writing 'dfitc.bbl' with encoding 'UTF-8'
+[721] bbl.pm:739> INFO - Output to dfitc.bbl
+[729] Biber.pm:110> INFO - WARNINGS: 6

@@ -1,0 +1,21 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'dblak.blg'
+[51] biber-MSWIN64:315> INFO - === 
+[115] Biber.pm:371> INFO - Reading 'dblak.bcf'
+[283] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[302] Biber.pm:4093> INFO - Processing section 0
+[353] Biber.pm:4254> INFO - Looking for bibtex format file 'dblak.bib' for section 0
+[373] bibtex.pm:1523> INFO - LaTeX decoding ...
+[427] bibtex.pm:1340> INFO - Found BibTeX data source 'dblak.bib'
+[580] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[580] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[582] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[583] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[642] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[642] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[644] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[644] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[645] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[676] bbl.pm:636> INFO - Writing 'dblak.bbl' with encoding 'UTF-8'
+[690] bbl.pm:739> INFO - Output to dblak.bbl
+[702] Biber.pm:110> INFO - WARNINGS: 4

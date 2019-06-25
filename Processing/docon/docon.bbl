@@ -1,0 +1,1936 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{991017696442803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fb6b57498ae7af46a5a20e0332b363b6}{%
+           family={Abrahamse},
+           familyi={A\bibinitperiod},
+           given={Wokje},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{fb6b57498ae7af46a5a20e0332b363b6}
+      \strng{fullhash}{fb6b57498ae7af46a5a20e0332b363b6}
+      \strng{bibnamehash}{fb6b57498ae7af46a5a20e0332b363b6}
+      \strng{authorbibnamehash}{fb6b57498ae7af46a5a20e0332b363b6}
+      \strng{authornamehash}{fb6b57498ae7af46a5a20e0332b363b6}
+      \strng{authorfullhash}{fb6b57498ae7af46a5a20e0332b363b6}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encouraging pro-environmental behaviour :what works, what doesn't, and why}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696441903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0eb9582b94c0a5778d101b698f779a24}{%
+           family={Adamsky},
+           familyi={A\bibinitperiod},
+           given={Dima},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stanford, California}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{0eb9582b94c0a5778d101b698f779a24}
+      \strng{fullhash}{0eb9582b94c0a5778d101b698f779a24}
+      \strng{bibnamehash}{0eb9582b94c0a5778d101b698f779a24}
+      \strng{authorbibnamehash}{0eb9582b94c0a5778d101b698f779a24}
+      \strng{authornamehash}{0eb9582b94c0a5778d101b698f779a24}
+      \strng{authorfullhash}{0eb9582b94c0a5778d101b698f779a24}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Russian nuclear orthodoxy :religion, politics, and strategy}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653746703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=af43ba3259f7ba0f7d2dd10334dfe5b4}{%
+           family={Altman},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{af43ba3259f7ba0f7d2dd10334dfe5b4}
+      \strng{fullhash}{af43ba3259f7ba0f7d2dd10334dfe5b4}
+      \strng{bibnamehash}{af43ba3259f7ba0f7d2dd10334dfe5b4}
+      \strng{authorbibnamehash}{af43ba3259f7ba0f7d2dd10334dfe5b4}
+      \strng{authornamehash}{af43ba3259f7ba0f7d2dd10334dfe5b4}
+      \strng{authorfullhash}{af43ba3259f7ba0f7d2dd10334dfe5b4}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Citizenship and contemporary direct democracy}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696542103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4bc541cdf06d1afef995008fe9733670}{%
+           family={Aspinall},
+           familyi={A\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ithaca, New York}%
+      }
+      \list{publisher}{1}{%
+        {Cornell University Press}%
+      }
+      \strng{namehash}{4bc541cdf06d1afef995008fe9733670}
+      \strng{fullhash}{4bc541cdf06d1afef995008fe9733670}
+      \strng{bibnamehash}{4bc541cdf06d1afef995008fe9733670}
+      \strng{authorbibnamehash}{4bc541cdf06d1afef995008fe9733670}
+      \strng{authornamehash}{4bc541cdf06d1afef995008fe9733670}
+      \strng{authorfullhash}{4bc541cdf06d1afef995008fe9733670}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Democracy for sale :elections, clientelism, and the state in Indonesia}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696543003851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=911a9fb3fa09686b7bc2aa76d7680f10}{%
+           family={Bächtiger},
+           familyi={B\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{911a9fb3fa09686b7bc2aa76d7680f10}
+      \strng{fullhash}{911a9fb3fa09686b7bc2aa76d7680f10}
+      \strng{bibnamehash}{911a9fb3fa09686b7bc2aa76d7680f10}
+      \strng{authorbibnamehash}{911a9fb3fa09686b7bc2aa76d7680f10}
+      \strng{authornamehash}{911a9fb3fa09686b7bc2aa76d7680f10}
+      \strng{authorfullhash}{911a9fb3fa09686b7bc2aa76d7680f10}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mapping and measuring deliberation :towards a new deliberative quality}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696443103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b2cc42d26447a093ea1fbb31863cc51d}{%
+           family={Baldwin},
+           familyi={B\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Hurst \& Company}%
+      }
+      \strng{namehash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \strng{fullhash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \strng{bibnamehash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \strng{authorbibnamehash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \strng{authornamehash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \strng{authorfullhash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ctrl Alt Delete :how politics and the media crashed our democracy}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017612648103851}{book}{}
+      \name{author}{2}{}{%
+        {{hash=73e34687d5cda47272a8737686751b4e}{%
+           family={Baraldi},
+           familyi={B\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e01c50bdc88a9be71208041f1d17fe9c}{%
+           family={Cockburn},
+           familyi={C\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{b0936bb1456530b80c1757fe6a5706d2}
+      \strng{fullhash}{b0936bb1456530b80c1757fe6a5706d2}
+      \strng{bibnamehash}{b0936bb1456530b80c1757fe6a5706d2}
+      \strng{authorbibnamehash}{b0936bb1456530b80c1757fe6a5706d2}
+      \strng{authornamehash}{b0936bb1456530b80c1757fe6a5706d2}
+      \strng{authorfullhash}{b0936bb1456530b80c1757fe6a5706d2}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theorising childhood :citizenship, rights and participation}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017653848803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=33569545e84ca68ab8876a99c5c8df0c}{%
+           family={Berman},
+           familyi={B\bibinitperiod},
+           given={Sheri},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{33569545e84ca68ab8876a99c5c8df0c}
+      \strng{fullhash}{33569545e84ca68ab8876a99c5c8df0c}
+      \strng{bibnamehash}{33569545e84ca68ab8876a99c5c8df0c}
+      \strng{authorbibnamehash}{33569545e84ca68ab8876a99c5c8df0c}
+      \strng{authornamehash}{33569545e84ca68ab8876a99c5c8df0c}
+      \strng{authorfullhash}{33569545e84ca68ab8876a99c5c8df0c}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Democracy and dictatorship in Europe :from the Ancien régime to the present day}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696539303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=24e5d33789e7ac5ca74c5d1caee6940c}{%
+           family={Bob},
+           familyi={B\bibinitperiod},
+           given={Clifford},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{24e5d33789e7ac5ca74c5d1caee6940c}
+      \strng{fullhash}{24e5d33789e7ac5ca74c5d1caee6940c}
+      \strng{bibnamehash}{24e5d33789e7ac5ca74c5d1caee6940c}
+      \strng{authorbibnamehash}{24e5d33789e7ac5ca74c5d1caee6940c}
+      \strng{authornamehash}{24e5d33789e7ac5ca74c5d1caee6940c}
+      \strng{authorfullhash}{24e5d33789e7ac5ca74c5d1caee6940c}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rights as weapons :instruments of conflict, tools of power}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653849603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ff0b3e2a29c23307d93004bc0243a585}{%
+           family={Buttorff},
+           familyi={B\bibinitperiod},
+           given={Gail\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{ff0b3e2a29c23307d93004bc0243a585}
+      \strng{fullhash}{ff0b3e2a29c23307d93004bc0243a585}
+      \strng{bibnamehash}{ff0b3e2a29c23307d93004bc0243a585}
+      \strng{authorbibnamehash}{ff0b3e2a29c23307d93004bc0243a585}
+      \strng{authornamehash}{ff0b3e2a29c23307d93004bc0243a585}
+      \strng{authorfullhash}{ff0b3e2a29c23307d93004bc0243a585}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Authoritarian elections and opposition groups in the Arab world}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653746803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=914c9d3e76f819fb53f6a1984c56c3d2}{%
+           family={Chirinos},
+           familyi={C\bibinitperiod},
+           given={Paula\bibnamedelima Muñoz},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{914c9d3e76f819fb53f6a1984c56c3d2}
+      \strng{fullhash}{914c9d3e76f819fb53f6a1984c56c3d2}
+      \strng{bibnamehash}{914c9d3e76f819fb53f6a1984c56c3d2}
+      \strng{authorbibnamehash}{914c9d3e76f819fb53f6a1984c56c3d2}
+      \strng{authornamehash}{914c9d3e76f819fb53f6a1984c56c3d2}
+      \strng{authorfullhash}{914c9d3e76f819fb53f6a1984c56c3d2}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Buying audiences :clientelism and electoral campaigns when parties are weak}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653748303851}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=cb6ff9174d99b04d8506d3ca7d4525da}{%
+           family={Clack},
+           familyi={C\bibinitperiod},
+           given={Beverley},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{cb6ff9174d99b04d8506d3ca7d4525da}
+      \strng{fullhash}{cb6ff9174d99b04d8506d3ca7d4525da}
+      \strng{bibnamehash}{cb6ff9174d99b04d8506d3ca7d4525da}
+      \strng{editorbibnamehash}{cb6ff9174d99b04d8506d3ca7d4525da}
+      \strng{editornamehash}{cb6ff9174d99b04d8506d3ca7d4525da}
+      \strng{editorfullhash}{cb6ff9174d99b04d8506d3ca7d4525da}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Interrogating the neoliberal lifecycle :the limits of success}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696541603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=45b8daa94c7cf1145c9e4b1bab480112}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{45b8daa94c7cf1145c9e4b1bab480112}
+      \strng{fullhash}{45b8daa94c7cf1145c9e4b1bab480112}
+      \strng{bibnamehash}{45b8daa94c7cf1145c9e4b1bab480112}
+      \strng{authorbibnamehash}{45b8daa94c7cf1145c9e4b1bab480112}
+      \strng{authornamehash}{45b8daa94c7cf1145c9e4b1bab480112}
+      \strng{authorfullhash}{45b8daa94c7cf1145c9e4b1bab480112}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heroes or villains? :the Blair government reconsidered}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017645249003851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=b871157e87d315b29d2041eb97d35a28}{%
+           family={Devisch},
+           familyi={D\bibinitperiod},
+           given={Oswald},
+           giveni={O\bibinitperiod}}}%
+        {{hash=3751cf206988d6ef30c934824a0dc874}{%
+           family={Huybrechts},
+           familyi={H\bibinitperiod},
+           given={Liesbeth},
+           giveni={L\bibinitperiod}}}%
+        {{hash=81be98da72cd19c69510b832d4d98956}{%
+           family={Ridder},
+           familyi={R\bibinitperiod},
+           given={Roel},
+           giveni={R\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abingdon, Oxon}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{ec3f2a4caabf02782408c2a2a0b280c0}
+      \strng{fullhash}{2e22abbc91cb054aa39b10e1cad45564}
+      \strng{bibnamehash}{2e22abbc91cb054aa39b10e1cad45564}
+      \strng{editorbibnamehash}{2e22abbc91cb054aa39b10e1cad45564}
+      \strng{editornamehash}{ec3f2a4caabf02782408c2a2a0b280c0}
+      \strng{editorfullhash}{2e22abbc91cb054aa39b10e1cad45564}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Participatory design theory :using technology and social media to foster civic engagement}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696543603851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=e0de98534b59f7488affeb9fd98c5c24}{%
+           family={DiGiacomo},
+           familyi={D\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=82d455f1669986c70d1eae2612e3e8ae}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Susan\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Toronto}%
+      }
+      \list{publisher}{1}{%
+        {University of Toronto Press}%
+      }
+      \strng{namehash}{4fdde096dde1b2add52a78c4dbfedb09}
+      \strng{fullhash}{4fdde096dde1b2add52a78c4dbfedb09}
+      \strng{bibnamehash}{4fdde096dde1b2add52a78c4dbfedb09}
+      \strng{editorbibnamehash}{4fdde096dde1b2add52a78c4dbfedb09}
+      \strng{editornamehash}{4fdde096dde1b2add52a78c4dbfedb09}
+      \strng{editorfullhash}{4fdde096dde1b2add52a78c4dbfedb09}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The institutions of human rights :developments and practices}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696541203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4b80d11b71fcc3d570e59d9598c5e086}{%
+           family={Farrell},
+           familyi={F\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton, New Jersey}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{4b80d11b71fcc3d570e59d9598c5e086}
+      \strng{fullhash}{4b80d11b71fcc3d570e59d9598c5e086}
+      \strng{bibnamehash}{4b80d11b71fcc3d570e59d9598c5e086}
+      \strng{authorbibnamehash}{4b80d11b71fcc3d570e59d9598c5e086}
+      \strng{authornamehash}{4b80d11b71fcc3d570e59d9598c5e086}
+      \strng{authorfullhash}{4b80d11b71fcc3d570e59d9598c5e086}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Of privacy and power :the transatlantic struggle over freedom and security}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653748203851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=05e89c29af679fb9f1c31482f3cce740}{%
+           family={Fitzi},
+           familyi={F\bibinitperiod},
+           given={Gregor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2b6352bd134d7fbc6ea11c428eceebf8}{%
+           family={Mackert},
+           familyi={M\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5727d30e01a756f89730810adb5c66ca}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Bryan\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge, Taylor \& Francis Group}%
+      }
+      \strng{namehash}{f49179148a59224da3d3764006752631}
+      \strng{fullhash}{82107e8772e1b1d264ae471394c871c5}
+      \strng{bibnamehash}{82107e8772e1b1d264ae471394c871c5}
+      \strng{editorbibnamehash}{82107e8772e1b1d264ae471394c871c5}
+      \strng{editornamehash}{f49179148a59224da3d3764006752631}
+      \strng{editorfullhash}{82107e8772e1b1d264ae471394c871c5}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Populism and the crisis of democracy}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017383248003851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4865788491df1710e265db15aaf1f713}{%
+           family={Gelmon},
+           familyi={G\bibinitperiod},
+           given={Sherril\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, Massachusettts}%
+      }
+      \list{publisher}{1}{%
+        {Campus Compact}%
+      }
+      \strng{namehash}{4865788491df1710e265db15aaf1f713}
+      \strng{fullhash}{4865788491df1710e265db15aaf1f713}
+      \strng{bibnamehash}{4865788491df1710e265db15aaf1f713}
+      \strng{authorbibnamehash}{4865788491df1710e265db15aaf1f713}
+      \strng{authornamehash}{4865788491df1710e265db15aaf1f713}
+      \strng{authorfullhash}{4865788491df1710e265db15aaf1f713}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Assessing service-learning and civic engagement :principles and techniques}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017653746003851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=171c7dcf51576fd82f7000417bae0441}{%
+           family={Gilabert},
+           familyi={G\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{171c7dcf51576fd82f7000417bae0441}
+      \strng{fullhash}{171c7dcf51576fd82f7000417bae0441}
+      \strng{bibnamehash}{171c7dcf51576fd82f7000417bae0441}
+      \strng{authorbibnamehash}{171c7dcf51576fd82f7000417bae0441}
+      \strng{authornamehash}{171c7dcf51576fd82f7000417bae0441}
+      \strng{authorfullhash}{171c7dcf51576fd82f7000417bae0441}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Human dignity and human rights}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017653848703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d1ddb2d13be22d481e00216889718eb9}{%
+           family={Halbrook},
+           familyi={H\bibinitperiod},
+           given={Stephen\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lanham, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {Rowman \& Littlefield}%
+      }
+      \strng{namehash}{d1ddb2d13be22d481e00216889718eb9}
+      \strng{fullhash}{d1ddb2d13be22d481e00216889718eb9}
+      \strng{bibnamehash}{d1ddb2d13be22d481e00216889718eb9}
+      \strng{authorbibnamehash}{d1ddb2d13be22d481e00216889718eb9}
+      \strng{authornamehash}{d1ddb2d13be22d481e00216889718eb9}
+      \strng{authorfullhash}{d1ddb2d13be22d481e00216889718eb9}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The founders' Second Amendment :origins of the right to bear arms}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{991017653745503851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=cdb456fba8ab056545f45ad2be1fd57c}{%
+           family={Hartzell},
+           familyi={H\bibinitperiod},
+           given={Caroline\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bbafcb207dd91451226a164ef58d99c7}{%
+           family={Mehler},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boulder, Colorado}%
+      }
+      \list{publisher}{1}{%
+        {Lynne Rienner Publishers}%
+      }
+      \strng{namehash}{9f3ac18cc9e9a74e708672c9f962ad81}
+      \strng{fullhash}{9f3ac18cc9e9a74e708672c9f962ad81}
+      \strng{bibnamehash}{9f3ac18cc9e9a74e708672c9f962ad81}
+      \strng{editorbibnamehash}{9f3ac18cc9e9a74e708672c9f962ad81}
+      \strng{editornamehash}{9f3ac18cc9e9a74e708672c9f962ad81}
+      \strng{editorfullhash}{9f3ac18cc9e9a74e708672c9f962ad81}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Power sharing and power relations after civil war}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653745003851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=790d2286e2d6ed162051cde2953de346}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lanham}%
+      }
+      \list{publisher}{1}{%
+        {Lexington Books}%
+      }
+      \strng{namehash}{790d2286e2d6ed162051cde2953de346}
+      \strng{fullhash}{790d2286e2d6ed162051cde2953de346}
+      \strng{bibnamehash}{790d2286e2d6ed162051cde2953de346}
+      \strng{authorbibnamehash}{790d2286e2d6ed162051cde2953de346}
+      \strng{authornamehash}{790d2286e2d6ed162051cde2953de346}
+      \strng{authorfullhash}{790d2286e2d6ed162051cde2953de346}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electoral strategies under authoritarianism :evidence from the former Soviet Union}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696439703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ae4ae65d70739346d7e2ba8ff4459d9e}{%
+           family={Hennette-Vauchez},
+           familyi={H\bibinithyphendelim V\bibinitperiod},
+           given={Stéphanie},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{ae4ae65d70739346d7e2ba8ff4459d9e}
+      \strng{fullhash}{ae4ae65d70739346d7e2ba8ff4459d9e}
+      \strng{bibnamehash}{ae4ae65d70739346d7e2ba8ff4459d9e}
+      \strng{authorbibnamehash}{ae4ae65d70739346d7e2ba8ff4459d9e}
+      \strng{authornamehash}{ae4ae65d70739346d7e2ba8ff4459d9e}
+      \strng{authorfullhash}{ae4ae65d70739346d7e2ba8ff4459d9e}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to democratize Europe}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653745303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5447b63990c13c8e84e16ec24fa6ab00}{%
+           family={Hercus},
+           familyi={H\bibinitperiod},
+           given={Courtney},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lanham, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {Lexington Books}%
+      }
+      \strng{namehash}{5447b63990c13c8e84e16ec24fa6ab00}
+      \strng{fullhash}{5447b63990c13c8e84e16ec24fa6ab00}
+      \strng{bibnamehash}{5447b63990c13c8e84e16ec24fa6ab00}
+      \strng{authorbibnamehash}{5447b63990c13c8e84e16ec24fa6ab00}
+      \strng{authornamehash}{5447b63990c13c8e84e16ec24fa6ab00}
+      \strng{authorfullhash}{5447b63990c13c8e84e16ec24fa6ab00}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The struggle over human rights :the non-aligned movement, Jimmy Carter, and neoliberalism}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653745403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5f2369ad20a917d393391dbd4cfde5de}{%
+           family={Hertel-Ferdez},
+           familyi={H\bibinithyphendelim F\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5f2369ad20a917d393391dbd4cfde5de}
+      \strng{fullhash}{5f2369ad20a917d393391dbd4cfde5de}
+      \strng{bibnamehash}{5f2369ad20a917d393391dbd4cfde5de}
+      \strng{authorbibnamehash}{5f2369ad20a917d393391dbd4cfde5de}
+      \strng{authornamehash}{5f2369ad20a917d393391dbd4cfde5de}
+      \strng{authorfullhash}{5f2369ad20a917d393391dbd4cfde5de}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{State capture :how conservative activists, big businesses, and wealthy donors reshaped the American states--and the nation}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653746603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9a3704572d999217e4796906a0d89215}{%
+           family={Hinds},
+           familyi={H\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{9a3704572d999217e4796906a0d89215}
+      \strng{fullhash}{9a3704572d999217e4796906a0d89215}
+      \strng{bibnamehash}{9a3704572d999217e4796906a0d89215}
+      \strng{authorbibnamehash}{9a3704572d999217e4796906a0d89215}
+      \strng{authornamehash}{9a3704572d999217e4796906a0d89215}
+      \strng{authorfullhash}{9a3704572d999217e4796906a0d89215}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Civil society organisations, goverce and the Caribbean community}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696539903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e36f0dca6f91c97c1ac7dc838509a6f2}{%
+           family={Ingham},
+           familyi={I\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e36f0dca6f91c97c1ac7dc838509a6f2}
+      \strng{fullhash}{e36f0dca6f91c97c1ac7dc838509a6f2}
+      \strng{bibnamehash}{e36f0dca6f91c97c1ac7dc838509a6f2}
+      \strng{authorbibnamehash}{e36f0dca6f91c97c1ac7dc838509a6f2}
+      \strng{authornamehash}{e36f0dca6f91c97c1ac7dc838509a6f2}
+      \strng{authorfullhash}{e36f0dca6f91c97c1ac7dc838509a6f2}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rule of multiple majorities :a new theory of popular control}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653849503851}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=a982e84d26b7ff8a37a4531ee2b40d75}{%
+           family={Jefferson},
+           familyi={J\bibinitperiod},
+           given={Robert\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lanham, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {Lexington Books}%
+      }
+      \strng{namehash}{a982e84d26b7ff8a37a4531ee2b40d75}
+      \strng{fullhash}{a982e84d26b7ff8a37a4531ee2b40d75}
+      \strng{bibnamehash}{a982e84d26b7ff8a37a4531ee2b40d75}
+      \strng{editorbibnamehash}{a982e84d26b7ff8a37a4531ee2b40d75}
+      \strng{editornamehash}{a982e84d26b7ff8a37a4531ee2b40d75}
+      \strng{editorfullhash}{a982e84d26b7ff8a37a4531ee2b40d75}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Black veterans, politics, and civil rights in twentieth-century America :closing ranks}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017645249603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1e84406e1747dcf669aff4e9de845794}{%
+           family={KENNEDY},
+           familyi={K\bibinitperiod},
+           given={KERRY\bibnamedelima J},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {[S.l.]}%
+      }
+      \list{publisher}{1}{%
+        {SPRINGER VERLAG, SINGAPOR}%
+      }
+      \strng{namehash}{1e84406e1747dcf669aff4e9de845794}
+      \strng{fullhash}{1e84406e1747dcf669aff4e9de845794}
+      \strng{bibnamehash}{1e84406e1747dcf669aff4e9de845794}
+      \strng{authorbibnamehash}{1e84406e1747dcf669aff4e9de845794}
+      \strng{authornamehash}{1e84406e1747dcf669aff4e9de845794}
+      \strng{authorfullhash}{1e84406e1747dcf669aff4e9de845794}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CIVIC AND CITIZENSHIP EDUCATION IN VOLATILE TIMES :preparing students for citizenship in the 21st... century.}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017612549803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a7fc32164ce2ceb4a11abbb80dd0ce59}{%
+           family={Klinenberg},
+           familyi={K\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Crown}%
+      }
+      \strng{namehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{fullhash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{bibnamehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{authorbibnamehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{authornamehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{authorfullhash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Palaces for the people :how social infrastructure can help fight inequality, polarization, and the decline of civic life}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017653745603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=697b748a63b08844142070c29abd9a3b}{%
+           family={Koss},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{697b748a63b08844142070c29abd9a3b}
+      \strng{fullhash}{697b748a63b08844142070c29abd9a3b}
+      \strng{bibnamehash}{697b748a63b08844142070c29abd9a3b}
+      \strng{authorbibnamehash}{697b748a63b08844142070c29abd9a3b}
+      \strng{authornamehash}{697b748a63b08844142070c29abd9a3b}
+      \strng{authorfullhash}{697b748a63b08844142070c29abd9a3b}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Parliaments in time :the evolution of legislative democracy in Western Europe, 1866-2015}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696440403851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=913bb8c7af8c7d1d86fee808119681e2}{%
+           family={Krieg},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {Georgetown University Press}%
+      }
+      \strng{namehash}{913bb8c7af8c7d1d86fee808119681e2}
+      \strng{fullhash}{913bb8c7af8c7d1d86fee808119681e2}
+      \strng{bibnamehash}{913bb8c7af8c7d1d86fee808119681e2}
+      \strng{authorbibnamehash}{913bb8c7af8c7d1d86fee808119681e2}
+      \strng{authornamehash}{913bb8c7af8c7d1d86fee808119681e2}
+      \strng{authorfullhash}{913bb8c7af8c7d1d86fee808119681e2}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Surrogate warfare :the transformation of war in the twenty-first century}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653748503851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=2370a61aa1ee29309bdbf0e6d290550d}{%
+           family={Krüger},
+           familyi={K\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=02e2bc67c5ae42cc0e194e1458d7c1a7}{%
+           family={Figlio},
+           familyi={F\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4e4b78a3d8f08ef208107ecc4e6e64dc}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{45b2d0bcd8deb17631d84eb589ff14ff}
+      \strng{fullhash}{7a92c000131c18de619fe78f3556b4cb}
+      \strng{bibnamehash}{7a92c000131c18de619fe78f3556b4cb}
+      \strng{editorbibnamehash}{7a92c000131c18de619fe78f3556b4cb}
+      \strng{editornamehash}{45b2d0bcd8deb17631d84eb589ff14ff}
+      \strng{editorfullhash}{7a92c000131c18de619fe78f3556b4cb}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Fomenting political violence :fantasy, language, media, action}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696442203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8eea9ffb0b39ee1b89bc7510304e4e32}{%
+           family={Lebovic},
+           familyi={L\bibinitperiod},
+           given={James\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8eea9ffb0b39ee1b89bc7510304e4e32}
+      \strng{fullhash}{8eea9ffb0b39ee1b89bc7510304e4e32}
+      \strng{bibnamehash}{8eea9ffb0b39ee1b89bc7510304e4e32}
+      \strng{authorbibnamehash}{8eea9ffb0b39ee1b89bc7510304e4e32}
+      \strng{authornamehash}{8eea9ffb0b39ee1b89bc7510304e4e32}
+      \strng{authorfullhash}{8eea9ffb0b39ee1b89bc7510304e4e32}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Planning to fail :the US wars in Vietnam, Iraq, and Afghanistan}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017644249703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ff9c4901e61caa69ac0ad5c51649c595}{%
+           family={Loehwing},
+           familyi={L\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {University Park, Pennsylvania}%
+      }
+      \list{publisher}{1}{%
+        {The Pennsylvania State University Press}%
+      }
+      \strng{namehash}{ff9c4901e61caa69ac0ad5c51649c595}
+      \strng{fullhash}{ff9c4901e61caa69ac0ad5c51649c595}
+      \strng{bibnamehash}{ff9c4901e61caa69ac0ad5c51649c595}
+      \strng{authorbibnamehash}{ff9c4901e61caa69ac0ad5c51649c595}
+      \strng{authornamehash}{ff9c4901e61caa69ac0ad5c51649c595}
+      \strng{authorfullhash}{ff9c4901e61caa69ac0ad5c51649c595}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Homeless advocacy and the rhetorical construction of the civic home}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017653747503851}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=4fa83a65ca2a46858d1f86d3ce767a80}{%
+           family={McKanders},
+           familyi={M\bibinitperiod},
+           given={Karla},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abingdon, Oxon}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{4fa83a65ca2a46858d1f86d3ce767a80}
+      \strng{fullhash}{4fa83a65ca2a46858d1f86d3ce767a80}
+      \strng{bibnamehash}{4fa83a65ca2a46858d1f86d3ce767a80}
+      \strng{editorbibnamehash}{4fa83a65ca2a46858d1f86d3ce767a80}
+      \strng{editornamehash}{4fa83a65ca2a46858d1f86d3ce767a80}
+      \strng{editorfullhash}{4fa83a65ca2a46858d1f86d3ce767a80}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Arabs at home and in the world :human rights, gender politics, and identity}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017644247903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8cd87cd476e8711a0573b572388639a8}{%
+           family={Mihailidis},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{8cd87cd476e8711a0573b572388639a8}
+      \strng{fullhash}{8cd87cd476e8711a0573b572388639a8}
+      \strng{bibnamehash}{8cd87cd476e8711a0573b572388639a8}
+      \strng{authorbibnamehash}{8cd87cd476e8711a0573b572388639a8}
+      \strng{authornamehash}{8cd87cd476e8711a0573b572388639a8}
+      \strng{authorfullhash}{8cd87cd476e8711a0573b572388639a8}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Civic media literacies :re-imagining human connection in an age of digital abundance}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696439903851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8e74494146f65016374b8a4c446699ca}{%
+           family={Mogaki},
+           familyi={M\bibinitperiod},
+           given={Masahiro},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Manchester}%
+      }
+      \list{publisher}{1}{%
+        {Manchester University Press}%
+      }
+      \strng{namehash}{8e74494146f65016374b8a4c446699ca}
+      \strng{fullhash}{8e74494146f65016374b8a4c446699ca}
+      \strng{bibnamehash}{8e74494146f65016374b8a4c446699ca}
+      \strng{authorbibnamehash}{8e74494146f65016374b8a4c446699ca}
+      \strng{authornamehash}{8e74494146f65016374b8a4c446699ca}
+      \strng{authorfullhash}{8e74494146f65016374b8a4c446699ca}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding goverce in contemporary Japan. Transformation and the regulatory state.}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653848303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f70f35433b856d0a387762c8989bd5f0}{%
+           family={Morse},
+           familyi={M\bibinitperiod},
+           given={Yonatan\bibnamedelima L.},
+           giveni={Y\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{f70f35433b856d0a387762c8989bd5f0}
+      \strng{fullhash}{f70f35433b856d0a387762c8989bd5f0}
+      \strng{bibnamehash}{f70f35433b856d0a387762c8989bd5f0}
+      \strng{authorbibnamehash}{f70f35433b856d0a387762c8989bd5f0}
+      \strng{authornamehash}{f70f35433b856d0a387762c8989bd5f0}
+      \strng{authorfullhash}{f70f35433b856d0a387762c8989bd5f0}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How autocrats compete :parties, patrons, and unfair elections in Africa}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653745103851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=f60900f4f35d90085be328b9af20e77d}{%
+           family={Mouly},
+           familyi={M\bibinitperiod},
+           given={Cécile},
+           giveni={C\bibinitperiod}}}%
+        {{hash=62c256a5fbca87a1954a1e5c3314c5d2}{%
+           family={Delgado},
+           familyi={D\bibinitperiod},
+           given={Esperanza\bibnamedelima Hernández},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{992055c8e17da0e66bd8f64347493c13}
+      \strng{fullhash}{992055c8e17da0e66bd8f64347493c13}
+      \strng{bibnamehash}{992055c8e17da0e66bd8f64347493c13}
+      \strng{editorbibnamehash}{992055c8e17da0e66bd8f64347493c13}
+      \strng{editornamehash}{992055c8e17da0e66bd8f64347493c13}
+      \strng{editorfullhash}{992055c8e17da0e66bd8f64347493c13}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Civil resistance and violent conflict in Latin America :mobilizing for rights}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696544803851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=e10d476ad31663dc1018382fe31e03e6}{%
+           family={Mulholland},
+           familyi={M\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2eee8ec0a37801f29b4f4217a0fd4abd}{%
+           family={Montagna},
+           familyi={M\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=db7633ee8bdcd027a5da2c5ab4822902}{%
+           family={Sanders-McDonagh},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Erin},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{d2eb68df8f6d48b5d418c9e3060c657e}
+      \strng{fullhash}{2d7ffe8d5efb29bc2b3af2f75c5a6ea3}
+      \strng{bibnamehash}{2d7ffe8d5efb29bc2b3af2f75c5a6ea3}
+      \strng{editorbibnamehash}{2d7ffe8d5efb29bc2b3af2f75c5a6ea3}
+      \strng{editornamehash}{d2eb68df8f6d48b5d418c9e3060c657e}
+      \strng{editorfullhash}{2d7ffe8d5efb29bc2b3af2f75c5a6ea3}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Gendering nationalism :intersections of nation, gender and sexuality}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696539603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a0507f036cb61a174c5b9549738791d9}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a0507f036cb61a174c5b9549738791d9}
+      \strng{fullhash}{a0507f036cb61a174c5b9549738791d9}
+      \strng{bibnamehash}{a0507f036cb61a174c5b9549738791d9}
+      \strng{authorbibnamehash}{a0507f036cb61a174c5b9549738791d9}
+      \strng{authornamehash}{a0507f036cb61a174c5b9549738791d9}
+      \strng{authorfullhash}{a0507f036cb61a174c5b9549738791d9}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The African Charter on Human and People's Rights :a commentary}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696541703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e61b9771b8ac216ba4f312ae83eb4ce5}{%
+           family={Nathan},
+           familyi={N\bibinitperiod},
+           given={Noah\bibnamedelima L.},
+           giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e61b9771b8ac216ba4f312ae83eb4ce5}
+      \strng{fullhash}{e61b9771b8ac216ba4f312ae83eb4ce5}
+      \strng{bibnamehash}{e61b9771b8ac216ba4f312ae83eb4ce5}
+      \strng{authorbibnamehash}{e61b9771b8ac216ba4f312ae83eb4ce5}
+      \strng{authornamehash}{e61b9771b8ac216ba4f312ae83eb4ce5}
+      \strng{authorfullhash}{e61b9771b8ac216ba4f312ae83eb4ce5}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electoral politics and Africa's urban transition :class and ethnicity in Ghana}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696542603851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4bf56dcc811827ac3aa1ef830715c6e5}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={Angela\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{4bf56dcc811827ac3aa1ef830715c6e5}
+      \strng{fullhash}{4bf56dcc811827ac3aa1ef830715c6e5}
+      \strng{bibnamehash}{4bf56dcc811827ac3aa1ef830715c6e5}
+      \strng{authorbibnamehash}{4bf56dcc811827ac3aa1ef830715c6e5}
+      \strng{authornamehash}{4bf56dcc811827ac3aa1ef830715c6e5}
+      \strng{authorfullhash}{4bf56dcc811827ac3aa1ef830715c6e5}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Impact, legitimacy, and limitations of truth commissions}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696541803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b1a8a4bd12899795b9c0e41c4a33624d}{%
+           family={Norris},
+           familyi={N\bibinitperiod},
+           given={Pippa},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b1a8a4bd12899795b9c0e41c4a33624d}
+      \strng{fullhash}{b1a8a4bd12899795b9c0e41c4a33624d}
+      \strng{bibnamehash}{b1a8a4bd12899795b9c0e41c4a33624d}
+      \strng{authorbibnamehash}{b1a8a4bd12899795b9c0e41c4a33624d}
+      \strng{authornamehash}{b1a8a4bd12899795b9c0e41c4a33624d}
+      \strng{authorfullhash}{b1a8a4bd12899795b9c0e41c4a33624d}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cultural backlash :Trump, Brexit, and the rise of authoritarian populism}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696542503851}{book}{}
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labeltitlesource}{title}
+      \field{title}{Outsiders :why difference is the future of civil rights}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653847703851}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=1664a3a3152bfaf81750757c01a1dd48}{%
+           family={Pinto},
+           familyi={P\bibinitperiod},
+           given={António\bibnamedelima Costa},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=65d752e989ca3eeebbf57dfd473861de}{%
+           family={Conceição\bibnamedelimb Pequito\bibnamedelima Teixeira},
+           familyi={C\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{4374337c0fd4c5f9ec5b2d183a4c86de}
+      \strng{fullhash}{4374337c0fd4c5f9ec5b2d183a4c86de}
+      \strng{bibnamehash}{4374337c0fd4c5f9ec5b2d183a4c86de}
+      \strng{editorbibnamehash}{4374337c0fd4c5f9ec5b2d183a4c86de}
+      \strng{editornamehash}{4374337c0fd4c5f9ec5b2d183a4c86de}
+      \strng{editorfullhash}{4374337c0fd4c5f9ec5b2d183a4c86de}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Political institutions and democracy in Portugal :assessing the impact of the eurocrisis}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017612548503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=65b66dae0734a9927a8cfcc3ede30e79}{%
+           family={Pitti},
+           familyi={P\bibinitperiod},
+           given={Ilaria},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{65b66dae0734a9927a8cfcc3ede30e79}
+      \strng{fullhash}{65b66dae0734a9927a8cfcc3ede30e79}
+      \strng{bibnamehash}{65b66dae0734a9927a8cfcc3ede30e79}
+      \strng{authorbibnamehash}{65b66dae0734a9927a8cfcc3ede30e79}
+      \strng{authornamehash}{65b66dae0734a9927a8cfcc3ede30e79}
+      \strng{authorfullhash}{65b66dae0734a9927a8cfcc3ede30e79}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Youth and unconventional political engagement}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017509049303851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=337a6f6215cab3cbd6792112a404258a}{%
+           family={Poast},
+           familyi={P\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{337a6f6215cab3cbd6792112a404258a}
+      \strng{fullhash}{337a6f6215cab3cbd6792112a404258a}
+      \strng{bibnamehash}{337a6f6215cab3cbd6792112a404258a}
+      \strng{authorbibnamehash}{337a6f6215cab3cbd6792112a404258a}
+      \strng{authornamehash}{337a6f6215cab3cbd6792112a404258a}
+      \strng{authorfullhash}{337a6f6215cab3cbd6792112a404258a}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Organizing democracy :how international organizations assist new democracies}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017653745703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c0c42d2dd42a1ecff79ad92b99bcc003}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={Vijayendra},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c0c42d2dd42a1ecff79ad92b99bcc003}
+      \strng{fullhash}{c0c42d2dd42a1ecff79ad92b99bcc003}
+      \strng{bibnamehash}{c0c42d2dd42a1ecff79ad92b99bcc003}
+      \strng{authorbibnamehash}{c0c42d2dd42a1ecff79ad92b99bcc003}
+      \strng{authornamehash}{c0c42d2dd42a1ecff79ad92b99bcc003}
+      \strng{authorfullhash}{c0c42d2dd42a1ecff79ad92b99bcc003}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Oral democracy :deliberation in Indian village assemblies}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653746203851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=9c9ba8ddb5c0ac097912a175cfd67400}{%
+           family={Ratuva},
+           familyi={R\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f75b756557380946877bd75fed033f44}{%
+           family={Compel},
+           familyi={C\bibinitperiod},
+           given={Radomir},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9c684c2a10c7e036e913dc546b2e5c31}{%
+           family={Aguilar},
+           familyi={A\bibinitperiod},
+           given={Sérgio\bibnamedelimb Luiz\bibnamedelima Cruz},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {[Singapore]}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{8eb4933585547a1aa4452fcd11e40452}
+      \strng{fullhash}{a740b5b4919c92e16e8a59e76b4f9ca6}
+      \strng{bibnamehash}{a740b5b4919c92e16e8a59e76b4f9ca6}
+      \strng{editorbibnamehash}{a740b5b4919c92e16e8a59e76b4f9ca6}
+      \strng{editornamehash}{8eb4933585547a1aa4452fcd11e40452}
+      \strng{editorfullhash}{a740b5b4919c92e16e8a59e76b4f9ca6}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Guns \& roses :comparative civil-military relations in the changing security environment}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696541503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5efcdae10945f52ecea053871e7c6855}{%
+           family={Renshaw},
+           familyi={R\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {University of Pennsylvania Press}%
+      }
+      \strng{namehash}{5efcdae10945f52ecea053871e7c6855}
+      \strng{fullhash}{5efcdae10945f52ecea053871e7c6855}
+      \strng{bibnamehash}{5efcdae10945f52ecea053871e7c6855}
+      \strng{authorbibnamehash}{5efcdae10945f52ecea053871e7c6855}
+      \strng{authornamehash}{5efcdae10945f52ecea053871e7c6855}
+      \strng{authorfullhash}{5efcdae10945f52ecea053871e7c6855}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Human rights and participatory politics in Southeast Asia}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653746103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2d3381b4b48149e621374382788eca9b}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{2d3381b4b48149e621374382788eca9b}
+      \strng{fullhash}{2d3381b4b48149e621374382788eca9b}
+      \strng{bibnamehash}{2d3381b4b48149e621374382788eca9b}
+      \strng{authorbibnamehash}{2d3381b4b48149e621374382788eca9b}
+      \strng{authornamehash}{2d3381b4b48149e621374382788eca9b}
+      \strng{authorfullhash}{2d3381b4b48149e621374382788eca9b}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How parliament works}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653745903851}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=196ff7e6c3c1b2c07ca7b64e8a3d4607}{%
+           family={Sahle},
+           familyi={S\bibinitperiod},
+           given={Eunice\bibnamedelima Njeri},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{196ff7e6c3c1b2c07ca7b64e8a3d4607}
+      \strng{fullhash}{196ff7e6c3c1b2c07ca7b64e8a3d4607}
+      \strng{bibnamehash}{196ff7e6c3c1b2c07ca7b64e8a3d4607}
+      \strng{editorbibnamehash}{196ff7e6c3c1b2c07ca7b64e8a3d4607}
+      \strng{editornamehash}{196ff7e6c3c1b2c07ca7b64e8a3d4607}
+      \strng{editorfullhash}{196ff7e6c3c1b2c07ca7b64e8a3d4607}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Human rights in Africa :contemporary debates and struggles}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653848003851}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=652db769a55a6abe1d43f63a2d86d64f}{%
+           family={Sedgwick},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{652db769a55a6abe1d43f63a2d86d64f}
+      \strng{fullhash}{652db769a55a6abe1d43f63a2d86d64f}
+      \strng{bibnamehash}{652db769a55a6abe1d43f63a2d86d64f}
+      \strng{editorbibnamehash}{652db769a55a6abe1d43f63a2d86d64f}
+      \strng{editornamehash}{652db769a55a6abe1d43f63a2d86d64f}
+      \strng{editorfullhash}{652db769a55a6abe1d43f63a2d86d64f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Key thinkers of the radical right :behind the new threat to liberal democracy}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017612547503851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=b3525000612be7f0d36ad1542bc9c970}{%
+           family={Shefer},
+           familyi={S\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4430fb287cbd72bd74c051c8ec3cde76}{%
+           family={Hearn},
+           familyi={H\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b1f197196f7aba49964a1223ccd384da}{%
+           family={Ratele},
+           familyi={R\bibinitperiod},
+           given={Kopano},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{49b74fdde837888820b2a8ab0560e4c8}
+      \strng{fullhash}{75b91e7e3c79a03210c59d37f73da57d}
+      \strng{bibnamehash}{75b91e7e3c79a03210c59d37f73da57d}
+      \strng{editorbibnamehash}{75b91e7e3c79a03210c59d37f73da57d}
+      \strng{editornamehash}{49b74fdde837888820b2a8ab0560e4c8}
+      \strng{editorfullhash}{75b91e7e3c79a03210c59d37f73da57d}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Engaging youth in activism, research and pedagogical praxis :transnational and intersectional perspectives on gender, sex, and race}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017653847803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dbb1a785ac099fffb937babf26a7b3bf}{%
+           family={Shklar},
+           familyi={S\bibinitperiod},
+           given={Judith\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{dbb1a785ac099fffb937babf26a7b3bf}
+      \strng{fullhash}{dbb1a785ac099fffb937babf26a7b3bf}
+      \strng{bibnamehash}{dbb1a785ac099fffb937babf26a7b3bf}
+      \strng{authorbibnamehash}{dbb1a785ac099fffb937babf26a7b3bf}
+      \strng{authornamehash}{dbb1a785ac099fffb937babf26a7b3bf}
+      \strng{authorfullhash}{dbb1a785ac099fffb937babf26a7b3bf}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On political obligation}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653847603851}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=c4187f34f388e2f99c4cc671747d013d}{%
+           family={Stengel},
+           familyi={S\bibinitperiod},
+           given={Frank\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2f7c67ed63ccef4a80269bcae0703b59}{%
+           family={MacDonald},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima Bruce},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=0c53bd7a703517046769da5c6d51b093}{%
+           family={Nabers},
+           familyi={N\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{ac4f4e6ad09d9ab436ec26465dcf933a}
+      \strng{fullhash}{ba8fec6c8f38ff475792ceb6e9aadf96}
+      \strng{bibnamehash}{ba8fec6c8f38ff475792ceb6e9aadf96}
+      \strng{editorbibnamehash}{ba8fec6c8f38ff475792ceb6e9aadf96}
+      \strng{editornamehash}{ac4f4e6ad09d9ab436ec26465dcf933a}
+      \strng{editorfullhash}{ba8fec6c8f38ff475792ceb6e9aadf96}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Populism and world politics :exploring inter- and transnational dimensions}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017653847503851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f5c336c449556932c4bddf286d99ed0f}{%
+           family={Sumpter},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelimb J.\bibnamedelimi T.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Bloomsbury Sigma}%
+      }
+      \strng{namehash}{f5c336c449556932c4bddf286d99ed0f}
+      \strng{fullhash}{f5c336c449556932c4bddf286d99ed0f}
+      \strng{bibnamehash}{f5c336c449556932c4bddf286d99ed0f}
+      \strng{authorbibnamehash}{f5c336c449556932c4bddf286d99ed0f}
+      \strng{authornamehash}{f5c336c449556932c4bddf286d99ed0f}
+      \strng{authorfullhash}{f5c336c449556932c4bddf286d99ed0f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Outnumbered :from Facebook and Google to fake news and filter-bubbles -- the algorithms that control our lives}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017696542803851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=55fe010427f62e38bcdf93a606dd6e51}{%
+           family={Tsutsui},
+           familyi={T\bibinitperiod},
+           given={Kiyoteru},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{55fe010427f62e38bcdf93a606dd6e51}
+      \strng{fullhash}{55fe010427f62e38bcdf93a606dd6e51}
+      \strng{bibnamehash}{55fe010427f62e38bcdf93a606dd6e51}
+      \strng{authorbibnamehash}{55fe010427f62e38bcdf93a606dd6e51}
+      \strng{authornamehash}{55fe010427f62e38bcdf93a606dd6e51}
+      \strng{authorfullhash}{55fe010427f62e38bcdf93a606dd6e51}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rights make might :global human rights and minority social movements in Japan}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{991017653748103851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5e972a5c59b050bada37b0eb643723fb}{%
+           family={Weisheit},
+           familyi={W\bibinitperiod},
+           given={Ralph\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{5e972a5c59b050bada37b0eb643723fb}
+      \strng{fullhash}{5e972a5c59b050bada37b0eb643723fb}
+      \strng{bibnamehash}{5e972a5c59b050bada37b0eb643723fb}
+      \strng{authorbibnamehash}{5e972a5c59b050bada37b0eb643723fb}
+      \strng{authornamehash}{5e972a5c59b050bada37b0eb643723fb}
+      \strng{authorfullhash}{5e972a5c59b050bada37b0eb643723fb}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pursuing justice :traditional and contemporary issues in our communities and the world}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017645249703851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8b154c65a672b694b288d363ad2de6fd}{%
+           family={Youngs},
+           familyi={Y\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, United States of America}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8b154c65a672b694b288d363ad2de6fd}
+      \strng{fullhash}{8b154c65a672b694b288d363ad2de6fd}
+      \strng{bibnamehash}{8b154c65a672b694b288d363ad2de6fd}
+      \strng{authorbibnamehash}{8b154c65a672b694b288d363ad2de6fd}
+      \strng{authornamehash}{8b154c65a672b694b288d363ad2de6fd}
+      \strng{authorfullhash}{8b154c65a672b694b288d363ad2de6fd}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Civic activism unleashed :new hope or false dawn for democracy?}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{991017696440203851}{book}{}
+      \name{author}{1}{}{%
+        {{hash=020dec7d9be3a4e6f2634a755ab251bb}{%
+           family={Zehndorfer},
+           familyi={Z\bibinitperiod},
+           given={Elesa},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{020dec7d9be3a4e6f2634a755ab251bb}
+      \strng{fullhash}{020dec7d9be3a4e6f2634a755ab251bb}
+      \strng{bibnamehash}{020dec7d9be3a4e6f2634a755ab251bb}
+      \strng{authorbibnamehash}{020dec7d9be3a4e6f2634a755ab251bb}
+      \strng{authornamehash}{020dec7d9be3a4e6f2634a755ab251bb}
+      \strng{authorfullhash}{020dec7d9be3a4e6f2634a755ab251bb}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evolution, politics and charisma :why do populists win?}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
