@@ -62,6 +62,7 @@
 - https://miktex.org/howto/install-miktex
 - https://www.tug.org/texlive/quickinstall.html
 
+- links to installation instructions for MikTex and TexLive are above.  Note that because configuration of these various LaTeX utilities requires use of GUI Tools, I am not currently installing this on a server to which I only have command line accesss.  Note that if you want Tex Live to take precedence, you have to list it first in the environment path variable.   You can see which program is used to process LaTeX by just typing &quot;latex version&quot; in the command line
 - Note that if you want Tex Live to take precedence, you have to list it first in the environment path variable.   You can see which program is used to process LaTeX by just typing &quot;latex -version&quot; in the command line You also need to add the &quot;biblatex&quot; and &quot;biblatex-biber&quot; packages through the MikTex admin console.
 
 - Biber allows you more flexibilty with citations such as having both an author and translator or editors in the reference.  These directions are for MikTex but you could also manage this process using Tex Live.  Tufts Libraries want their citations in Chicago style, so you will also need to enable the
@@ -69,7 +70,7 @@
 
 - These directions are for Windows.
 
--
+
   - open the MikTex admin console as an Administrator
   - go to Packages and choose &quot;biblatex&quot;
   - click the &quot;-&quot; sign to install (or update)
@@ -81,7 +82,7 @@
   - In the Tasks menu, click Update package database
   - Wait for this to finish.  It may take a minute or so.  A message with the status appears at the bottom of packages list.
 
-- Installation instructions for MikTex and TexLive are below.  Note that because configuration of these various LaTeX utilities requires use of GUI Tools, I am not currently installing this on a server to which I only have command line accesss.  Note that if you want Tex Live to take precedence, you have to list it first in the environment path variable.   You can see which program is used to process LaTeX by just typing &quot;latex version&quot; in the command line
+- links to installation instructions for MikTex and TexLive are above.  Note that because configuration of these various LaTeX utilities requires use of GUI Tools, I am not currently installing this on a server to which I only have command line accesss.  Note that if you want Tex Live to take precedence, you have to list it first in the environment path variable.   You can see which program is used to process LaTeX by just typing &quot;latex version&quot; in the command line
 
 - need to install a few modules:
   - pip install pandas
