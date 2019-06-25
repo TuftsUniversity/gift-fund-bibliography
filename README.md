@@ -19,6 +19,8 @@
 - parseFunds.py takes this .txt file and a CSV exported from &quot;Titles Purchased with Gift Funds - MMS and Fund&quot; to parse out the gift funds
 - it uses Python LaTeX packages as well as a locally installed LaTeX processor which is calls from the command line to output .bib bibliographies as well as a PDF version that can be included in the donor letter.  These PDFs will be stored in the "Output/" directory under a folder for the fund code
 
+
+- links.py takes the &quot;Titles Purchased with Gift Funds - MMS and Fund&quot; mentioned above and &quot;Titles Purchased with Gift Funds - IEP&quot; to create a table of links that can be used on library websites
 **Input:**
 
 - a tilde delimited text file containing a list of titles and funds with the following fields, from an exported MARC file from Alma.  This tabular file is created with the XSLT file in this directory &quot;giftFunds.xsl&quot; that takes a MARC XML export from Alma&#39;s Export Bibliographic Records job that was created from a managed set created by the &quot;Titles Purchased with Gift Funds - for Export&quot; at [https://analytics-na01.alma.exlibrisgroup.com/analytics/saw.dll?Answers&amp;path=%2Fshared%2FTufts%20University%2FReports%2FCollections%2FGift%20Funds%2FTitles%20Purchased%20with%20Gift%20Funds%20-%20for%20Export](https://analytics-na01.alma.exlibrisgroup.com/analytics/saw.dll?Answers&amp;path=%2Fshared%2FTufts%20University%2FReports%2FCollections%2FGift%20Funds%2FTitles%20Purchased%20with%20Gift%20Funds%20-%20for%20Export)
