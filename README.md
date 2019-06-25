@@ -19,6 +19,11 @@
 **Input:**
 
 - a tilde delimited text file containing a list of titles and funds with the following fields, from an exported MARC file from Alma.  This tabular file is created with the XSLT file in this directory &quot;giftFunds.xsl&quot; that takes a MARC XML export from Alma&#39;s Export Bibliographic Records job that was created from a managed set created by the &quot;Titles Purchased with Gift Funds - for Export&quot; at [https://analytics-na01.alma.exlibrisgroup.com/analytics/saw.dll?Answers&amp;path=%2Fshared%2FTufts%20University%2FReports%2FCollections%2FGift%20Funds%2FTitles%20Purchased%20with%20Gift%20Funds%20-%20for%20Export](https://analytics-na01.alma.exlibrisgroup.com/analytics/saw.dll?Answers&amp;path=%2Fshared%2FTufts%20University%2FReports%2FCollections%2FGift%20Funds%2FTitles%20Purchased%20with%20Gift%20Funds%20-%20for%20Export)
+- These are the filters each report uses.  Note that every year you should change the Transacation Date between filter to the current fiscal year
+  - MMS Id is not equal to / is not in  -1
+  - AND	 Fund Ledger Code is equal to / is in  <semicolon-delimited list of fund codes you want bibliographies for>	
+  - AND Transaction Date  is between  07/01/2018 12:00:00 AM and 06/30/2019 12:00:00 AM
+before running this, make sure to 
 
 - Since fund data isn&#39;t reliably in bib records, this script also takes a Analytics fund report directly, from &quot;Titles Purchased with Gift Funds - MMS and Fund&quot; at [https://analytics-na01.alma.exlibrisgroup.com/analytics/saw.dll?Answers&amp;path=%2Fshared%2FTufts%20University%2FReports%2FCollections%2FGift%20Funds%2FTitles%20Purchased%20with%20Gift%20Funds%20-%20MMS%20and%20Fund](https://analytics-na01.alma.exlibrisgroup.com/analytics/saw.dll?Answers&amp;path=%2Fshared%2FTufts%20University%2FReports%2FCollections%2FGift%20Funds%2FTitles%20Purchased%20with%20Gift%20Funds%20-%20MMS%20and%20Fund)
 - These are the fields needed for each Analytics report
