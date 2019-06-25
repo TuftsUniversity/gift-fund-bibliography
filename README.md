@@ -1,6 +1,6 @@
-**Author:**									Henry Steele, Library Technology Services, Tufts University
+**Author:**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Henry Steele, Library Technology Services, Tufts University
 
-**Name of Program:**						Parse Funds
+**Name of Program:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parse Funds
 
 **Files:**									parseFunds.py, functions.py
 
