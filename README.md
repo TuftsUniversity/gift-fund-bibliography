@@ -66,7 +66,7 @@ before running this, make sure to
 **Dependences:**
 
 - You need to have a working LaTeX processor on your computer.  I used this process with both MikTex and TexLive.  Installation instructions for MikTex and TexLive are below.  Note that because configuration of these various LaTeX utilities requires use of GUI Tools, I am not currently installing this on a server to which I only have command line accesss.
-
+- install requirements with pip install -r requirements.txt
 **Installation links:**
 
 - https://miktex.org/howto/install-miktex
