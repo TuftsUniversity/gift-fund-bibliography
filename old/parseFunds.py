@@ -10,16 +10,15 @@
 ########    Date created:     2018-12
 ########
 ########    Purpose:
-########      - using parsed MARC exports from Alma and Analytics, create a bibliography
+########      - using parsed MARC exports from Alma and Analytics, create a make_bibliography
 ########        of titles purchased with a set of gift funds so libraries can send thank you
 ########        letters to donors
 ########
 ########    Method:
 ########      - input a table containing all titles in the set of funds needing letters
 ########      - parse these titles lists per fund to convert them to BibTex (LaTeX for bibliography)".bib" format
-########      - use Pybtex and a local system installation of Texworks latex processo
+########      - use Pybtex and a local system installation of Texworks latex processor, with ConTeXT,
 ########        create a latex file and output to PDF
-########      - Note this script is set to work with Python 2.7.x
 ########
 ########    Input:
 ########      - a tilde delimited text file containing a list of titles and funds with the following fields, from
@@ -113,7 +112,7 @@
 ########        by just typing "latex --version" in the command line
 ########
 ########      - need to install a few modules:
-########        + pip install
+########        + pip install pandas
 ########
 ########     Notes:
 ########       - DOS vs. Linux
@@ -230,7 +229,7 @@ gf= gf.replace('nan', '', regex=True)
 gf = gf.drop(gf[gf['Title'].str.isupper()].index)
 
 
-gf = gf.drop_duplicates(subset=['Title', 'Author'], keep='first')
+gf = gf.drop_duplicates(subset=['Title', 'Author Statement'], keep='first')
 
 
 
