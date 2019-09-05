@@ -1,0 +1,6 @@
+python-tk
+tkFileDialog
+django
+shutil
+ntpath
+pandas
