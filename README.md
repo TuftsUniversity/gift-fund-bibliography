@@ -51,6 +51,7 @@ before running this, make sure to
   - Name of second publisher (MARC 264|b)
   - Date of second publication (MARC 264|c)
   - Fund (MARC 981|a)
+  - open the file to take out the top two lines of the file.  Makre
 - &quot;Titles Purchased with Gift Funds - MMS and Fund&quot;
   - MMS ID (changed field name to &quot;MMS ID&quot; from &quot;MMS Id&quot;.  This is needed to match bib export)
   - Fund Ledger Name
@@ -84,8 +85,8 @@ before running this, make sure to
 
   - open the MikTex admin console as an Administrator
   - go to Packages and choose &quot;biblatex&quot;
-  - click the &quot;-&quot; sign to install (or update)
-  - in packages, find miktex-biber-bin-x64.  Press &quot;-&quot; to install and/or update
+  - click the &quot;+&quot; sign to install (or update)
+  - in packages, find miktex-biber-bin-x64.  Press &quot;+&quot; to install and/or update
   - in packages, find biblatex-chicago.  Press &quot;-&quot; to install and/or update
   - you must now update the changes in MikTex&#39;s database.
   - In the Tasks menu, click &quot;Refresh filename databases&quot;

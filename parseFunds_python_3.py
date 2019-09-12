@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 ######################################################################################################
 ######################################################################################################
 ######################################################################################################
@@ -19,7 +20,7 @@
 ########      - parse these titles lists per fund to convert them to BibTex (LaTeX for bibliography)".bib" format
 ########      - use Pybtex and a local system installation of Texworks latex processo
 ########        create a latex file and output to PDF
-########      - Note this script is set to work with Python 2.7.x
+########      - Note this script is set to work with Python 3.x
 ########
 ########    Input:
 ########      - a tilde delimited text file containing a list of titles and funds with the following fields, from
@@ -141,15 +142,17 @@ import json
 import os
 import csv
 import re
-from Tkinter import Tk
-from tkFileDialog import askopenfilename
-from django.utils.encoding import smart_str, smart_unicode
+from tkinter.filedialog import askopenfilename
+
+from django.utils.encoding import smart_bytes
 import subprocess
-import ntpath
+# import ntpath
 #for dataframes
 import pandas as pd
 import numpy as np
+import io
 import shutil as shu
+import ntpath
 
 
 import time
@@ -190,7 +193,7 @@ print("########     ")
 print("########     ")
 print("\n\n\n\n")
 
-exclusionFundsInput = raw_input("Enter the names of funds\nyou'd like to be excluded, separated by semicolons.\nOr press \"Enter\" to continue: ")
+exclusionFundsInput = input("Enter the names of funds\nyou'd like to be excluded, separated by semicolons.\nOr press \"Enter\" to continue: ")
 
 exclusionList = exclusionFundsInput.split(";")
 
@@ -210,16 +213,17 @@ marcDF = pd.read_csv(marcFilename, sep="~", encoding='utf-8')
 fundDF = pd.read_csv(giftFilename, encoding='utf-8')
 
 for col in marcDF.columns:
-    marcDF[col] = marcDF[col].apply(lambda x: smart_str(x))
+    marcDF[col] = marcDF[col].apply(lambda x: smart_bytes(x))
 
 for col in fundDF.columns:
-    fundDF[col] = fundDF[col].apply(lambda x: smart_str(x))
+    fundDF[col] = fundDF[col].apply(lambda x: smart_bytes(x))
 
 gf = pd.merge(marcDF, fundDF, on='MMS ID')
 
 
 
 for col in gf.columns:
+    gf[col] = gf[col].apply(lambda x: x.decode('utf-8'))
     gf[col] = gf[col].apply(lambda x: x.replace("&", "\&"))
 
 gf= gf.replace('nan', '', regex=True)
@@ -285,12 +289,12 @@ print(fundList)
 #######
 
 for fund in fundList:
-    pFundDir = pDir + "/" + fund
+    pFundDir = pDir + "/" + str(fund)
     if not os.path.isdir(pFundDir) or not os.path.exists(pFundDir):
            os.makedirs(pFundDir)
 
     texOutputFilename = pFundDir + "/output_file.tex"
-    texFundFilename = pFundDir + "/" + fund + ".tex"
+    texFundFilename = pFundDir + "/" + str(fund) + ".tex"
     shu.copyfile("./output_file.tex", pFundDir + "/output_file.tex")
 
     # raw_input("Press Enter to continue[copied tex]...")
@@ -303,9 +307,9 @@ for fund in fundList:
 
 
     #print("\n\n" + texFileString + "\n\n")
-    fundDotBib = fund + ".bib"
+    fundDotBib = str(fund) + ".bib"
     texFileString = texFileString.replace('output_file.bib', fundDotBib)
-    if fund == "gmanb":
+    if fund == "gman":
         print("Fund" + fund + "\n")
         print(fundDotBib + "\n")
         print(texFileString + "\n")
@@ -314,15 +318,15 @@ for fund in fundList:
     texfile.close()
 
     time.sleep(1)
-    texfileWrite = open(texFundFilename, "w+")
+    texfileWrite = io.open(texFundFilename, "w+", encoding='utf-8')
 
-    texfileWrite.write(smart_str(texFileString))
+    texfileWrite.write(texFileString)
 
     texfileWrite.close()
 
     # raw_input("\n\nPress Enter to continue...")
-    bibFilename = pFundDir + "/" + fund + ".bib"
-    outfile = open(bibFilename, "w+")
+    bibFilename = pFundDir + "/" + str(fund) + ".bib"
+    outfile = io.open(bibFilename, "w+", encoding='utf-8')
     # raw_input("Press Enter to continue[wrote empty bib]...")
 
     gfSegment = gf.loc[gf['Fund'] == fund]
@@ -347,22 +351,22 @@ for fund in fundList:
             authorRelator = gfSegment.iloc[x]['Author Relator']
             creator = parseCreator(author, authorRelator)
             #creator = parseCreator(author~ authorRelator)
-            creator2 = author + "~ " + authorRelator + "\n"
+            creator2 = str(author) + "~ " + str(authorRelator) + "\n"
         if gfSegment.iloc[x]['Second Author Name'] != "Empty":
             secondAuthor = gfSegment.iloc[x]['Second Author Name']
             secondAuthorRelator = gfSegment.iloc[x]['Second Author Relator']
             creator += parseCreator(secondAuthor, secondAuthorRelator)
-            creator2 = secondAuthor + "~ " + secondAuthorRelator + "\n"
+            creator2 = str(secondAuthor) + "~ " + str(secondAuthorRelator) + "\n"
         if gfSegment.iloc[x]['Corporate Author Name'] != "Empty":
             corporateAuthor = gfSegment.iloc[x]['Corporate Author Name']
             corporateAuthorRelator = gfSegment.iloc[x]['Corporate Author Relator']
             creator += parseCreator(corporateAuthor, corporateAuthorRelator)
-            creator2 = corporateAuthor + "~ " + corporateAuthorRelator + "\n"
+            creator2 = str(corporateAuthor) + "~ " + str(corporateAuthorRelator) + "\n"
         if gfSegment.iloc[x]['Second Corporate Author Name'] != "Empty":
             secondCorporateAuthor = gfSegment.iloc[x]['Second Corporate Author Name']
             secondCorporateAuthorRelator = gfSegment.iloc[x]['Second Corporate Author Relator']
             creator += parseCreator(secondCorporateAuthor, secondCorporateAuthorRelator)
-            creator2 = secondCorporateAuthor + "~ " + secondCorporateAuthorRelator + "\n"
+            creator2 = str(secondCorporateAuthor) + "~ " + str(secondCorporateAuthorRelator) + "\n"
 
 
         if re.search(r'(author.+?)(\r\n|\r|\n)\t+(author.+?)(\r\n|\r|\n)', creator):
@@ -383,12 +387,12 @@ for fund in fundList:
         #
 
         outfile.write("@BOOK{" + gfSegment.iloc[x]['MMS ID'] + ",\n")
-        outfile.write(smart_str(creator))
+        outfile.write(creator)
         title = gfSegment.iloc[x]['Title']
         if title[-2:] == " /":
             title = title[:-2]
         outfile.write("\ttitle = {" + title + "},\n")
-        outfile.write(smart_str(publicationInfo))
+        outfile.write(publicationInfo)
         #outfile.write(smart_str(creator2))
         outfile.write("}\n\n")
 
@@ -398,7 +402,7 @@ rootdir =pDir
 
 for subdir, dirs, files in os.walk(rootdir):
     for file in files:
-        print os.path.join(subdir, file)
+        print(os.path.join(subdir, file))
 
 dir = pDir
 faults = 0
@@ -407,7 +411,7 @@ for root, dirs, files in os.walk(pDir):
     print("Root: " + str(root) + "; Directory List: " + str(dirs) + "; Files: " + str(files) + "\n")
     for subdir in dirs:
         print("\n\n" + subdir + "\n\n")
-        files = os.walk(pDir + "/" + subdir).next()[2]
+        files = os.walk(pDir + "/" + subdir).__next__()[2]
         if (len(files) > 0):
             for file in files:
                 if ".tex" in file and "output" not in file:

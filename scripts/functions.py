@@ -4,10 +4,9 @@ import json
 import os
 import csv
 import re
-from Tkinter import Tk
-from tkFileDialog import askopenfilename
-from django.utils.encoding import smart_str, smart_unicode
-import ntpath
+from tkinter.filedialog import askopenfilename
+from django.utils.encoding import smart_bytes
+# import ntpath
 #for dataframes
 import pandas as pd
 import numpy as np
@@ -122,7 +121,7 @@ def parseCreator(c, cR):
                 cList[y] = cList[y][:-1]
 
             nullVariable = "+"
-            cList[y] = re.sub(r'([^,.]+?)[,.]\W(.+),?', r'\2 \1', cList[y])
+            cList[y] = re.sub(r'([^,.]+?)[,.]\W(.+),?', r'\2 \1', str(cList[y]))
             creator = cList[y]
             #if relatorFlag:
             if relatorFlag == True:
@@ -177,18 +176,18 @@ def parsePublication(a1, a2, a3, b1, b2, b3):
     if a2 != "":
         a2 = a2.split(";")
         a2String = str(a2[0])
-        a2String = re.sub(r',$', '', a2String)
+        a2String = re.sub(r',$', '', str(a2String))
         if a1 != "":
             a1 = a1.split(";")
             a1String = str(a1[0])
-            a1String = re.sub(r'\s+\:.*$', '', a1String)
+            a1String = re.sub(r'\s+\:.*$', '', str(a1String))
             address = "\taddress = {" + str(a1String) + "},\n"
             publisher = "\tpublisher = {" + str(a2String) + "},\n"
             if a3 != "":
                 a3 = a3.split(";")
                 a3String = str(a3[0])
-                a3String = re.sub(r'.*(\d{4}).*', r'\1', a3String)
-                a3String = re.sub(r'[\[\]]', '', a3String)
+                a3String = re.sub(r'.*(\d{4}).*', r'\1', str(a3String))
+                a3String = re.sub(r'[\[\]]', '', str(a3String))
                 year = "\tyear = {" + str(a3String) + "},\n"
 
     elif b2 != "":
