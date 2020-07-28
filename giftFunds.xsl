@@ -2,7 +2,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="text"/>
     <xsl:template match="collection">
-        <xsl:text>MMS ID~Author~Author Name~Author Relator~Second Author Name~Second Author Relator~Corporate Author Name~Corporate Author Relator~Second Corporate Author Name~Second Corporate Author Relator~Title~First Place of Publication~First Publisher~First Published Year~Second Place of Publication~Second Publisher~Second Published Year&#xa;</xsl:text>
+        <xsl:text>MMS Id~Author~Author Name~Author Relator~Second Author Name~Second Author Relator~Corporate Author Name~Corporate Author Relator~Second Corporate Author Name~Second Corporate Author Relator~Title~First Place of Publication~First Publisher~First Published Year~Second Place of Publication~Second Publisher~Second Published Year&#xa;</xsl:text>
         <xsl:for-each select="record">
             <xsl:choose>
                 <xsl:when test="controlfield[@tag = '001']">

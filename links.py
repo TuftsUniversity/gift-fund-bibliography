@@ -35,10 +35,10 @@ import numpy as np
 iep_filename = askopenfilename(title = "Select CSV containing Gift Fund records with MMS Id and IEP")
 gift_filename = askopenfilename(title = "Select CSV .csv file containing titles with gift funds data")
 
-iep_df = pd.read_csv(iep_filename, encoding='utf-8', dtype={'MMS ID': 'str', 'Item Id': 'str', 'IEP': 'str'})
-fund_df = pd.read_csv(gift_filename, encoding='utf-8', dtype={'MMS ID': 'str', 'Item Id': 'str', 'IEP': 'str'})
+iep_df = pd.read_csv(iep_filename, encoding='utf-8', dtype={'MMS Id': 'str', 'Item Id': 'str', 'IEP': 'str'})
+fund_df = pd.read_csv(gift_filename, encoding='utf-8', dtype={'MMS Id': 'str', 'Item Id': 'str', 'IEP': 'str'})
 
-df = pd.merge(iep_df, fund_df, on='MMS ID')
+df = pd.merge(iep_df, fund_df, on='MMS Id')
 
 oDir = "./Output"
 if not os.path.isdir(oDir) or not os.path.exists(oDir):

@@ -218,7 +218,7 @@ for col in marcDF.columns:
 for col in fundDF.columns:
     fundDF[col] = fundDF[col].apply(lambda x: smart_bytes(x))
 
-gf = pd.merge(marcDF, fundDF, on='MMS ID')
+gf = pd.merge(marcDF, fundDF, on='MMS Id')
 
 
 
@@ -309,7 +309,7 @@ for fund in fundList:
     #print("\n\n" + texFileString + "\n\n")
     fundDotBib = str(fund) + ".bib"
     texFileString = texFileString.replace('output_file.bib', fundDotBib)
-    if fund == "gman":
+    if fund == "gmanb":
         print("Fund" + fund + "\n")
         print(fundDotBib + "\n")
         print(texFileString + "\n")
@@ -386,7 +386,7 @@ for fund in fundList:
         # print("Title number " + str(x))
         #
 
-        outfile.write("@BOOK{" + gfSegment.iloc[x]['MMS ID'] + ",\n")
+        outfile.write("@BOOK{" + gfSegment.iloc[x]['MMS Id'] + ",\n")
         outfile.write(creator)
         title = gfSegment.iloc[x]['Title']
         if title[-2:] == " /":

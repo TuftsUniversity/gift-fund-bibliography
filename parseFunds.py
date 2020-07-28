@@ -215,7 +215,7 @@ for col in marcDF.columns:
 for col in fundDF.columns:
     fundDF[col] = fundDF[col].apply(lambda x: smart_str(x))
 
-gf = pd.merge(marcDF, fundDF, on='MMS ID')
+gf = pd.merge(marcDF, fundDF, on='MMS Id')
 
 
 
@@ -382,7 +382,7 @@ for fund in fundList:
         # print("Title number " + str(x))
         #
 
-        outfile.write("@BOOK{" + gfSegment.iloc[x]['MMS ID'] + ",\n")
+        outfile.write("@BOOK{" + gfSegment.iloc[x]['MMS Id'] + ",\n")
         outfile.write(smart_str(creator))
         title = gfSegment.iloc[x]['Title']
         if title[-2:] == " /":
