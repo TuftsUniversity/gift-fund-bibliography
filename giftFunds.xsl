@@ -97,6 +97,7 @@
                         select="normalize-space(datafield[@tag = '245']/subfield[@code = 'a'])"/>
                 </xsl:when>
             </xsl:choose>
+			<xsl:text>&#160;</xsl:text>
             <xsl:choose>
                 <xsl:when test="datafield[@tag = '245']/subfield[@code = 'b']">
                     <xsl:value-of
