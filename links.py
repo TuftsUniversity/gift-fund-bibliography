@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 ######################################################################################################
 ######################################################################################################
 ######################################################################################################
@@ -22,12 +23,11 @@ import json
 import os
 import csv
 import re
-from Tkinter import Tk
-from tkFileDialog import askopenfilename
-from django.utils.encoding import smart_str, smart_unicode
-import shutil as shu
-import subprocess
-import ntpath
+from tkinter.filedialog import askopenfilename
+# from django.utils.encoding import smart_str, smart_unicode
+# import shutil as shu
+# import subprocess
+# import ntpath
 #for dataframes
 import pandas as pd
 import numpy as np
