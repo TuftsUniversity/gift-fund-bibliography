@@ -14,6 +14,9 @@ import numpy as np
 
 import time
 
+######################################################################################################
+######################################################################################################
+#######     create lists of creators (either author, editor, or translators)
 def parseCreatorList(cList, relator):
     count = len(cList)
     x = 0
@@ -21,13 +24,6 @@ def parseCreatorList(cList, relator):
     while x < count and x < 3:
 
 
-
-        #print("Creator: " + cList[x] + "; counter: " + str(x) + "; Count: " + str(len(cList)) + "\n")
-
-        # try:
-        #
-
-        #print("Relator: " + relator + "\n")
         if "author" in relator:
             #print("In author loop\n")
             if x == 0 and count == 1:
@@ -40,7 +36,7 @@ def parseCreatorList(cList, relator):
             else:
                 creatorLine += " and " + cList[x] + "}"
         elif "editor" in relator:
-            #print("In editor loop\n")
+
             if x == 0 and count == 1:
                 creatorLine += "\teditor = {" + cList[x] + "}"
                 break
@@ -73,22 +69,15 @@ def parseCreatorList(cList, relator):
                 creatorLine += " and " + cList[x]
             else:
                 creatorLine += " and " + cList[x] + "}"
-        #if there's no relator
-        # except:
-        #     #print("In no relator loop\n")
-        #     if x == 0 and count == 1:
-        #         creatorLine += "\tauthor = {" + cList[x] + "}"
-        #         break
-        #     elif x == 0 and count > 1:
-        #         creatorLine += "\tauthor = {" + cList[x]
-        #     elif 0 < x < count - 1 and count < 3:
-        #         creatorLine += " and " + cList[x]
-        #     else:
-        #         creatorLine += " and " + cList[x] + "}"
+
         x += 1
 
     return creatorLine
-def parseCreator(c, cR):
+
+######################################################################################################
+######################################################################################################
+#######     parse strings into lists of incoming creators
+def parseCreator(c, cR, type, mms_id):
     creatorFlag = False
     relatorFlag = False
 
@@ -103,10 +92,6 @@ def parseCreator(c, cR):
     else:
         relatorFlag = False
 
-    if relatorFlag:
-        del cRList[-1]
-    if creatorFlag:
-        del cList[-1]
 
     authorList = []
     editorList = []
@@ -117,11 +102,8 @@ def parseCreator(c, cR):
         for creator in cList:
 
 
-            if cList[y][-1] == "," or cList[y][-1] == ".":
-                cList[y] = cList[y][:-1]
-
-            nullVariable = "+"
-            cList[y] = re.sub(r'([^,.]+?)[,.]\W(.+),?', r'\2 \1', str(cList[y]))
+            if type == "personal":
+                cList[y] = re.sub(r'([^,.]+?)[,.]\W(.+),?', r'\2 \1', str(cList[y]))
             creator = cList[y]
             #if relatorFlag:
             if relatorFlag == True:
@@ -140,8 +122,7 @@ def parseCreator(c, cR):
             #else:
                 #authorList.append(creator)
             y += 1
-        # this is because the semicolon follows every entry in the string/list, even
-        # the last one, so this deletes the last element in the list
+
 
 
 
@@ -165,8 +146,15 @@ def parseCreator(c, cR):
         returnCreator += editorLine  + ",\n"
     if translatorLine != "":
         returnCreator += translatorLine + ",\n"
+
+    if type == "corporate":
+        returnCreator = re.sub(r'([a-z]+\s+\=\s+)({.+?\})', r'\1{\2}', returnCreator)
+
     return returnCreator
 
+######################################################################################################
+######################################################################################################
+#######     parse strings into lists of incoming publication info
 def parsePublication(a1, a2, a3, b1, b2, b3):
     address = ""
     publisher = ""
@@ -176,7 +164,7 @@ def parsePublication(a1, a2, a3, b1, b2, b3):
     if a2 != "":
         a2 = a2.split(";")
         a2String = str(a2[0])
-        a2String = re.sub(r',$', '', str(a2String))
+        a2String = re.sub(r',$\[\]', '', str(a2String))
         if a1 != "":
             a1 = a1.split(";")
             a1String = str(a1[0])
@@ -188,12 +176,13 @@ def parsePublication(a1, a2, a3, b1, b2, b3):
                 a3String = str(a3[0])
                 a3String = re.sub(r'.*(\d{4}).*', r'\1', str(a3String))
                 a3String = re.sub(r'[\[\]]', '', str(a3String))
-                year = "\tyear = {" + str(a3String) + "},\n"
+                if re.match(r'^\d+$', a3String):
+                    year = "\tyear = {" + str(a3String) + "},\n"
 
     elif b2 != "":
         b2 = b2.split(";")
         b2String = str(b2[0])
-        b2String = re.sub(r'\s\:.*$', '', b2String)
+        b2String = re.sub(r'\s\:.*$\[\]', '', b2String)
         b2String = re.sub(r',$', '', b2String)
         if b1 != "":
             b1 = b1.split(";")
@@ -206,6 +195,12 @@ def parsePublication(a1, a2, a3, b1, b2, b3):
                 b3String = str(b3[0])
                 b3String = re.sub(r'.*(\d{4}).*', r"\1", b3String)
                 b3String = re.sub(r'[\[\]]', '', b3String)
-                year = "\tyear = {" + str(b3String) + "},\n"
 
-    return address + publisher + year
+                if re.match(r'^\d+$', b3String):
+                    year = "\tyear = {" + str(b3String) + "},\n"
+
+    return_publisher = address + publisher + year
+    return_publisher = return_publisher.replace(',,', ',')
+    return_publisher = return_publisher.replace('[', '')
+    return_publisher = return_publisher.replace(']', '')
+    return return_publisher
