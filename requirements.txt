@@ -1,3 +1,7 @@
 django<2
 pandas
 openpyxl
+tk
+numpy
+import docx
+citeproc-py
