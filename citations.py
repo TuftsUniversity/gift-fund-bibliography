@@ -95,7 +95,7 @@ import numpy as np
 
 
 # import exceptions
-import docx
+import docx_local as docx
 import time
 
 sys.path.append('scripts/')
@@ -332,11 +332,11 @@ for fund in fundList:
     from citeproc.py2compat import *
 
 
-    from citeproc.source.bibtex import BibTeX
+    from citeproc_local.source.bibtex import BibTeX
 
-    from citeproc import CitationStylesStyle, CitationStylesBibliography
-    from citeproc import formatter
-    from citeproc import Citation, CitationItem
+    from citeproc_local import CitationStylesStyle, CitationStylesBibliography
+    from citeproc_local import formatter
+    from citeproc_local import Citation, CitationItem
 
 
     print(bibFilename + "\n")

@@ -103,6 +103,7 @@ def parseCreator(c, cR, type, mms_id):
 
 
             if type == "personal":
+                cList[y] = re.sub(r'([^,]+,\s[^,]+),', r'\1', cList[y])
                 cList[y] = re.sub(r'([^,.]+?)[,.]\W(.+),?', r'\2 \1', str(cList[y]))
             creator = cList[y]
             #if relatorFlag:

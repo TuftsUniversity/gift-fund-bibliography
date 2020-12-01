@@ -17,11 +17,11 @@
 ########    Method:
 ########      - retrieve Analytics reports of MMS IDs and funds for gift funds for given library and year
 ########      - run Alma SRU query for each MMS ID
-########      - parse into output files for rest of processo
+########      - parse into output files for rest of processing
 ########      - input a table containing all titles in the set of funds needing letters
 ########      - parse these titles lists per fund to convert them to BibTex (LaTeX for bibliography)".bib" format
-########      - use Pybtex and a local system installation of Texworks latex processo
-########        create a latex file and output to PDF
+
+
 ########      - Note this script is set to work with Python 3.x
 ########
 ########    Input:
