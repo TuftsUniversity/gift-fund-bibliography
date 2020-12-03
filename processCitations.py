@@ -146,7 +146,8 @@ import csv
 import re
 import datetime
 import codecs
-from django.utils.encoding import python_2_unicode_compatible, smart_text
+from django.utils.encoding import python_2_unicode_compatible, smart_text, smart_bytes
+import io
 # from tkinter.filedialog import askopenfilename
 import pandas as pd
 import numpy as np
