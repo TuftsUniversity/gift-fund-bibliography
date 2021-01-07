@@ -1,7 +1,7 @@
 
 from __future__ import (absolute_import, division, print_function,
                         unicode_literals)
-from citeproc.py2compat import *
+from citeproc_local.py2compat import *
 
 # http://sourceforge.net/mailarchive/message.php?msg_id=25355232
 

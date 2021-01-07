@@ -676,7 +676,7 @@ for fund in fundList:
         x += 1
 
     outfile.close()
-    from citeproc.py2compat import *
+    from citeproc_local.py2compat import *
 
 
     from citeproc_local.source.bibtex import BibTeX

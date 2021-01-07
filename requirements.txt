@@ -3,5 +3,6 @@ pandas
 openpyxl
 tk
 numpy
-import docx
+python-docx
 citeproc-py
+builtins
