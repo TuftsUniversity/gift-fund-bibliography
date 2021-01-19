@@ -3,7 +3,13 @@ pandas
 openpyxl
 tk
 numpy
+<<<<<<< HEAD
 future
 lxml
 python-docx
 citeproc-py
+=======
+python-docx
+citeproc-py
+builtins
+>>>>>>> 27600b3917a768fc057d8cee57a41c2110f8c5fe

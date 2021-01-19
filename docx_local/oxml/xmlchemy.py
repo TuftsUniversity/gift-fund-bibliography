@@ -11,11 +11,19 @@ from lxml import etree
 
 import re
 
+<<<<<<< HEAD
 from docx_local.compat import Unicode
 from docx_local.oxml import OxmlElement
 from docx_local.oxml.exceptions import InvalidXmlError
 from docx_local.oxml.ns import NamespacePrefixedTag, nsmap, qn
 from docx_local.shared import lazyproperty
+=======
+from docx.compat import Unicode
+from docx.oxml import OxmlElement
+from docx.oxml.exceptions import InvalidXmlError
+from docx.oxml.ns import NamespacePrefixedTag, nsmap, qn
+from docx.shared import lazyproperty
+>>>>>>> 27600b3917a768fc057d8cee57a41c2110f8c5fe
 
 
 def serialize_for_reading(element):

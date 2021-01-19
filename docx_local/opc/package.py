@@ -4,6 +4,7 @@
 
 from __future__ import absolute_import, division, print_function, unicode_literals
 
+<<<<<<< HEAD
 from docx_local.opc.constants import RELATIONSHIP_TYPE as RT
 from docx_local.opc.packuri import PACKAGE_URI, PackURI
 from docx_local.opc.part import PartFactory
@@ -12,6 +13,16 @@ from docx_local.opc.pkgreader import PackageReader
 from docx_local.opc.pkgwriter import PackageWriter
 from docx_local.opc.rel import Relationships
 from docx_local.opc.shared import lazyproperty
+=======
+from docx.opc.constants import RELATIONSHIP_TYPE as RT
+from docx.opc.packuri import PACKAGE_URI, PackURI
+from docx.opc.part import PartFactory
+from docx.opc.parts.coreprops import CorePropertiesPart
+from docx.opc.pkgreader import PackageReader
+from docx.opc.pkgwriter import PackageWriter
+from docx.opc.rel import Relationships
+from docx.opc.shared import lazyproperty
+>>>>>>> 27600b3917a768fc057d8cee57a41c2110f8c5fe
 
 
 class OpcPackage(object):

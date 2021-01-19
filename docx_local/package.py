@@ -4,12 +4,21 @@
 
 from __future__ import absolute_import, division, print_function, unicode_literals
 
+<<<<<<< HEAD
 from docx_local.image.image import Image
 from docx_local.opc.constants import RELATIONSHIP_TYPE as RT
 from docx_local.opc.package import OpcPackage
 from docx_local.opc.packuri import PackURI
 from docx_local.parts.image import ImagePart
 from docx_local.shared import lazyproperty
+=======
+from docx.image.image import Image
+from docx.opc.constants import RELATIONSHIP_TYPE as RT
+from docx.opc.package import OpcPackage
+from docx.opc.packuri import PackURI
+from docx.parts.image import ImagePart
+from docx.shared import lazyproperty
+>>>>>>> 27600b3917a768fc057d8cee57a41c2110f8c5fe
 
 
 class Package(OpcPackage):

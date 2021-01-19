@@ -153,7 +153,11 @@ import pandas as pd
 import numpy as np
 import xml.etree.ElementTree as et
 
+<<<<<<< HEAD
 import docx
+=======
+import docx_local as docx
+>>>>>>> 27600b3917a768fc057d8cee57a41c2110f8c5fe
 import time
 
 sys.path.append('scripts/')
