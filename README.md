@@ -6,6 +6,8 @@
 **Purpose:**
   - To create a series of word documents that contain bibliographies of all the Titles
 	purchased in a given fiscal year for a given library (Tisch or Ginn)
+  - This github repo is in the Tufts University github.com organization at https://github.com/TuftsUniversity/gift-fund-bibliography 
+  
 
 **Command:** 
   - install requirements (first time)
