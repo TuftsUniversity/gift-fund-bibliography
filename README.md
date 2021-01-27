@@ -47,27 +47,30 @@
 	  + Place of second publication (MARC 264|a)
 	  + Name of second publisher (MARC 264|b)
 	  + Date of second publication (MARC 264|c)
-  - turns this data into a ".bib" BibTex file
-  - uses locally included citeproc.py module to create bibliography, and local docx module to write to Word
-  - These have to be locally included because I had to change some of the internals of these pacakges to handle UTF-8 encoding
+  - turns this data into a ".bib" BibTex-style file
+  - uses locally python-citeproc "pseudo LaTex" to create bibliography, and docx module to write these to Word
+
 
 **Dependences:**
   - in "requirements.txt"
-	 - tkinter.filedialog import askopenfilename
-	 - from django.utils.encoding import smart_bytes
-	 - import pandas as pd
-	 - import numpy as np
-	 - import docx
-	 - import xml.etree.ElementTree as et
-	 - various citeproc-py methods
+      + django<2
+	  + pandas
+	  + openpyxl
+	  + tk
+	  + numpy
+	  + future
+	  + lxml
+	  + python-docx
+	  + citeproc-py
+
 
 **Output:**
-  - "/Processing" directory contains intermediate ".bib" file, which is in BibTex that citeproc
-  - "/Output" directory contains final Word .docx file
+  - "/Processing/*" directory contains intermediate ".bib" file, which is in BibTex that citeproc
+  - "/Output/*" directory contains final Word .docx file
   
 **Troubleshooting:**
   - The most likely errors you will encounter will be with encoding.  
 	The script translates everythign into UTF-8 so foreign characters shouldn't be a problem,
 	but if you do run into issues you may want to exempt the individual bib record from input files_to_ignore
-	(in \/Processing), commend out the part of the code all the way up to where they are created, and rerun.
+	(in \/Processing), comment out the part of the code all the way up to where they are created, and rerun.
 	Or fix the records and wait a day for a new Analtics report
