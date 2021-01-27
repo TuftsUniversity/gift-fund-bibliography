@@ -70,9 +70,3 @@
   - "/Processing/*" directory contains intermediate ".bib" file, which is in BibTex that citeproc
   - "/Output/*" directory contains final Word .docx file
   
-**Troubleshooting:**
-  - The most likely errors you will encounter will be with encoding.  
-	The script translates everythign into UTF-8 so foreign characters shouldn't be a problem,
-	but if you do run into issues you may want to exempt the individual bib record from input files_to_ignore
-	(in \/Processing), comment out the part of the code all the way up to where they are created, and rerun.
-	Or fix the records and wait a day for a new Analtics report
